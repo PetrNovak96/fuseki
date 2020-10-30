@@ -1,0 +1,3 @@
+```bash
+./fuseki-server --update
+```

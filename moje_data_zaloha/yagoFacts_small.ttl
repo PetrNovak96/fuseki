@@ -1,0 +1,4000 @@
+
+@base <http://yago-knowledge.org/resource/> .
+@prefix dbp: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<yagoTheme_yagoFacts>	<hasGloss>	"This file is part of the ontology YAGO3. It is licensed under a Creative-Commons Attribution License by the YAGO team at the Max Planck Institute for Informatics/Germany. See http://yago-knowledge.org for all details. This file was generated on 2017-06-19 T 08:01:29.0836. All facts of YAGO that hold between instances CORE" .
+#@ <id_rB6isMnplh_H?S_LT?Qo1Fzc!>
+<Jesús_Rivera_Sánchez>	<isLeaderOf>	<Pueblo_of_Naranjito> .
+#@ <id_BOK!FvTDPu_H?S_1NVSTKkFbS>
+<Elizabeth_II>	<isLeaderOf>	<Royal_Numismatic_Society> .
+#@ <id_Uy5EwU3nX1_H?S_otuJrkvKs1>
+<Richard_Stallman>	<isLeaderOf>	<Free_Software_Foundation> .
+#@ <id_A?rIHtKpyX_H?S_Ap3TBzfE6b>
+<Keith_Peterson>	<isLeaderOf>	<Cambridge_Bay> .
+#@ <id_vzhzgmCR5Y_H?S_9xW07qYiaH>
+<William_H._Seward_Jr.>	<isLeaderOf>	<9th_New_York_Heavy_Artillery_Regiment> .
+#@ <id_GqUh9jFAN?_H?S_A39fu5FWu4>
+<Andranik>	<isLeaderOf>	<Armenian_fedayi> .
+#@ <id_s60Psk1DHb_H?S_OACCn8W8Kv>
+<Ramasamy_Palanisamy>	<isLeaderOf>	<Democratic_Action_Party_(Malaysia)> .
+#@ <id_pII60Mnz8o_H?S_8mvRWxKXDG>
+<Matt_Bevin>	<isLeaderOf>	<Kentucky_Air_National_Guard> .
+#@ <id_losV58WRWE_H?S_KxmZk2LtbV>
+<Leonard_Leo>	<isLeaderOf>	<Federalist_Society> .
+#@ <id_b2c!d9tP5s_H?S_G1fqe41nrx>
+<James_Vincent_Cleary>	<isLeaderOf>	<Bennington,_New_Hampshire> .
+#@ <id_SuFKiU!7li_H?S_Lade3HulqA>
+<Amjad_Bashir>	<isLeaderOf>	<Khushab_District> .
+#@ <id_OX7FOTxk6P_H?S_y152hryx2g>
+<Tushar_Amarsinh_Chaudhary>	<isLeaderOf>	<Mota,_Gujarat> .
+#@ <id_xHENPT1B2!_H?S_JsYRSbIcWj>
+<Yiannis_Boutaris>	<isLeaderOf>	<Thessaloniki> .
+#@ <id_NmF7gAStes_H?S_0TrEweplv0>
+<Margaret_Chew_Barringer>	<isLeaderOf>	<American_INSIGHT> .
+#@ <id_TNRSN0E1Z8_H?S_HjSmLs367J>
+<Oscar_Braynon>	<isLeaderOf>	<Allapattah> .
+#@ <id_Fx6ys5YRe3_H?S_Tc3map2j5U>
+<Margrethe_II_of_Denmark>	<isLeaderOf>	<Greenland> .
+#@ <id_WDh6qsx6dr_H?S_q7a5EewABg>
+<Fernando_Álvarez_de_Toledo,_3rd_Duke_of_Alba>	<isLeaderOf>	<Army_of_Flanders> .
+#@ <id_HMzvj0NINA_H?S_JwlGWzTBp2>
+<Om_Birla>	<isLeaderOf>	<Kota,_Rajasthan> .
+#@ <id_jbwYxBY!bD_H?S_sp28O61YGZ>
+<Shamsuzzaman_Khan>	<isLeaderOf>	<Bangla_Academy> .
+#@ <id_EzbN7xBPSg_H?S_703U4ZKguH>
+<Perry_Trimper>	<isLeaderOf>	<North_West_River> .
+#@ <id_jN7twRpM33_H?S_vIspiVpIgv>
+<Keiji_Kokuta>	<isLeaderOf>	<Japanese_Communist_Party> .
+#@ <id_0HgBl?675W_H?S_pLLQrgDc1L>
+<Linda_Miller_(politician)>	<isLeaderOf>	<Bettendorf,_Iowa> .
+#@ <id_SrjdnkgEYy_H?S_VSBquXYD!O>
+<Jean_Cloutier>	<isLeaderOf>	<Alta_Vista,_Ottawa> .
+#@ <id_p2b801C!Vk_H?S_1zfFZrll6c>
+<Oriol_Junqueras>	<isLeaderOf>	<Sant_Vicenç_dels_Horts> .
+#@ <id_euHcHsBnSO_H?S_ZhdupNViH6>
+<Morton_Blackwell>	<isLeaderOf>	<Leadership_Institute> .
+#@ <id_VYvB0N2Pvn_H?S_S5SRoWB9T9>
+<Spencer_Chandra_Herbert>	<isLeaderOf>	<Vancouver> .
+#@ <id_t1yH1H6CUu_H?S_NccseKYCPy>
+<Leander_Starr_Jameson>	<isLeaderOf>	<Unionist_Party_(South_Africa)> .
+#@ <id_v6F1wSYKLP_H?S_senVIQSkhG>
+<Adriana_Fuentes_Cortés>	<isLeaderOf>	<Querétaro> .
+#@ <id_ZSwype0HMN_H?S_l5?PFCDvoP>
+<Michel_Noël>	<isLeaderOf>	<Durham-Sud> .
+#@ <id_ofzFjXMkR8_H?S_2pK74b8P2e>
+<Christian_Homburg>	<isLeaderOf>	<Institute_for_Market-oriented_Management> .
+#@ <id_yyWaRMh131_H?S_TFDfCjJQxQ>
+<Margaret_Bazley>	<isLeaderOf>	<Canterbury,_New_Zealand> .
+#@ <id_DWPJifgmiM_H?S_b3DA!dqzPp>
+<Alexander_Papagos>	<isLeaderOf>	<Greek_Rally> .
+#@ <id_FeTlZaV3b9_H?S_bx2L3UzfRy>
+<Mohand_Laenser>	<isLeaderOf>	<Popular_Movement_(Morocco)> .
+#@ <id_vr3JMC5VdO_H?S_EE65CJXCaM>
+<Marc_Serré>	<isLeaderOf>	<Parry_Sound_District> .
+#@ <id_58ejk8Cgj7_H?S_ijB9R!v7kW>
+<Ed_Levine>	<isLeaderOf>	<International_Boxing_Organization> .
+#@ <id_lgbZpuvuyE_H?S_M0EIF2O?0v>
+<Juha_Sipilä>	<isLeaderOf>	<Centre_Party_(Finland)> .
+#@ <id_sTNtUOU8kZ_H?S_xeCGsXBO5A>
+<James_Chiswell>	<isLeaderOf>	<United_Kingdom_Special_Forces> .
+#@ <id_ztt53J1gUP_H?S_ahAEKmiG0s>
+<Ben_Lear>	<isLeaderOf>	<Central_Defense_Command> .
+#@ <id_!atjiXzIsf_H?S_nIsS37Pi3N>
+<Frank_Dermody>	<isLeaderOf>	<Pennsylvania_Democratic_Party> .
+#@ <id_jyhZnw7Dyh_H?S_h3MAUM5kVT>
+<Nathan_Deal>	<isLeaderOf>	<Georgia_Air_National_Guard> .
+#@ <id_B5EYHiAj45_H?S_j?QPdceMon>
+<Pratyusha_Rajeshwari_Singh>	<isLeaderOf>	<Kandhamal_district> .
+#@ <id_Go!6b2FSrV_H?S_XO9ERrngyb>
+<Paul_Wynnyk>	<isLeaderOf>	<Canadian_Army> .
+#@ <id_kpUkziAtpL_H?S_yXKxJnIBM5>
+<Winston_Field>	<isLeaderOf>	<Rhodesian_Front> .
+#@ <id_XiFfSKZ5xM_H?S_aNwilAzjtB>
+<Dileep_K_Nair>	<isLeaderOf>	<The_Automobile_Society_India> .
+#@ <id_uflwT?7JCn_H?S_mW4!8XOvta>
+<Miguel_Cabrera>	<isLeaderOf>	<Carey,_Ohio> .
+#@ <id_1DGDb83CZJ_H?S_OVJRAm9I5C>
+<Kimberly_A._Lightford>	<isLeaderOf>	<Illinois_Legislative_Black_Caucus> .
+#@ <id_fUbW7L05dh_H?S_1qEgpRrs0J>
+<José_Manuel_de_la_Sota>	<isLeaderOf>	<United_for_a_New_Alternative> .
+#@ <id_Fx6ys5YRe3_H?S_hqY?qzoLK!>
+<Margrethe_II_of_Denmark>	<isLeaderOf>	<Denmark> .
+#@ <id_pfy3vGxcgg_H?S_nVQtmO?EoM>
+<Nawzad_Hadi_Mawlood>	<isLeaderOf>	<Erbil> .
+#@ <id_COUC02CSQ5_H?S_w1Lm23!hZj>
+<Stephen_Hillier>	<isLeaderOf>	<Royal_Air_Force_Football_Association> .
+#@ <id_DiI5tQlENH_H?S_HeoCcdMPE4>
+<David_Kaiser>	<isLeaderOf>	<Romulus,_New_York> .
+#@ <id_9dHmy55fo!_H?S_rIV2MM7WPi>
+<Adriano_Bernardini>	<isLeaderOf>	<Catholic_Church_in_Italy> .
+#@ <id_QUVOGfx2bm_H?S_IWGSL8OEBh>
+<Kenneth_E._Tovo>	<isLeaderOf>	<United_States_Army_Special_Operations_Command> .
+#@ <id_a3cJc0?1So_H?S_Hwvro1f?7H>
+<Ana_Álvarez>	<isLeaderOf>	<Oakland_Park,_Florida> .
+#@ <id_B5xbUI2c1b_H?S_52a!1cjq9t>
+<Bhaskar_Chakravorti>	<isLeaderOf>	<Institute_for_Business_in_the_Global_Context> .
+#@ <id_ag2fiAN4h3_H?S_KtgvZJhgoz>
+<Michel_Temer>	<isLeaderOf>	<Brazilian_Army> .
+#@ <id_0GHY2MyFAY_H?S_RvsK6jkhad>
+<Alfredo_Covelli>	<isLeaderOf>	<Italian_Democratic_Party_of_Monarchist_Unity> .
+#@ <id_AXvI36jeHi_H?S_PsVjDV1DMX>
+<Ricardo_Galvão>	<isLeaderOf>	<National_Institute_for_Space_Research> .
+#@ <id_e!GoxIBC3B_H?S_9MNnuZ!Dwb>
+<Whitney_Rawlings>	<isLeaderOf>	<McComb,_Mississippi> .
+#@ <id_eEmFN8FPxD_H?S_Ak!ZG?Zx5o>
+<Catherine_Fife>	<isLeaderOf>	<Waterloo,_Ontario> .
+#@ <id_gzxzueNop9_H?S_QcPplPTJWh>
+<Click_Bishop>	<isLeaderOf>	<Gulkana,_Alaska> .
+#@ <id_hPjnZsEer9_H?S_Y2Ks!qXI?q>
+<Thakur_Mool_Chand_Chauhan>	<isLeaderOf>	<Uttar_Pradesh_Tourism> .
+#@ <id_n83CGJi5i?_H?S_sEzLubEvt7>
+<Dave_Cull>	<isLeaderOf>	<Dunedin> .
+#@ <id_xCpFjJVyiC_H?S_pURzsIaLHO>
+<Glorioso_Miranda>	<isLeaderOf>	<Philippine_Army> .
+#@ <id_oSRSyr!MX2_H?S_Z3MrqQ4bkc>
+<Wali-ur-Rehman>	<isLeaderOf>	<Eidak> .
+#@ <id_rbF5yz4JFV_H?S_WRuHTJIzBj>
+<Steven_W._Mosher>	<isLeaderOf>	<Population_Research_Institute> .
+#@ <id_jYA5?R9xxj_H?S_51xNcxQED5>
+<Larcenia_Bullard>	<isLeaderOf>	<Miami_Design_District> .
+#@ <id_Q7xRuv3Uiy_H?S_!5IrxEbYmJ>
+<Mufutau_Adesanya_Kasali>	<isLeaderOf>	<Itele> .
+#@ <id_YdaBUV0Q?Y_H?S_0Osjqq7KXY>
+<Viktor_Fainberg>	<isLeaderOf>	<Campaign_Against_Psychiatric_Abuse> .
+#@ <id_dg?yH7IJcr_H?S_LSyMXucIcZ>
+<Rodrigo_Pérez-Alonso_González>	<isLeaderOf>	<Nuevo_León> .
+#@ <id_HK8rOmEMXh_H?S_wu?09eNkK4>
+<George_Darouze>	<isLeaderOf>	<Osgoode_Ward> .
+#@ <id_wkamQfSS9K_H?S_qx24!?cWew>
+<Das_Williams>	<isLeaderOf>	<Meiners_Oaks,_California> .
+#@ <id_fmhUyQliOw_H?S_Jdd3mZCe?2>
+<William_Legge,_10th_Earl_of_Dartmouth>	<isLeaderOf>	<UK_Independence_Party> .
+#@ <id_K6IqodKgWm_H?S_NwEmNSPyMp>
+<Mohamoud_Ali_Shire>	<isLeaderOf>	<Durduri_District> .
+#@ <id_vzZP23FKqm_H?S_cvd7V7Rexd>
+<Norayr_Sargsyan>	<isLeaderOf>	<Yeghvard> .
+#@ <id_HGd?!BLOLr_H?S_qJ8v1nZurn>
+<Ben_Henderson_(politician)>	<isLeaderOf>	<McKernan,_Edmonton> .
+#@ <id_bkMqBx8bBD_H?S_zSAUEm8hLT>
+<Emomali_Rahmon>	<isLeaderOf>	<Military_of_Tajikistan> .
+#@ <id_JOVJxo0NEd_H?S_eltlFSwHUU>
+<Francisco_Becerra_Posada>	<isLeaderOf>	<Pan_American_Health_Organization> .
+#@ <id_PqaBcQ5meN_H?S_Fl2068t5ec>
+<Fernando_Romeo_Lucas_García>	<isLeaderOf>	<National_Liberation_Movement_(Guatemala)> .
+#@ <id_xCgRctRx?X_H?S_xgYtszkijQ>
+<Andrés_Bonifacio>	<isLeaderOf>	<Tracey_Emin> .
+#@ <id_d3wiAtn0n7_H?S_zdF56MRN3s>
+<Constantin_Argetoianu>	<isLeaderOf>	<National_Renaissance_Front> .
+#@ <id_DhdHhXBJ1A_H?S_!OkKU61asa>
+<Berta_Gardner>	<isLeaderOf>	<Anchorage,_Alaska> .
+#@ <id_cYsEDt3qJV_H?S_azKF19Hq5V>
+<Heber_Jentzsch>	<isLeaderOf>	<Church_of_Scientology_International> .
+#@ <id_guMfZ3y5B!_H?S_AAFys50mMZ>
+<Brian_Lamb>	<isLeaderOf>	<C-SPAN> .
+#@ <id_0jI2uvyTQ0_H?S_eyxYq5yfR9>
+<Mark_Meckler>	<isLeaderOf>	<Tea_Party_Patriots> .
+#@ <id_79RsiXr9dQ_H?S_ofXGf3wFC?>
+<Lorenzo_Berardinetti>	<isLeaderOf>	<Birch_Cliff> .
+#@ <id_mmRYWMhOrs_H?S_oxRYAtKOW2>
+<Pete_Buttigieg>	<isLeaderOf>	<South_Bend,_Indiana> .
+#@ <id_OU1W2tzel6_H?S_pDVRDTs5aK>
+<Noel_Grealish>	<isLeaderOf>	<Progressive_Democrats> .
+#@ <id_jSLMywWs5p_H?S_XciJyo3Tkx>
+<Yves_Krattinger>	<isLeaderOf>	<Haute-Saône> .
+#@ <id_4lsqskLE1B_H?S_J1qrBmGTjw>
+<Randy_Winkler>	<isLeaderOf>	<Rifle,_Colorado> .
+#@ <id_QII3FcDTsf_H?S_nbQlsY4O3u>
+<Reza_Moridi>	<isLeaderOf>	<Richmond_Hill,_Ontario> .
+#@ <id_ASoR6lwIhz_H?S_s7xFKZDMDW>
+<Denis_Verdini>	<isLeaderOf>	<The_People_of_Freedom> .
+#@ <id_HUrExzqtLP_H?S_O6T!j3pfDw>
+<Matthias_Corvinus>	<isLeaderOf>	<Black_Army_of_Hungary> .
+#@ <id_57atG!oQCp_H?S_oCw4wxWTYo>
+<Siripala_Gamalath>	<isLeaderOf>	<Polonnaruwa_District> .
+#@ <id_np2CIs6Jid_H?S_?B8dcyvE2U>
+<Qasem_Soleimani>	<isLeaderOf>	<Quds_Force> .
+#@ <id_sXJNpnjpUV_H?S_aowA5cmwsV>
+<Don_Rusnak>	<isLeaderOf>	<Thunder_Bay_District> .
+#@ <id_dx?N1gOq5o_H?S_9gNHr1viSJ>
+<Kathryn_Barger>	<isLeaderOf>	<Los_Angeles_County,_California> .
+#@ <id_TfT4Vv7uiu_H?S_Cnitz0Lrzr>
+<Alfredo_Rocco>	<isLeaderOf>	<Italian_Nationalist_Association> .
+#@ <id_vLzaJMs?b5_H?S_GsnnmTgJr5>
+<August_Willich>	<isLeaderOf>	<32nd_Indiana_Infantry_Regiment> .
+#@ <id_dQWEu4BvU5_H?S_d!sne3o9rK>
+<Arthur_Potts_(politician)>	<isLeaderOf>	<Upper_Beaches> .
+#@ <id_3KR3X?!4Cs_H?S_ZUveUyQlHM>
+<Richard_Lee_(Canadian_politician)>	<isLeaderOf>	<Greater_Vancouver> .
+#@ <id_hDFSgqYhZU_H?S_Mx5oYfFvNh>
+<Carl_Gustaf_Armfeldt>	<isLeaderOf>	<Military_of_the_Swedish_Empire> .
+#@ <id_kfgniSJGmt_H?S_CscS3zvFFl>
+<Brianne_Nadeau>	<isLeaderOf>	<Washington,_D.C.> .
+#@ <id_MrfwGkTsoJ_H?S_e3Vqos?fBu>
+<Mohammad_bin_Salman_Al_Saud>	<isLeaderOf>	<Royal_Saudi_Strategic_Missile_Force> .
+#@ <id_inFmdmLMJP_H?S_yV?6wnXZcw>
+<Jim_Desmond>	<isLeaderOf>	<San_Marcos,_California> .
+#@ <id_u1vQ8eecq0_H?S_5Ki4gaS7JI>
+<Raúl_Castro>	<isLeaderOf>	<Cuba> .
+#@ <id_XoJlydVf0o_H?S_uMn?xtCUfN>
+<Willem-Alexander_of_the_Netherlands>	<isLeaderOf>	<Aruba> .
+#@ <id_nTZav6PEs8_H?S_aHmfp9FwlZ>
+<Mike_O'Brien_(Canadian_politician)>	<isLeaderOf>	<Fredericton> .
+#@ <id_P1ixKkdIPj_H?S_Nlzn5KrcsQ>
+<Bert_Stedman>	<isLeaderOf>	<Hyder,_Alaska> .
+#@ <id_rjLjTPt3YQ_H?S_eGzUedRK6k>
+<Michel_Duval>	<isLeaderOf>	<Latulipe-et-Gaboury,_Quebec> .
+#@ <id_UMXezSm8YS_H?S_cqid0Y!i07>
+<Ang_Wei_Neng>	<isLeaderOf>	<Jurong_East> .
+#@ <id_IQZHGAFDYW_H?S_!Gw4qS?lYz>
+<Tracy_MacCharles>	<isLeaderOf>	<West_Rouge> .
+#@ <id_vPF2NANRqd_H?S_x?67BoXGDP>
+<Don_Iveson>	<isLeaderOf>	<Kaskitayo,_Edmonton> .
+#@ <id_dAeUUeuOqH_H?S_kUAemRM2jn>
+<Richard_H._Anderson>	<isLeaderOf>	<Third_Corps,_Army_of_Northern_Virginia> .
+#@ <id_JQi2OinMGr_H?S_56Fq1nOj47>
+<Torbjørn_Røe_Isaksen>	<isLeaderOf>	<Sogn_Studentby> .
+#@ <id_RlQus7EFeM_H?S_at2X2TOqUT>
+<Vladimir_Margaryan>	<isLeaderOf>	<Sevkar> .
+#@ <id_EfLy5eM0sC_H?S_4yBCEM!RzH>
+<Reggie_Fullwood>	<isLeaderOf>	<Southbank_(Jacksonville)> .
+#@ <id_N6hBQUj1e1_H?S_mqCb7NowLe>
+<Ellen_Tauscher>	<isLeaderOf>	<Alliance_of_Democrats> .
+#@ <id_2YrBmUZR6R_H?S_TUrSqWgjfr>
+<Nik_Powell>	<isLeaderOf>	<European_Film_Academy> .
+#@ <id_mlUJkGL5Rj_H?S_bBPrc6ProA>
+<Stephanie_Schriock>	<isLeaderOf>	<EMILY's_List> .
+#@ <id_ijklhPz0YZ_H?S_R0Hv!asOFY>
+<Ruffy_Biazon>	<isLeaderOf>	<Muntinlupa> .
+#@ <id_oEokLx!TPM_H?S_bTe0pFyQyE>
+<Muhammad_Baqir_al-Sadr>	<isLeaderOf>	<Islamic_Dawa_Party> .
+#@ <id_1KLqBPz?La_H?S_28a9BoOV9z>
+<Chris_Evans_(British_politician)>	<isLeaderOf>	<Caerphilly_County_Borough> .
+#@ <id_7Zs05VhxVS_H?S_satAJ9dRT8>
+<Lee_Richardson_(politician)>	<isLeaderOf>	<Division_No._6,_Alberta> .
+#@ <id_beaKnBhUOG_H?S_tvu!JA97RT>
+<Dejan_Kovačević>	<isLeaderOf>	<Gornji_Milanovac> .
+#@ <id_NqtLMWRPzb_H?S_!OkKU61asa>
+<Les_Gara>	<isLeaderOf>	<Anchorage,_Alaska> .
+#@ <id_TUcLR4MkjU_H?S_X3341nV8By>
+<Michael_Lulume_Bayigga>	<isLeaderOf>	<Buikwe> .
+#@ <id_3rWeNrdyCZ_H?S_BvzJWCYS79>
+<Muhammad_Iqbal>	<isLeaderOf>	<All-India_Muslim_League> .
+#@ <id_LHLJjJMaEn_H?S_5dMVXCcUAh>
+<Alexander_E._Steen>	<isLeaderOf>	<10th_Missouri_Infantry_Regiment_(Confederate)> .
+#@ <id_kbXo5z7hpL_H?S_58YmgkASxI>
+<Jati_Sidhu>	<isLeaderOf>	<Abbotsford,_British_Columbia> .
+#@ <id_bS8FIZXISn_H?S_WDIPZ8hnk0>
+<David_Anderson_(British_politician)>	<isLeaderOf>	<Metropolitan_Borough_of_Gateshead> .
+#@ <id_bTJa5H7mbi_H?S_4TC90HJpbv>
+<Yakubu_Dogara>	<isLeaderOf>	<Nigeria> .
+#@ <id_K2FHAULxmA_H?S_waGyAqdm?N>
+<Amit_Ghoda>	<isLeaderOf>	<Palghar> .
+#@ <id_uJ4cGLf1N!_H?S_yJSbuuBmQQ>
+<Achille_Lauro>	<isLeaderOf>	<People's_Monarchist_Party_(Italy)> .
+#@ <id_XGZSKxGZYj_H?S_kybuPDgn1z>
+<Larry_Maguire>	<isLeaderOf>	<Bradwardine,_Manitoba> .
+#@ <id_LUPhvYicyR_H?S_6tJqRuaXsk>
+<Mike_Navarre>	<isLeaderOf>	<Salamatof,_Alaska> .
+#@ <id_x8djjUu!bX_H?S_REvDF5PYYT>
+<Kelly_Block>	<isLeaderOf>	<Outlook,_Saskatchewan> .
+#@ <id_gyTG1C0!wx_H?S_CpP51FslT2>
+<James_Ajonga_Mawut>	<isLeaderOf>	<Sudan_People's_Liberation_Army> .
+#@ <id_8zkPwokym9_H?S_4xiFGvHV5e>
+<Matthew_Parr_(Royal_Navy_officer)>	<isLeaderOf>	<6th_Frigate_Squadron_(United_Kingdom)> .
+#@ <id_xVD3146Niz_H?S_QaKtSKd3XN>
+<Anne,_Princess_Royal>	<isLeaderOf>	<Royal_Scottish_Geographical_Society> .
+#@ <id_qGlYA5NGNp_H?S_okmHhGwBX2>
+<Trond_Helleland>	<isLeaderOf>	<Conservative_Party_(Norway)> .
+#@ <id_fRGpvD9Hoj_H?S_S92iOAS1um>
+<Karin_Wanngård>	<isLeaderOf>	<Stockholm_Municipality> .
+#@ <id_ePJG8cta!B_H?S_XZ8i3exiKN>
+<Sergey_Shoygu>	<isLeaderOf>	<Unity_(Russian_political_party)> .
+#@ <id_5ORWT9B5TG_H?S_DQh5GuMLI8>
+<Michael_McLeod_(politician)>	<isLeaderOf>	<Tuktoyaktuk> .
+#@ <id_TgRmBprOEy_H?S_XK4vubqK7y>
+<Wayne_Elhard>	<isLeaderOf>	<Maple_Creek,_Saskatchewan> .
+#@ <id_YAdaMsny?B_H?S_QmTG1k?MLJ>
+<Oluwarotimi_Odunayo_Akeredolu>	<isLeaderOf>	<Ondo_State> .
+#@ <id_Z1AUPIYT4n_H?S_zFgr0VjvsY>
+<Candice_Bergen_(politician)>	<isLeaderOf>	<Rosebank,_Manitoba> .
+#@ <id_CkbdCjoKfK_H?S_nxkEPfb487>
+<Phil_Goff>	<isLeaderOf>	<Manukau_City> .
+#@ <id_cmUz8dYShW_H?S_Q3HRcbbU43>
+<Andrzej_Duda>	<isLeaderOf>	<Poland> .
+#@ <id_5yLsAU5U20_H?S_yYtCewC2hz>
+<Ernest_Jackson>	<isLeaderOf>	<Crockett,_Texas> .
+#@ <id_ml4uScciFV_H?S_!caGRTzQH9>
+<William_Steinberg>	<isLeaderOf>	<Hampstead,_Quebec> .
+#@ <id_l5p!mevvU5_H?S_rae4QAWryw>
+<Stanislav_Ivanov_(footballer,_born_1980)>	<isLeaderOf>	<Dalgodeltsi> .
+#@ <id_kC8N9Jzarg_H?S_6nXG!PQFok>
+<Raphaël_Bouton>	<isLeaderOf>	<Section_des_sourds_et_malentendants_socialistes> .
+#@ <id_EYSe8G72iq_H?S_?RwP!HdJZZ>
+<Plínio_Salgado>	<isLeaderOf>	<Brazilian_Integralist_Action> .
+#@ <id_TnVCQ!DeAJ_H?S_EwolfoMSnH>
+<Mitch_McConnell>	<isLeaderOf>	<Republican_Party_(United_States)> .
+#@ <id_efsvaihwkc_H?S_TR1sTKn94O>
+<Miyeegombyn_Enkhbold>	<isLeaderOf>	<Mongolian_People's_Party> .
+#@ <id_x4fQO?QOwn_H?S_OXGp!d7rHA>
+<Confúcio_Moura>	<isLeaderOf>	<Rondônia> .
+#@ <id_523muLCezw_H?S_sHVaC3BALi>
+<Dorothy_Stoneman>	<isLeaderOf>	<YouthBuild> .
+#@ <id_ex18Q2DAhU_H?S_Iz169HzQ3F>
+<Ángel_María_Villar>	<isLeaderOf>	<FIFA> .
+#@ <id_bUEHDSPPQ6_H?S_nAw!OgVV03>
+<Victor_Montagliani>	<isLeaderOf>	<CONCACAF> .
+#@ <id_pznRdCY!dC_H?S_GDu9v0Eyna>
+<Gadde_Ramamohan>	<isLeaderOf>	<Vijayawada> .
+#@ <id_LiRterQfMA_H?S_RymgQMdy4a>
+<Nitin_Gadkari>	<isLeaderOf>	<Nagpur> .
+#@ <id_CE7wm6b5Vq_H?S_UY3hUAYlG3>
+<Eduardo_Año>	<isLeaderOf>	<Philippine_Navy> .
+#@ <id_stnN?9cShX_H?S_?vBj5iA0bY>
+<Riaz_Ahmed_Gohar_Shahi>	<isLeaderOf>	<Messiah_Foundation_International> .
+#@ <id_pRoc1kt3TK_H?S_xtxOQGMAot>
+<Member_of_the_Legislative_Assembly>	<isLeaderOf>	<Green_Party_in_Northern_Ireland> .
+#@ <id_cJZ8JnrDEP_H?S_Jo7aLa2Uud>
+<Shafiq_Qaadri>	<isLeaderOf>	<Clairville,_Toronto> .
+#@ <id_HEb23B2hQ2_H?S_fL!YNTG7Wc>
+<John_Campbell_(Ontario_politician)>	<isLeaderOf>	<Kingsview_Village> .
+#@ <id_pAEEYy5mfp_H?S_6jvDpEd!o?>
+<Maria_Eagle>	<isLeaderOf>	<Metropolitan_Borough_of_Knowsley> .
+#@ <id_otczLDxTdu_H?S_KZHIOUL4Pa>
+<John_Weyant>	<isLeaderOf>	<Energy_Modeling_Forum> .
+#@ <id_drwMQu!h4U_H?S_2cu7LMCW!V>
+<Tom_Nevakshonoff>	<isLeaderOf>	<Lundar,_Manitoba> .
+#@ <id_bRqHeTdjES_H?S_yyzMfKBQg9>
+<Jim_Messina_(political_staffer)>	<isLeaderOf>	<Just_a_Yes> .
+#@ <id_!NZlqeAAps_H?S_u8EjASjbzu>
+<Ramón_Luis_Rivera_Jr.>	<isLeaderOf>	<Santa_Olaya> .
+#@ <id_5A0TbjGbNR_H?S_kcURbh5aNM>
+<Ri_Myong-su>	<isLeaderOf>	<Korean_People's_Army_Ground_Force> .
+#@ <id_C3vsj3z6Rf_H?S_0Kfy49rTrx>
+<Mariarosaria_Rossi>	<isLeaderOf>	<Forza_Italia_(2013)> .
+#@ <id_LendBTPcGa_H?S_XInvQkSeJp>
+<Angela_Smith_(Sheffield_MP)>	<isLeaderOf>	<Metropolitan_Borough_of_Barnsley> .
+#@ <id_77cauKNWN8_H?S_LmGnpEkAko>
+<Zainal_Sapari>	<isLeaderOf>	<Pasir_Ris> .
+#@ <id_1Qll4RImVv_H?S_AHYmh1bEKO>
+<Philip_Levine_(politician)>	<isLeaderOf>	<Miami_Beach,_Florida> .
+#@ <id_VWZum96Bhz_H?S_zrU6MZ9aA8>
+<Jim_Diodati>	<isLeaderOf>	<Niagara_Falls,_Ontario> .
+#@ <id_li0DxToOG6_H?S_jxDmBACsbb>
+<Fernando_Martín_García>	<isLeaderOf>	<Puerto_Rican_Independence_Party> .
+#@ <id_hS9hnDDtSR_H?S_EGrUo6Fokz>
+<Jorge_Serrano_Elías>	<isLeaderOf>	<Revolutionary_Party_(Guatemala)> .
+#@ <id_2ZYonzzZjQ_H?S_4uTqcxJ18N>
+<Kellie_Leitch>	<isLeaderOf>	<Collingwood,_Ontario> .
+#@ <id_Wcsox0koE9_H?S_4ljHACEEfg>
+<Denzil_Minnan-Wong>	<isLeaderOf>	<North_York> .
+#@ <id_6cysE4duve_H?S_4gWYJIJeKm>
+<Paul_Evan_Peters>	<isLeaderOf>	<Open_Access_Scholarly_Publishers_Association> .
+#@ <id_81WX65XNY!_H?S_ZUveUyQlHM>
+<Kathy_Corrigan>	<isLeaderOf>	<Greater_Vancouver> .
+#@ <id_iCTVXRybBk_H?S_EhlP2e3uxR>
+<Metin_Lütfi_Baydar>	<isLeaderOf>	<NATO_Parliamentary_Assembly> .
+#@ <id_Gvno1X?mJ4_H?S_LfPh2SJekM>
+<Rabsaris>	<isLeaderOf>	<Sennacherib> .
+#@ <id_Ff1hPyVdSd_H?S_mV9RnFRa9J>
+<Lyudmila_Ivanova>	<isLeaderOf>	<Kanash> .
+#@ <id_BVMi655bGO_H?S_yUHqSi!Agg>
+<Laura_Albanese>	<isLeaderOf>	<Lambton,_Toronto> .
+#@ <id_JMvImNeP7j_H?S_UZCzQVCGj!>
+<Edward_Stevens_(general)>	<isLeaderOf>	<Culpeper_Minutemen> .
+#@ <id_3tmattDahB_H?S_5YW7DrxpXZ>
+<Deborah_Drever>	<isLeaderOf>	<Calgary> .
+#@ <id_vr3JMC5VdO_H?S_AaTsJ1x0Dh>
+<Marc_Serré>	<isLeaderOf>	<Timiskaming_District> .
+#@ <id_yPMVrsB50H_H?S_naoMFEjGWM>
+<Katie_Hobbs>	<isLeaderOf>	<Arizona_Democratic_Party> .
+#@ <id_VFKTpms0Ss_H?S_lNrJDzBFGS>
+<Saud_bin_Nayef_Al_Saud>	<isLeaderOf>	<Khobar> .
+#@ <id_yU7KnR6Ztx_H?S_ikf8seykDw>
+<Željko_Turk>	<isLeaderOf>	<Zaprešić> .
+#@ <id_xNAGhV8!qi_H?S_n4ZcT8?i7n>
+<Frano_Getaldić-Gundulić>	<isLeaderOf>	<Autonomist_Party> .
+#@ <id_CJXrkag5R!_H?S_!0xewVxXYI>
+<Greg_Rickford>	<isLeaderOf>	<Redditt> .
+#@ <id_PVeQOhhilm_H?S_??yGwuqTqq>
+<Jay_Aspin>	<isLeaderOf>	<Temagami> .
+#@ <id_1s0!bdH!fL_H?S_XuwtrS6EXH>
+<Bob_Hancock>	<isLeaderOf>	<Kennett,_Missouri> .
+#@ <id_XKptkIOehp_H?S_AbTKZyQnrR>
+<Amir_Khan_(MQM)>	<isLeaderOf>	<Muttahida_Quami_Movement_Pakistan> .
+#@ <id_x7K475x?1J_H?S_OWm2JKN61b>
+<Mhd_Amin_Nordin_Abdul_Aziz>	<isLeaderOf>	<Kuala_Lumpur> .
+#@ <id_F7XIjbthWf_H?S_EmtpEWlE?0>
+<Julia_Munro>	<isLeaderOf>	<Bradford_West_Gwillimbury> .
+#@ <id_Kvur!Z5C9t_H?S_satAJ9dRT8>
+<Denis_Herard>	<isLeaderOf>	<Division_No._6,_Alberta> .
+#@ <id_auOCHz?lhT_H?S_ZbpWIMTc1X>
+<Alexander_Brash>	<isLeaderOf>	<Connecticut_Audubon_Society> .
+#@ <id_EjvFLYQqjU_H?S_SN1!A2okav>
+<Trần_Đại_Quang>	<isLeaderOf>	<Vietnam_Coast_Guard> .
+#@ <id_l00WnaYioc_H?S_z!6j26dkAK>
+<Jim_Kern>	<isLeaderOf>	<Dedham,_Massachusetts> .
+#@ <id_3olNpHHYcw_H?S_xb9t9KioJO>
+<Mauricio_Vila_Dosal>	<isLeaderOf>	<Mérida,_Yucatán> .
+#@ <id_7edFcjfiVU_H?S_tNOhfOnEMk>
+<Édouard_Herriot>	<isLeaderOf>	<Cartel_des_Gauches> .
+#@ <id_kPtgTOf5d?_H?S_V94tNpzFr8>
+<Dhiman_Roy>	<isLeaderOf>	<Ashoknagar,_North_24_Parganas> .
+#@ <id_hGo70mC5r2_H?S_ZofQgBUCv8>
+<Herbert_Scott>	<isLeaderOf>	<Athens,_Ontario> .
+#@ <id_oFi3rKukfm_H?S_jB?OaJvURr>
+<Ted_Gaines>	<isLeaderOf>	<Rocklin,_California> .
+#@ <id_!PGBKwq1Dt_H?S_1LevheTWm0>
+<Agostino_Depretis>	<isLeaderOf>	<Historical_Left> .
+#@ <id_s9f9hTsPd!_H?S_Bbu!ZUfVuO>
+<Víctor_García_Garzena>	<isLeaderOf>	<National_Party_(Chile,_1966)> .
+#@ <id_2wP5hHscAC_H?S_f!jUxNIha3>
+<Charles_Sumner>	<isLeaderOf>	<Radical_Republican> .
+#@ <id_uMIy4hVKsU_H?S_?GmkxhlWYI>
+<Lucy_Worsley>	<isLeaderOf>	<Historic_Royal_Palaces> .
+#@ <id_2MCE?TFzLr_H?S_s3Zg!mgMOO>
+<Judy_Turner>	<isLeaderOf>	<Whakatane> .
+#@ <id_MSvSMratPB_H?S_EuQXAUrTdI>
+<U_Razak>	<isLeaderOf>	<Burma_Muslim_Congress> .
+#@ <id_n3x!SNDGF7_H?S_GxUf1a8rS0>
+<Andrew_O'Donnell>	<isLeaderOf>	<Glasgow_Filmmakers_Alliance> .
+#@ <id_I0!1U09LrK_H?S_h9aOghtHIS>
+<Michael_Langone>	<isLeaderOf>	<International_Cultic_Studies_Association> .
+#@ <id_qB1PcGtBLq_H?S_VTGmsZoEUl>
+<Sivanesathurai_Chandrakanthan>	<isLeaderOf>	<Batticaloa_District> .
+#@ <id_H72?UxtS0C_H?S_I3qulJ8RsN>
+<Wobine_Buijs-Glaudemans>	<isLeaderOf>	<Oss> .
+#@ <id_dRUrVJ2gOK_H?S_t1IRYS1nAM>
+<Bryan_Thao_Worra>	<isLeaderOf>	<Science_Fiction_Poetry_Association> .
+#@ <id_kYaJ39urIb_H?S_FqpSclNdmF>
+<Queen_Elizabeth_The_Queen_Mother>	<isLeaderOf>	<Queen's_Own_Hussars> .
+#@ <id_N1MLx2wnLN_H?S_5a??8IBeWs>
+<Isa_Mustafa>	<isLeaderOf>	<Kosovo> .
+#@ <id_gzxzueNop9_H?S_1iXmLENgsZ>
+<Click_Bishop>	<isLeaderOf>	<Central,_Alaska> .
+#@ <id_5RTbhCR9Aw_H?S_miXGXeN!ID>
+<Henry_Ramos_Allup>	<isLeaderOf>	<Democratic_Action_(Venezuela)> .
+#@ <id_ZqGXxCr9lw_H?S_yjry?9UDsz>
+<Simon_Bolivar_Buckner_Jr.>	<isLeaderOf>	<Alaska_Defense_Command> .
+#@ <id_9mPQntdwO2_H?S_ljF2fsMW?r>
+<Rick_Nicholls>	<isLeaderOf>	<Leamington,_Ontario> .
+#@ <id_5hjajObrNa_H?S_XjOelwjgNd>
+<Gordon_Holmes_Alexander_MacMillan>	<isLeaderOf>	<Palestine_Command> .
+#@ <id_9AWWGqwyLY_H?S_w0Xzzsyoqy>
+<Jyotsana_Srivastava>	<isLeaderOf>	<Bhelupur,_Varanasi> .
+#@ <id_uyPCWv?A4l_H?S_lgIaIsPXpl>
+<Tyler_Allen>	<isLeaderOf>	<8664> .
+#@ <id_83RneKACJH_H?S_k0TKTYzCtK>
+<Anthony_Eden>	<isLeaderOf>	<No._500_Squadron_RAF> .
+#@ <id_vbo?sIaP6!_H?S_kv2xFRtk5l>
+<Anna_Kuliscioff>	<isLeaderOf>	<Italian_Socialist_Party> .
+#@ <id_BttGzgeIz4_H?S_upOZhGbOaI>
+<Riccardo_Schicchi>	<isLeaderOf>	<South_Eastern_Railway_(Russia)> .
+#@ <id_rANcRzF8ED_H?S_mhqzXrZqpr>
+<Nitish_Kumar>	<isLeaderOf>	<Derhgaon> .
+#@ <id_!FKTtp6F?M_H?S_d0cHfr4yWN>
+<Sandro_Pertini>	<isLeaderOf>	<Action_Party_(Italy)> .
+#@ <id_3hA3!aHYq7_H?S_4lDpQV1GXv>
+<H._M._M._Harees>	<isLeaderOf>	<Ampara_District> .
+#@ <id_SbazM5PagS_H?S_zC!5BqX3Mz>
+<Jim_Gray_(American_politician)>	<isLeaderOf>	<Lexington,_Kentucky> .
+#@ <id_0hSUAhrsid_H?S_QEcgExw6Be>
+<Vladimir_Serov>	<isLeaderOf>	<Sudak> .
+#@ <id_6LLDFHI0Rk_H?S_kOqrKkQ8XX>
+<John_Converse_Starkweather>	<isLeaderOf>	<1st_Wisconsin_Volunteer_Infantry_Regiment_(3_Months)> .
+#@ <id_7AWZq4Y?tv_H?S_7xRfoQ1Y7A>
+<Dean_Westlake>	<isLeaderOf>	<Kiwalik,_Alaska> .
+#@ <id_8TdICMx0eV_H?S_viX23kkVmJ>
+<Paul_Seaton>	<isLeaderOf>	<Happy_Valley,_Alaska> .
+#@ <id_Y4KCfSUv70_H?S_ROjw6XDbfo>
+<Tengku_Adnan>	<isLeaderOf>	<Federal_Territories_(Malaysia)> .
+#@ <id_SVSE9Fo6kf_H?S_CoIw?eeBjh>
+<Oleg_Betin>	<isLeaderOf>	<Tambov_Oblast> .
+#@ <id_J!x!p4vJL4_H?S_uFqeEDSzrg>
+<Cato_the_Younger>	<isLeaderOf>	<Optimates> .
+#@ <id_Z?dn?L!Qnm_H?S_5YW7DrxpXZ>
+<Greg_Clark_(Canadian_politician)>	<isLeaderOf>	<Calgary> .
+#@ <id_hE90qqjEsh_H?S_ODVDJdjXz?>
+<Léon_Blum>	<isLeaderOf>	<French_Section_of_the_Workers'_International> .
+#@ <id_BOK!FvTDPu_H?S_Cl6VwTYQSM>
+<Elizabeth_II>	<isLeaderOf>	<Pitcairn_Islands> .
+#@ <id_hfd59sZ6u4_H?S_dhBHpz?wRd>
+<Rajendra_Devlekar>	<isLeaderOf>	<Kalyan> .
+#@ <id_qQ0YViGEk8_H?S_L?AwQEc44a>
+<Doug_Armstrong>	<isLeaderOf>	<Whitewood,_Saskatchewan> .
+#@ <id_crpD4vJYRJ_H?S_0ZmHYk8qKo>
+<Salma_Zahid>	<isLeaderOf>	<Wexford,_Toronto> .
+#@ <id_Td4X0FTg8O_H?S_u3mc20gD9j>
+<Teo_Ser_Luck>	<isLeaderOf>	<Sengkang> .
+#@ <id_UHgqH8lLsT_H?S_3dnwbM1n03>
+<Vitali_Klitschko>	<isLeaderOf>	<Kiev_City_State_Administration> .
+#@ <id_eRNTJfsa5H_H?S_1HswkYfMyo>
+<Roberto_Salcedo_Sr.>	<isLeaderOf>	<Nuevo_Arroyo_Hondo> .
+#@ <id_5VZVdufUsd_H?S_gCGRdmx!l6>
+<Arthur_Leonard>	<isLeaderOf>	<Chincoteague,_Virginia> .
+#@ <id_MqaSHW5Qmw_H?S_m!mAOYpRqV>
+<Sugianto_Sabran>	<isLeaderOf>	<Central_Kalimantan> .
+#@ <id_0M!skM11?s_H?S_D!7iGnQVdb>
+<Director-general>	<isLeaderOf>	<Indian_Coast_Guard> .
+#@ <id_StQ!yNuw9D_H?S_Ty8DbtqBzk>
+<Ellen_G._White>	<isLeaderOf>	<Ossipee,_New_Hampshire> .
+#@ <id_P1Su4ANVgZ_H?S_OduhrtYbpq>
+<Violeta_Ivanov>	<isLeaderOf>	<Party_of_Communists_of_the_Republic_of_Moldova> .
+#@ <id_8XO2mgVnGW_H?S_ZdyXmZKIAt>
+<Karen_Goh>	<isLeaderOf>	<Bakersfield,_California> .
+#@ <id_XGZSKxGZYj_H?S_ADjiqQFkKS>
+<Larry_Maguire>	<isLeaderOf>	<Woodnorth,_Manitoba> .
+#@ <id_uDxal2ZWSF_H?S_PUz9!tvMt2>
+<Brad_Moore>	<isLeaderOf>	<Benton,_Arkansas> .
+#@ <id_MXmq9p9x6B_H?S_sPrdxIUDYA>
+<Sharon_White_(civil_servant)>	<isLeaderOf>	<Ofcom> .
+#@ <id_8fz3JA9KrW_H?S_?X6mbOLfu7>
+<Han_Polman>	<isLeaderOf>	<Zeeland> .
+#@ <id_gwkKQSvrS7_H?S_KdS!NOHEk9>
+<Paul_Daley>	<isLeaderOf>	<Fultonville,_New_York> .
+#@ <id_l4girWgbtO_H?S_4U0lw1?Y0F>
+<Itamar_Marcus>	<isLeaderOf>	<Palestinian_Media_Watch> .
+#@ <id_RI9d2Aauv_H?S_CJUFawAdxX>
+<Cindy_Forster>	<isLeaderOf>	<St._Catharines> .
+#@ <id_lh9PiAun88_H?S_xi3Rse5xu7>
+<Jón_Bjarnason>	<isLeaderOf>	<Heimssýn> .
+#@ <id_A823vLTaWn_H?S_!ucRUciqhl>
+<Mohamed_Farrah_Aidid>	<isLeaderOf>	<Somali_National_Alliance> .
+#@ <id_iFuv1JEIxW_H?S_9en?kCFwyr>
+<Bob_Bailey_(politician)>	<isLeaderOf>	<Sarnia> .
+#@ <id_LAt4NSstUR_H?S_70tK3UcF27>
+<Mark_Lowcock>	<isLeaderOf>	<United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs> .
+#@ <id_k7dXK3twyv_H?S_vYsepaX2oU>
+<Ragnhild_Hennum>	<isLeaderOf>	<Norwegian_Women's_Lobby> .
+#@ <id_vPF2NANRqd_H?S_ybGrJsZGq9>
+<Don_Iveson>	<isLeaderOf>	<Skyrattler,_Edmonton> .
+#@ <id_!2mX5QKXkH_H?S_Blo1cG4Xgo>
+<William_Gabula>	<isLeaderOf>	<Busoga> .
+#@ <id_flbUHQTcwZ_H?S_ppnDTOcnyk>
+<Manuel_Oribe>	<isLeaderOf>	<National_Party_(Uruguay)> .
+#@ <id_df!4BtEwBm_H?S_akSnhewZd!>
+<Piotr_Kuczera>	<isLeaderOf>	<Rybnik> .
+#@ <id_1PRLJOer8b_H?S_UQlRaaTVAv>
+<Bryce_Edgmon>	<isLeaderOf>	<South_Naknek,_Alaska> .
+#@ <id_wxxe3uoLt4_H?S_p3Yisy9clP>
+<Paula_Bennett>	<isLeaderOf>	<New_Zealand_National_Party> .
+#@ <id_1Ov7tnEfbt_H?S_RgySfllZ?A>
+<Binna_Choi>	<isLeaderOf>	<Casco_(Utrecht)> .
+#@ <id_aLwCkUOPKG_H?S_q0LDnd8aYt>
+<Hrant_Markarian>	<isLeaderOf>	<Armenian_Revolutionary_Federation> .
+#@ <id_VL0bSP!PaK_H?S_9A8OCkwzEU>
+<Steven_Marshall>	<isLeaderOf>	<Liberal_Party_of_Australia_(South_Australian_Division)> .
+#@ <id_C6V9WxcX1B_H?S_q6ADb2jO?C>
+<Mohammed_Khaled_Al-Khadher>	<isLeaderOf>	<Chief_of_the_General_Staff_(Kuwait)> .
+#@ <id_czhwojIxP8_H?S_U5B6h3D5Dq>
+<Ben_Oquist>	<isLeaderOf>	<The_Australia_Institute> .
+#@ <id_YLLyrYyLlw_H?S_KiJzfY52wj>
+<Vinod_Kumar_Boianapalli>	<isLeaderOf>	<Rajalingampet> .
+#@ <id_QEbGxZqmy6_H?S_mTrzg2yhiH>
+<Harpal_Brar>	<isLeaderOf>	<Communist_Party_of_Great_Britain_(Marxist–Leninist)> .
+#@ <id_UAZxBKExn8_H?S_wo52J5kb?m>
+<Maurice_Saatchi,_Baron_Saatchi>	<isLeaderOf>	<Centre_for_Policy_Studies> .
+#@ <id_Wa5toCx9MT_H?S_JkWDTMG3Pi>
+<Brad_Trost>	<isLeaderOf>	<Silverspring,_Saskatoon> .
+#@ <id_zqmWzVOSOm_H?S_NYT3knfitt>
+<Charles_Merritt>	<isLeaderOf>	<The_Saskatchewan_Border_Regiment> .
+#@ <id_u8Zxz4SWjV_H?S_R3D3I2fdm?>
+<Yu_Haiyan>	<isLeaderOf>	<Lanzhou> .
+#@ <id_?ckMmrX!HU_H?S_CrcKjvhFl6>
+<Zoltán_Németh>	<isLeaderOf>	<Győr-Moson-Sopron_County> .
+#@ <id_?JLcdVb6nW_H?S_CnI5fJOtUO>
+<Prince_Philip,_Duke_of_Edinburgh>	<isLeaderOf>	<Army_Cadet_Force> .
+#@ <id_xDYC2M?siq_H?S_VTGmsZoEUl>
+<Basheer_Segu_Dawood>	<isLeaderOf>	<Batticaloa_District> .
+#@ <id_14jhmt9OiO_H?S_NwKal64U84>
+<Brian_Campbell>	<isLeaderOf>	<Rancho_Palos_Verdes,_California> .
+#@ <id_QzTv3g6qYs_H?S_0zqAyUuPW2>
+<Alan_Duncan>	<isLeaderOf>	<British_Overseas_Territories> .
+#@ <id_xEvXNF2NKk_H?S_PrcuA5VLhA>
+<Michel_Ney>	<isLeaderOf>	<Army_of_the_Danube> .
+#@ <id_o?RBfcmzBZ_H?S_Vf10MZbqwJ>
+<George_E._Campsen_III>	<isLeaderOf>	<Edisto_Beach,_South_Carolina> .
+#@ <id_ozJw6I3d0J_H?S_gfo!ZjGwaG>
+<Hani_Al-Mulki>	<isLeaderOf>	<Aqaba> .
+#@ <id_qv02YZuxGC_H?S_llk?TZ3T!J>
+<Htin_Kyaw>	<isLeaderOf>	<Myanmar> .
+#@ <id_E9TsrB8Pal_H?S_NsUt8fCUUh>
+<Deputy_mayor>	<isLeaderOf>	<San_Anselmo,_California> .
+#@ <id_Sxeed5ZVf9_H?S_bkRBPEGpAB>
+<David_Guttenberg>	<isLeaderOf>	<Goldstream,_Alaska> .
+#@ <id_?TyPmBdj8w_H?S_mnrotPmIoc>
+<C._Vidyasagar_Rao>	<isLeaderOf>	<Maharashtra> .
+#@ <id_Ctt8ypvK9U_H?S_RUxnMXEyYa>
+<Jack_Draper>	<isLeaderOf>	<Anniston,_Alabama> .
+#@ <id_PO60Rxgs4n_H?S_HVHEe7cRVG>
+<Amelia_Kyambadde>	<isLeaderOf>	<Muduuma> .
+#@ <id_oRRWtwyi2k_H?S_m1Ie2nrjhH>
+<Wang_Chuanjun>	<isLeaderOf>	<National_Junior_Classical_League> .
+#@ <id_C4?8OwQTTm_H?S_G29Yjs9G1z>
+<Alok_Sharma>	<isLeaderOf>	<Bhopal_Municipal_Corporation> .
+#@ <id_njS7Syq7VK_H?S_?A!4ayq0rY>
+<Vasundhara_Raje>	<isLeaderOf>	<Rajasthan> .
+#@ <id_JiR7!KxN1L_H?S_Cy721dD7XB>
+<Aimé_Picquet_du_Boisguy>	<isLeaderOf>	<Chouannerie> .
+#@ <id_XEYjut!Rf2_H?S_W8tUQU1Efv>
+<Tom_Marino>	<isLeaderOf>	<Starrucca,_Pennsylvania> .
+#@ <id_vP!u5Xf7Ol_H?S_0q6?X2J1fF>
+<Catherine_McKenna>	<isLeaderOf>	<Westboro,_Ottawa> .
+#@ <id_pgK1pD1CkN_H?S_HwnCaYTUHK>
+<Loni_Hancock>	<isLeaderOf>	<Marina_Bay,_Richmond,_California> .
+#@ <id_kVEAuKojqf_H?S_3Pe4mMi31P>
+<Roland_Drew>	<isLeaderOf>	<Arundel,_Maine> .
+#@ <id_MoJ4s0AzO8_H?S_0aw3yNfxmr>
+<Roel_Degamo>	<isLeaderOf>	<Negros_Oriental> .
+#@ <id_d0hZcmd9rw_H?S_rZHmPjHJVN>
+<Georgi_Dimitrov>	<isLeaderOf>	<Karnobat> .
+#@ <id_uZJypajCsH_H?S_DQh5GuMLI8>
+<Herbert_Nakimayak>	<isLeaderOf>	<Tuktoyaktuk> .
+#@ <id_?!XwTwiAj9_H?S_VjhoO15fut>
+<Ted_Falk>	<isLeaderOf>	<Lorette,_Manitoba> .
+#@ <id_!2n3bZZ3BM_H?S_m6W9tZF7SC>
+<Róisín_Shortall>	<isLeaderOf>	<Social_Democrats_(Ireland)> .
+#@ <id_qbac5KUTNt_H?S_?HsMTKC?zl>
+<Benhur_Salimbangon>	<isLeaderOf>	<Madridejos,_Cebu> .
+#@ <id_8ps3Ek0AW6_H?S_QwL!zslmhe>
+<Borislav_Pelević>	<isLeaderOf>	<Serb_Volunteer_Guard> .
+#@ <id_BUXlFcCwBx_H?S_TIFH!54N7y>
+<Patrick_Nyamvumba>	<isLeaderOf>	<Rwandan_Defence_Forces> .
+#@ <id_!vV2XttoqO_H?S_QcPplPTJWh>
+<Dave_Talerico>	<isLeaderOf>	<Gulkana,_Alaska> .
+#@ <id_gtnWQ1fQ1s_H?S_oCw4wxWTYo>
+<Wasantha_Senanayake>	<isLeaderOf>	<Polonnaruwa_District> .
+#@ <id_whh1sUtI2Q_H?S_A6KEk588d0>
+<Roy_Ashburn>	<isLeaderOf>	<Derby_Acres,_California> .
+#@ <id_yHNqdWBBJ9_H?S_CscS3zvFFl>
+<Muriel_Bowser>	<isLeaderOf>	<Washington,_D.C.> .
+#@ <id_QxlYomEOnU_H?S_clvn64ZCA4>
+<John_Jorritsma>	<isLeaderOf>	<Eindhoven> .
+#@ <id_!vV2XttoqO_H?S_jHaVf9bRW3>
+<Dave_Talerico>	<isLeaderOf>	<Alcan_Border,_Alaska> .
+#@ <id_WXj!0huY6O_H?S_Kr8Ocyr?EO>
+<Boško_Obradović>	<isLeaderOf>	<Dveri> .
+#@ <id_80xysuqUR5_H?S_dn1vap4gWS>
+<Wes_Jackson>	<isLeaderOf>	<The_Land_Institute> .
+#@ <id_dhGirqKrB1_H?S_WlBDEJQoj2>
+<Peter_I_of_Serbia>	<isLeaderOf>	<Banat_Republic> .
+#@ <id_rB6isMnplh_H?S_JxZOrWnZyD>
+<Jesús_Rivera_Sánchez>	<isLeaderOf>	<Minillas_(Bayamón)> .
+#@ <id_07?su1e8SZ_H?S_HzD3P48j8M>
+<Mark_Amodei>	<isLeaderOf>	<Congressional_Gaming_Caucus> .
+#@ <id_0T6D9aQNPt_H?S_S8v!MmTL?f>
+<Artur_Axmann>	<isLeaderOf>	<Hitler_Youth> .
+#@ <id_xRYrl1Ghn3_H?S_14WP?S054?>
+<Mantas_Adomėnas>	<isLeaderOf>	<Homeland_Union> .
+#@ <id_zkIV0bKMin_H?S_snzmUgrYcB>
+<Amanda_Nevill>	<isLeaderOf>	<British_Film_Institute> .
+#@ <id_9uuv6nqyo7_H?S_nIsS37Pi3N>
+<Jay_Costa>	<isLeaderOf>	<Pennsylvania_Democratic_Party> .
+#@ <id_wBSeuNhR2M_H?S_ykQBWUIub2>
+<Sak_Sutsakhan>	<isLeaderOf>	<Liberal_Democratic_Party_(Cambodia)> .
+#@ <id_SCxQf1HWcF_H?S_dCQsjJQZdZ>
+<Selina_Robinson>	<isLeaderOf>	<Coquitlam> .
+#@ <id_pKOYey4SV8_H?S_d!sne3o9rK>
+<Nathaniel_Erskine-Smith>	<isLeaderOf>	<Upper_Beaches> .
+#@ <id_bkZht!Mrx2_H?S_a!5Xla64Bn>
+<Gabriela_Firea>	<isLeaderOf>	<Bucharest> .
+#@ <id_ojEmuPu?r6_H?S_iri6UJSpu6>
+<Tom_Berryhill>	<isLeaderOf>	<North_Woodbridge,_California> .
+#@ <id_emBjPPzpgw_H?S_VBoWHdPGv4>
+<Deb_Schulte>	<isLeaderOf>	<Vaughan> .
+#@ <id_j!80wdVHSa_H?S_vMcDytwn5N>
+<Toby_Barrett>	<isLeaderOf>	<Hillcrest,_Norfolk_County,_Ontario> .
+#@ <id_qGK8?z1Isg_H?S_LzNlcvcL3?>
+<Laurie_Scott_(politician)>	<isLeaderOf>	<Highlands_East,_Ontario> .
+#@ <id_yesouhLrp0_H?S_46w67QkybB>
+<Eddie_Joyce>	<isLeaderOf>	<Humber_Arm_South> .
+#@ <id_5XsXGVIWWB_H?S_W8tUQU1Efv>
+<Lisa_Baker_(Pennsylvania_politician)>	<isLeaderOf>	<Starrucca,_Pennsylvania> .
+#@ <id_XVjE7Vn0bU_H?S_sU3cuLHrJY>
+<María_Lucero_Saldaña>	<isLeaderOf>	<Puebla> .
+#@ <id_xkTPTmfkBB_H?S_k3DJsxobR6>
+<Klaudia_Szemerey-Pataki>	<isLeaderOf>	<Kecskemét> .
+#@ <id_KW1xqe2d2R_H?S_YRDH4t5jgw>
+<Patty_Wetterling>	<isLeaderOf>	<National_Center_for_Missing_&_Exploited_Children> .
+#@ <id_7sOcLjyXxc_H?S_2QOJcfGP5o>
+<Miguel_Ángel_Pichetto>	<isLeaderOf>	<Justicialist_Party> .
+#@ <id_nt5NfArFbV_H?S_O4wUmTWl9O>
+<Sanjay_Kumar_Das_Burma>	<isLeaderOf>	<Parikud> .
+#@ <id_u3C3xJqucd_H?S_EeZnmA90I4>
+<Jay_Hill>	<isLeaderOf>	<Fort_Nelson,_British_Columbia> .
+#@ <id_zI!DERe0mQ_H?S_JCAi5wAS8J>
+<Miguel_Miramón>	<isLeaderOf>	<Conservative_Party_(Mexico)> .
+#@ <id_vnpd8bwHcF_H?S_satAJ9dRT8>
+<Jon_Lord_(politician)>	<isLeaderOf>	<Division_No._6,_Alberta> .
+#@ <id_g9c?HWLzVP_H?S_ELDKCFcm0U>
+<José_Javier_Rodríguez>	<isLeaderOf>	<Little_Havana> .
+#@ <id_F6z?dlLzkV_H?S_xTztujiezL>
+<Joan_Kerr>	<isLeaderOf>	<Dubuc,_Saskatchewan> .
+#@ <id_CDhqRMd6XJ_H?S_QZrgsRmeP0>
+<Dennis_Daugaard>	<isLeaderOf>	<South_Dakota_Air_National_Guard> .
+#@ <id_ROo3d5HgnV_H?S_DRXCldq96l>
+<Luis_Fortuño>	<isLeaderOf>	<Palmas_(Cataño)> .
+#@ <id_cKsKFvfQad_H?S_vbgUUNz6VY>
+<Denise_Phua>	<isLeaderOf>	<Serangoon> .
+#@ <id_6BUgXsgcE4_H?S_GWnyEYPRQc>
+<Saud_bin_Rashid_Al_Mu'alla>	<isLeaderOf>	<Al_Dini> .
+#@ <id_B0ZspATd8A_H?S_tJWuDXjs5Y>
+<Sarah_Doucette>	<isLeaderOf>	<Old_Mill,_Toronto> .
+#@ <id_ZT72yGAL8e_H?S_Yg!ZRV4j0R>
+<Donald_Trump>	<isLeaderOf>	<Massachusetts_Air_National_Guard> .
+#@ <id_pUNrZIbwN6_H?S_fTFUMozSuH>
+<Ninong_Ering>	<isLeaderOf>	<Mirem_Village> .
+#@ <id_LUaUchM4OO_H?S_xKOrCo9jur>
+<Peter_Cosgrove>	<isLeaderOf>	<Christmas_Island> .
+#@ <id_iSQP34fWaa_H?S_vH6Huqc2HC>
+<Nicole_Ménard>	<isLeaderOf>	<Greenfield_Park,_Quebec> .
+#@ <id_h6URl9yNqi_H?S_YFF?7K94z!>
+<David_Puttnam>	<isLeaderOf>	<FOCAL_International> .
+#@ <id_QP3VJS1RVX_H?S_CYV2tmBPDZ>
+<Nabih_Berri>	<isLeaderOf>	<Amal_Movement> .
+#@ <id_xN7Hrbasqs_H?S_eKooGXgNlP>
+<Mam_Sonando>	<isLeaderOf>	<Beehive_Social_Democratic_Party> .
+#@ <id_qoaP2kT8r!_H?S_kTCbdB4vdI>
+<Andrew_Cuomo>	<isLeaderOf>	<New_York_Air_National_Guard> .
+#@ <id_Mu?ZkXDggw_H?S_8M!gpz44KP>
+<Ugo_Intini>	<isLeaderOf>	<Socialist_Party_(Italy,_1996)> .
+#@ <id_LUPhvYicyR_H?S_WOawT3?U1p>
+<Mike_Navarre>	<isLeaderOf>	<Kasilof,_Alaska> .
+#@ <id_86kfUuvGLn_H?S_SMOx7tF7fL>
+<Wan_Gang>	<isLeaderOf>	<China_Zhi_Gong_Party> .
+#@ <id_9IgFTW!o?I_H?S_i3MOrKQ119>
+<John_Wagner>	<isLeaderOf>	<Rural_Municipality_of_Piapot_No._110> .
+#@ <id_yN5ggUr7oI_H?S_UTioQbLvMh>
+<Yahya_Abdulrahman>	<isLeaderOf>	<Bareq> .
+#@ <id_55MgsIgClM_H?S_WAqSRnJNVt>
+<Ed_Komarnicki>	<isLeaderOf>	<Fertile,_Saskatchewan> .
+#@ <id_8vBLaAXmGN_H?S_go?QBOpcpP>
+<Rhun_ap_Iorwerth>	<isLeaderOf>	<Anglesey> .
+#@ <id_ZT72yGAL8e_H?S_kZ!jbmtvzy>
+<Donald_Trump>	<isLeaderOf>	<Virgin_Islands_Air_National_Guard> .
+#@ <id_wrd3txIpJs_H?S_MOu4XSzrN!>
+<Gary_Bikman>	<isLeaderOf>	<Magrath> .
+#@ <id_xzjxNzChmE_H?S_LntRKgY!dt>
+<Chen_Tiexin>	<isLeaderOf>	<Chaoyang,_Liaoning> .
+#@ <id_uIWQ3RprhU_H?S_FI?entCFQR>
+<Sylvia_Pinel>	<isLeaderOf>	<Radical_Party_of_the_Left> .
+#@ <id_kSApecQjea_H?S_arwyB?Bm3a>
+<Xi_Jinping>	<isLeaderOf>	<People's_Liberation_Army_militia> .
+#@ <id_loi22mQdFI_H?S_A68J?leiVW>
+<Antonio_López_de_Santa_Anna>	<isLeaderOf>	<Liberal_Party_(Mexico)> .
+#@ <id_38aXajwqBO_H?S_va9H46?wZX>
+<Mounir_Bouchenaki>	<isLeaderOf>	<Arab_Regional_Centre_for_World_Heritage> .
+#@ <id_oakjoA91uL_H?S_3ZosYkzRwL>
+<Marshal_of_Yugoslavia>	<isLeaderOf>	<Yugoslav_People's_Army> .
+#@ <id_InroLWJA7W_H?S_a?6VeMiJaD>
+<Aengus_Finnan>	<isLeaderOf>	<Folk_Alliance_International> .
+#@ <id_Mg65??UJJ_H?S_6UDiz!FdvQ>
+<Scott_Andrews_(politician)>	<isLeaderOf>	<Admirals_Beach> .
+#@ <id_kqEVtbum75_H?S_HAT2fNXG9M>
+<Bernard_Généreux>	<isLeaderOf>	<Le_Domaine-du-Roy> .
+#@ <id_FhxQA4kfkH_H?S_OlaIMKzt3n>
+<George_Monck,_1st_Duke_of_Albemarle>	<isLeaderOf>	<Scots_Army> .
+#@ <id_voZbWMXM3S_H?S_14?buyr0uL>
+<Ludwig_Hoffmann_von_Rumerstein>	<isLeaderOf>	<Sovereign_Military_Order_of_Malta> .
+#@ <id_hkGN8rvYNp_H?S_Vhd0SQ90kB>
+<Stephen_Schneider>	<isLeaderOf>	<Enfield,_New_Hampshire> .
+#@ <id_Q6nnuy?Q8Y_H?S_aEkSzriyno>
+<John_Holman_(chemist)>	<isLeaderOf>	<Royal_Society_of_Chemistry> .
+#@ <id_cpcaIgQqC9_H?S_VYTsZ02D?t>
+<Peng_Dehuai>	<isLeaderOf>	<Eighth_Route_Army> .
+#@ <id_pTYv0jdwyt_H?S_VSBquXYD!O>
+<John_Fraser_(Ontario_MPP)>	<isLeaderOf>	<Alta_Vista,_Ottawa> .
+#@ <id_sPI0vseCAh_H?S_pKuXdGPuKG>
+<Greg_Garner>	<isLeaderOf>	<Weston,_Idaho> .
+#@ <id_3WF7t7Pl4A_H?S_SKLRcGv2Qm>
+<Don_Feder>	<isLeaderOf>	<Jews_Against_Anti-Christian_Defamation> .
+#@ <id_XheJlvTo74_H?S_mpkZYkJuya>
+<Rod_Phillips>	<isLeaderOf>	<International_Rogaining_Federation> .
+#@ <id_zP!VUBIKxa_H?S_E7ylGMAlq7>
+<Nicolae_Dumitru>	<isLeaderOf>	<Blăjani> .
+#@ <id_c7QKdb9dnV_H?S_AGg2jH8pfb>
+<Paul_Quassa>	<isLeaderOf>	<Igloolik> .
+#@ <id_8S34derS8L_H?S_6WNbsJTPDz>
+<Gianfranco_Fini>	<isLeaderOf>	<National_Alliance_(Italy)> .
+#@ <id_BOK!FvTDPu_H?S_roFZMcpnce>
+<Elizabeth_II>	<isLeaderOf>	<Gibraltar> .
+#@ <id_LCyP213euj_H?S_x7QSfoyklA>
+<Pinarayi_Vijayan>	<isLeaderOf>	<Kerala_Sahitya_Akademi> .
+#@ <id_5trC27pfK0_H?S_OagaCwMw!U>
+<Dariush_Homayoon>	<isLeaderOf>	<Constitutionalist_Party_of_Iran> .
+#@ <id_v7?fZXfWme_H?S_LRUGPn2OQ!>
+<Juan_León_Mera>	<isLeaderOf>	<Conservative_Party_(Ecuador)> .
+#@ <id_ofqswd?3P?_H?S_LNRLgViLAA>
+<Ronald_Eddy>	<isLeaderOf>	<County_of_Brant> .
+#@ <id_180NR4WwM5_H?S_E8u2tBprPy>
+<Cliff_Rosenberger>	<isLeaderOf>	<Ohio_Republican_Party> .
+#@ <id_KpOs4IOWkb_H?S_vCIk6u?Te1>
+<Glenn_van_Dijken>	<isLeaderOf>	<Barrhead,_Alberta> .
+#@ <id_G8ffXq8Xn4_H?S_Dnpwb5H73U>
+<Alpha_Condé>	<isLeaderOf>	<Republican_Guard_(Guinea)> .
+#@ <id_j9xZIUl0lf_H?S_FhVZFW9g1e>
+<Robert_Fudge>	<isLeaderOf>	<Cedarville,_Ohio> .
+#@ <id_F6rLu7GW9Y_H?S_oCw4wxWTYo>
+<S._M._Ranjith>	<isLeaderOf>	<Polonnaruwa_District> .
+#@ <id_bSG?gmiyYf_H?S_pCxnSTNzeV>
+<Pierre_Moreau>	<isLeaderOf>	<Kahnawake> .
+#@ <id_irUx!hXxfh_H?S_jxI6jhyGbX>
+<Vetukuri_Venkata_Siva_Rama_Raju>	<isLeaderOf>	<Malavanitippa> .
+#@ <id_3Jj10i!1cM_H?S_QD7LyplX0d>
+<Richard_Leese>	<isLeaderOf>	<Didsbury_West_(ward)> .
+#@ <id_Wl6PhMU?3!_H?S_q3SV7wZjmm>
+<Chris_Stephens_(politician)>	<isLeaderOf>	<Glasgow> .
+#@ <id_iDtgyVHwtO_H?S_IKdxKADLqF>
+<Gudie_Hutchings>	<isLeaderOf>	<Burgeo> .
+#@ <id_6Cll8qcwdU_H?S_fhPskYHkcz>
+<Karl_Hermann_Frank>	<isLeaderOf>	<Sudetendeutsches_Freikorps> .
+#@ <id_1CvQTUsefI_H?S_qxf?xhmF8p>
+<Mario_Martín_Delgado>	<isLeaderOf>	<Mexico_City> .
+#@ <id_whh1sUtI2Q_H?S_kXzvTLp?ad>
+<Roy_Ashburn>	<isLeaderOf>	<Fellows,_California> .
+#@ <id_HhPHsjh!?6_H?S_XQ7eXshhQK>
+<John_Gioia>	<isLeaderOf>	<San_Pablo,_California> .
+#@ <id_C?orLqQKte_H?S_sZG7bFIeVk>
+<Graham_Ford>	<isLeaderOf>	<Surf_Life_Saving_Australia> .
+#@ <id_skQfU!e9Ii_H?S_LfazfNFW2W>
+<Donny_Olson>	<isLeaderOf>	<Prudhoe_Bay,_Alaska> .
+#@ <id_bw78t3MfNy_H?S_CbKX5YD15F>
+<M._K._Shivajilingam>	<isLeaderOf>	<Jaffna_District> .
+#@ <id_Iy?uN!pz!4_H?S_89hDfl!CrZ>
+<Siddhanta_Mahapatra>	<isLeaderOf>	<Ganjam_district> .
+#@ <id_mwW?fs9dd9_H?S_bdKILBNHkG>
+<Moshe_Koppel>	<isLeaderOf>	<Kohelet_Policy_Forum> .
+#@ <id_HfwQiXi8Fs_H?S_lgnw?dp4e8>
+<Linda_Sloan>	<isLeaderOf>	<Suder_Greens,_Edmonton> .
+#@ <id_qwmUj3n?CX_H?S_UAxmgnzika>
+<Kathleen_Ryan>	<isLeaderOf>	<Institute_for_Global_Maritime_Studies> .
+#@ <id_MpPQM9a09o_H?S_ThhIcwZmyb>
+<Nicole_Goehring>	<isLeaderOf>	<Edmonton> .
+#@ <id_ctQXhj!Fhk_H?S_stFhG9TEap>
+<Józef_Haller>	<isLeaderOf>	<Blue_Army_(Poland)> .
+#@ <id_1sFXs7gDlx_H?S_rmJqamNS75>
+<István_Fodor>	<isLeaderOf>	<Bodoc> .
+#@ <id_MWdtRwI7SO_H?S_jTQzjjgTYG>
+<Antonio_Ingroia>	<isLeaderOf>	<Orange_Movement> .
+#@ <id_iefXT3l?RX_H?S_p?I5gmEeVv>
+<Thomas_Robinet>	<isLeaderOf>	<Lapeer,_Michigan> .
+#@ <id_F6rw1pRbE!_H?S_E5Y?29!7Wz>
+<Roderick_Wright_(politician)>	<isLeaderOf>	<Watts,_Los_Angeles> .
+#@ <id_B0ZspATd8A_H?S_yUHqSi!Agg>
+<Sarah_Doucette>	<isLeaderOf>	<Lambton,_Toronto> .
+#@ <id_PlxsD!NqsY_H?S_MiVxw3s3Im>
+<Gerry_Ritz>	<isLeaderOf>	<Landis,_Saskatchewan> .
+#@ <id_eYLv1yTrsJ_H?S_S?cOK2GzfK>
+<Regina_Leung>	<isLeaderOf>	<Hong_Kong_Army_Cadets_Association_Limited> .
+#@ <id_oNNPbu8HDt_H?S_uUzKaqKRXi>
+<Ramon_Durano_VI>	<isLeaderOf>	<Pilar,_Cebu> .
+#@ <id_wNY5l9tpEx_H?S_adcGXrWVte>
+<Andy_Watson_(mayor)>	<isLeaderOf>	<Taihape> .
+#@ <id_HlFqBzfvjE_H?S_liLQy!3oxJ>
+<Helena_Jaczek>	<isLeaderOf>	<King_Creek,_Ontario> .
+#@ <id_ONDmJn42rd_H?S_p7H9K?902i>
+<Alexander_Nimmo>	<isLeaderOf>	<109th_Illinois_Volunteer_Infantry_Regiment> .
+#@ <id_mHcToxLfK1_H?S_XwOtLaXnjc>
+<Muhammad_Hatta_Ali>	<isLeaderOf>	<Indonesia> .
+#@ <id_SLlaabOpwE_H?S_ip7efFJq3e>
+<Harold_Albrecht>	<isLeaderOf>	<Regional_Municipality_of_Waterloo> .
+#@ <id_M3TVFFrQrK_H?S_5xDzyz7!zw>
+<Karen_Leibovici>	<isLeaderOf>	<The_Hamptons,_Edmonton> .
+#@ <id_PzPSFQpxIb_H?S_0263ab1HML>
+<Frédérique_Petrides>	<isLeaderOf>	<West_Side_Orchestral_Concerts> .
+#@ <id_6OWf7wLG0e_H?S_Qe0WvDtlSG>
+<Suranjit_Sengupta>	<isLeaderOf>	<Derai_Upazila> .
+#@ <id_Dpc23If0gm_H?S_nbQlsY4O3u>
+<Majid_Jowhari>	<isLeaderOf>	<Richmond_Hill,_Ontario> .
+#@ <id_JIruAoE8PW_H?S_YCtLDRRFRq>
+<Alan_Doss>	<isLeaderOf>	<Kofi_Annan_Foundation> .
+#@ <id_ol9B!4u4FG_H?S_qVDFANzJ7q>
+<Juan_Bautista_Molina>	<isLeaderOf>	<Nationalist_Liberation_Alliance> .
+#@ <id_G9Ou4G0mJ2_H?S_1qyF4!tp04>
+<Lucy_Evans>	<isLeaderOf>	<Shelburne,_New_Hampshire> .
+#@ <id_IrqOm1HtKt_H?S_k7Pch419m?>
+<Lyman_Hoffman>	<isLeaderOf>	<Aleknagik,_Alaska> .
+#@ <id_ktRwJWKGDq_H?S_LuaXPnwPUJ>
+<Giovanni_Malagodi>	<isLeaderOf>	<Italian_Liberal_Party> .
+#@ <id_ueTXqbU5I0_H?S_zM7CyEBksF>
+<Charles_Huxtable_(British_Army_officer)>	<isLeaderOf>	<10th_Battalion,_Ulster_Defence_Regiment> .
+#@ <id_WA20J4LXAK_H?S_OvAKcXw1t?>
+<Andrés_Pastrana_Arango>	<isLeaderOf>	<Centrist_Democrat_International> .
+#@ <id_ERnGktgP06_H?S_LWm3FJJv31>
+<Joseph_Ward>	<isLeaderOf>	<Eel_Ground_First_Nation> .
+#@ <id_gb22XkGvRH_H?S_GKYLm?uyxY>
+<A._Visalakshi>	<isLeaderOf>	<Tiruppur> .
+#@ <id_PgrY?zCkO5_H?S_S1oYUyulD6>
+<Marcelo_Rebelo_de_Sousa>	<isLeaderOf>	<Portuguese_Armed_Forces> .
+#@ <id_!uNTQZCNp7_H?S_H3iNTI?2dJ>
+<Enrique_Orellana>	<isLeaderOf>	<Famaillá_Department,_Tucumán> .
+#@ <id_GEnKe0g46q_H?S_RSJTe?QIW2>
+<Debbie_Wasserman_Schultz>	<isLeaderOf>	<City_Center_(Miami_Beach)> .
+#@ <id_lcj9KFBuF3_H?S_qE2GySkkwv>
+<Gérard_Collomb>	<isLeaderOf>	<Metropolitan_Lyon> .
+#@ <id_0eFZ6OjjhM_H?S_e2Kf0G0osI>
+<Pablo_Martínez>	<isLeaderOf>	<Gregory,_Texas> .
+#@ <id_Q6cgUs2o?J_H?S_1iYH1b6M0F>
+<Bernardo_Márquez_García>	<isLeaderOf>	<Toa_Baja,_Puerto_Rico> .
+#@ <id_TGrfrYYZZT_H?S_19dBNPVGrM>
+<Otumfuo_Nana_Osei_Tutu_II>	<isLeaderOf>	<Bantama> .
+#@ <id_vlUIXyQS7c_H?S_WOawT3?U1p>
+<Gary_Stevens_(politician)>	<isLeaderOf>	<Kasilof,_Alaska> .
+#@ <id_N634l6CkAX_H?S_4fOIc08Tsp>
+<Jason_Stein>	<isLeaderOf>	<Cleveland_Heights,_Ohio> .
+#@ <id_X3jHdrPDH!_H?S_Z17k4MIkVE>
+<Selina_Hayat_Ivy>	<isLeaderOf>	<Narayanganj> .
+#@ <id_2R6xPSfXWZ_H?S_zM7CyEBksF>
+<John_Anderson_(British_Army_officer)>	<isLeaderOf>	<10th_Battalion,_Ulster_Defence_Regiment> .
+#@ <id_ctEJq3lNQQ_H?S_v6rokts5m5>
+<Jill_Evans>	<isLeaderOf>	<Newport,_Wales> .
+#@ <id_ryf4eQ0q7C_H?S_2GCt8dDJm5>
+<Xiong_Xiling>	<isLeaderOf>	<Unity_Party_(China)> .
+#@ <id_RtaBB26cJ1_H?S_vBlN0woX6P>
+<Elly_Blanksma-van_den_Heuvel>	<isLeaderOf>	<Helmond> .
+#@ <id_skQfU!e9Ii_H?S_oxVD2uZJqr>
+<Donny_Olson>	<isLeaderOf>	<Nunam_Iqua,_Alaska> .
+#@ <id_4fAH?RiyHY_H?S_4?9mmJsbw8>
+<Marc_Bernier>	<isLeaderOf>	<United_Republic> .
+#@ <id_413zvb8a9I_H?S_ZY0dW85dKG>
+<Jim_Steineke>	<isLeaderOf>	<Republican_Party_of_Wisconsin> .
+#@ <id_ZT72yGAL8e_H?S_0P8OXYSL1e>
+<Donald_Trump>	<isLeaderOf>	<Connecticut_Air_National_Guard> .
+#@ <id_nCKoDGjC0x_H?S_pZVunJIjjf>
+<Maria_Norrfalk>	<isLeaderOf>	<Dalarna_County> .
+#@ <id_9WLWY8UJyH_H?S_36h8Lb6Yg!>
+<Mulatu_Teshome>	<isLeaderOf>	<Ethiopia> .
+#@ <id_tPoXndQOL7_H?S_NnZlC4toDf>
+<Bill_Olner>	<isLeaderOf>	<The_Independent_Game_Developers'_Association> .
+#@ <id_ryMtL9z!3Q_H?S_AA0!gXYT!t>
+<Susan_Thompson>	<isLeaderOf>	<Aberdeen,_Saskatchewan> .
+#@ <id_KE2kcznTDN_H?S_y1u8Bz7Ajx>
+<Stephen_Kinnock>	<isLeaderOf>	<Neath_Port_Talbot> .
+#@ <id_ky1mfsUkzY_H?S_sPRTPndVNE>
+<Han_Dong_(politician)>	<isLeaderOf>	<Grange_Park_(neighbourhood)> .
+#@ <id_BxLZ6T2Huj_H?S_DLM3YnQj?m>
+<Dorin_Chirtoacă>	<isLeaderOf>	<Liberal_Party_(Moldova)> .
+#@ <id_41xJRwWn7B_H?S_vF3xw9ZW3D>
+<Vijitha_Herath>	<isLeaderOf>	<Democratic_National_Alliance_(Sri_Lanka)> .
+#@ <id_f2OnvuBiNP_H?S_sfCLE0rhmd>
+<Matt_Thorn>	<isLeaderOf>	<OutServe-SLDN> .
+#@ <id_stvz7jEKTb_H?S_HqRgoEAvFA>
+<Larry_Goldenberg>	<isLeaderOf>	<Vancouver_Prostate_Centre> .
+#@ <id_ET!4zQ6e3N_H?S_m3PehRxojg>
+<Cathay_Wagantall>	<isLeaderOf>	<Archerwill> .
+#@ <id_3IYEC9tMRS_H?S_dw1OdmWlXY>
+<Hossam_El-Gheriany>	<isLeaderOf>	<National_Council_for_Human_Rights> .
+#@ <id_jFJyWmooB!_H?S_sNEzz0rNU9>
+<Pranab_Basu>	<isLeaderOf>	<Midnapore> .
+#@ <id_ZypweXSZoW_H?S_RjrEEWg7hh>
+<Dick_Durbin>	<isLeaderOf>	<Senate_Ukraine_Caucus> .
+#@ <id_FjK7odLO?P_H?S_Tci6oJAeb0>
+<Andrea_Levin>	<isLeaderOf>	<Committee_for_Accuracy_in_Middle_East_Reporting_in_America> .
+#@ <id_Ahhm1Lk8i7_H?S_POSFAq?dZq>
+<Colin_Munro_MacLeod>	<isLeaderOf>	<International_Centre_for_Diarrhoeal_Disease_Research,_Bangladesh> .
+#@ <id_Z5qKOH7d?o_H?S_LllWHWpL!p>
+<Denise_Lewis>	<isLeaderOf>	<Commonwealth_Games_England> .
+#@ <id_Uk8Ca4gc6w_H?S_U?U4YVEnD9>
+<Gavin_St_Pier>	<isLeaderOf>	<Guernsey> .
+#@ <id_ky1mfsUkzY_H?S_?O1g8J6ZB!>
+<Han_Dong_(politician)>	<isLeaderOf>	<Harbourfront_(Toronto)> .
+#@ <id_RrPolqiubr_H?S_bke8kH!376>
+<Geert_Bourgeois>	<isLeaderOf>	<Flemish_Region> .
+#@ <id_QgfY9JDtmC_H?S_sDn4lF52Qd>
+<Jargaltulgyn_Erdenebat>	<isLeaderOf>	<Mongolia> .
+#@ <id_8hgtAcs9CS_H?S_L3NvzQQpfI>
+<Joko_Widodo>	<isLeaderOf>	<Indonesian_Army> .
+#@ <id_dQWEu4BvU5_H?S_DEmMsQHKZq>
+<Arthur_Potts_(politician)>	<isLeaderOf>	<East_Danforth> .
+#@ <id_cszX4m!Dlt_H?S_g6uT3AZ6M4>
+<Walter_Torres_Maldonado>	<isLeaderOf>	<Peñuelas,_Puerto_Rico> .
+#@ <id_VFKTpms0Ss_H?S_yfHsDXEq2?>
+<Saud_bin_Nayef_Al_Saud>	<isLeaderOf>	<Saihat> .
+#@ <id_!f0Edr5C3i_H?S_nwHdB0ONR8>
+<Fred_Bradshaw>	<isLeaderOf>	<Tisdale,_Saskatchewan> .
+#@ <id_QuYEr?EEyC_H?S_97SE128hEA>
+<Robert_Murphy_Mayo>	<isLeaderOf>	<47th_Virginia_Infantry> .
+#@ <id_bbwaD2387f_H?S_4MD?2m8pM5>
+<Rick_Shangraw>	<isLeaderOf>	<ASU_Enterprise_Partners> .
+#@ <id_d5SQey3OuQ_H?S_FJe5MfAGUc>
+<Yin_Yicui>	<isLeaderOf>	<Shanghai> .
+#@ <id_Q5eRSQOV2e_H?S_Cv0tr2oMSX>
+<Ron_Kostyshyn>	<isLeaderOf>	<Mafeking,_Manitoba> .
+#@ <id_xfPpW6NJgS_H?S_udCNEeCYFL>
+<Ted_Lieu>	<isLeaderOf>	<Venice,_Los_Angeles> .
+#@ <id_gcyaNBrddo_H?S_mSBDYoMy!P>
+<Luiz_Fernando_Pezão>	<isLeaderOf>	<Rio_de_Janeiro_(state)> .
+#@ <id_mlUHzzI0P8_H?S_7CHt?NOKMl>
+<Michael_Freda>	<isLeaderOf>	<North_Haven,_Connecticut> .
+#@ <id_LhFSXZ5iVK_H?S_9x6919w!NU>
+<Marc_Parent>	<isLeaderOf>	<Rimouski> .
+#@ <id_DCyuFMOBHU_H?S_difUalZVK!>
+<Louise_Stutes>	<isLeaderOf>	<Akhiok,_Alaska> .
+#@ <id_HhPHsjh!?6_H?S_Iqs9wAtuPT>
+<John_Gioia>	<isLeaderOf>	<Bayview-Montalvin,_California> .
+#@ <id_StK6wApsGF_H?S_Y0x3n?vymX>
+<Carlos_Felton>	<isLeaderOf>	<Mazatlán> .
+#@ <id_EO5jviEeUt_H?S_op5rBWNI7z>
+<Hunter_Walker>	<isLeaderOf>	<Tifton,_Georgia> .
+#@ <id_uHeQ7n4FA4_H?S_5oawjjncmN>
+<Wayne_Ewasko>	<isLeaderOf>	<Lac_du_Bonnet,_Manitoba> .
+#@ <id_7iBjPaz6RM_H?S_1P6nlCeWOs>
+<Mohammad_Farid>	<isLeaderOf>	<Watani_Party> .
+#@ <id_vo1qjES6HQ_H?S_MLZ1KE2XR5>
+<Tony_Carey>	<isLeaderOf>	<Frederick,_Colorado> .
+#@ <id_Sbz6bXMgg4_H?S_ljuJE5gq0m>
+<Ibrahim_Boubacar_Keïta>	<isLeaderOf>	<Military_of_Mali> .
+#@ <id_szk3n2CSGn_H?S_4Tm8GvNpXJ>
+<Gerardo_Morales_(politician)>	<isLeaderOf>	<Jujuy_Province> .
+#@ <id_6vSHE12vgH_H?S_KKEwano2B8>
+<Darko_Marković>	<isLeaderOf>	<Mali_Bukovec> .
+#@ <id_MqWBg2tAMB_H?S_p9h4YgMnWH>
+<Paul_Stinchcombe>	<isLeaderOf>	<Borough_of_Wellingborough> .
+#@ <id_!n3UDwSHGk_H?S_dCQsjJQZdZ>
+<Linda_Reimer>	<isLeaderOf>	<Coquitlam> .
+#@ <id_9qu63C!66m_H?S_IeiKm02RYm>
+<Rocky_Simpson>	<isLeaderOf>	<Hay_River,_Northwest_Territories> .
+#@ <id_54W?6lfeTs_H?S_g0n!jNKiZb>
+<Tony_Caterina>	<isLeaderOf>	<Dickinsfield,_Edmonton> .
+#@ <id_T8gzFYvAY2_H?S_A4soKdV067>
+<Samuel_Ortom>	<isLeaderOf>	<Benue_State> .
+#@ <id_QlUTz7GL6q_H?S_aGZfARJiaK>
+<Boryslav_Bereza>	<isLeaderOf>	<Kiev> .
+#@ <id_G86iFld6j3_H?S_mXi3fg6ygy>
+<Robert_Chote>	<isLeaderOf>	<Office_for_Budget_Responsibility> .
+#@ <id_kK!urrJKIH_H?S_6uPvl47cUW>
+<Charles_Cornwallis,_1st_Marquess_Cornwallis>	<isLeaderOf>	<Fort_Lee_Historic_Park> .
+#@ <id_FECcmOJrh2_H?S_Zjn9tNi3vU>
+<Dave_Potter_(politician)>	<isLeaderOf>	<Carmel_Valley_Village,_California> .
+#@ <id_oIfsymhui?_H?S_FT?NYZAU77>
+<Joseph_L._Lengyel>	<isLeaderOf>	<National_Guard_of_the_United_States> .
+#@ <id_M3TVFFrQrK_H?S_EdiD7wiTmj>
+<Karen_Leibovici>	<isLeaderOf>	<Dechene,_Edmonton> .
+#@ <id_IrqOm1HtKt_H?S_i?m!PDCxR2>
+<Lyman_Hoffman>	<isLeaderOf>	<Flat,_Alaska> .
+#@ <id_3glzg9bukg_H?S_my6dqRAMOS>
+<C._Ramachandra_Reddy>	<isLeaderOf>	<Khairtabad> .
+#@ <id_cfBeFVUDr0_H?S_2l57vBT?nQ>
+<Robin_Janvrin,_Baron_Janvrin>	<isLeaderOf>	<The_Leadership_Council> .
+#@ <id_aAUc1Z!wCT_H?S_cLexhMbK!7>
+<Abraham_Gum_Makuach>	<isLeaderOf>	<Gogrial_State> .
+#@ <id_Zgd6uGVQmO_H?S_jtXLVkQtk!>
+<Peter_Lyon>	<isLeaderOf>	<Amherst,_New_Hampshire> .
+#@ <id_DcLt7iWMbE_H?S_8c?WcBQp0e>
+<Georgina_Jolibois>	<isLeaderOf>	<Buffalo_Narrows> .
+#@ <id_p32GQOtDgu_H?S_sRwEZ2geeZ>
+<David_Miliband>	<isLeaderOf>	<International_Rescue_Committee> .
+#@ <id_pRoc1kt3TK_H?S_3MEe4Nv9WB>
+<Member_of_the_Legislative_Assembly>	<isLeaderOf>	<Port_Elgin,_New_Brunswick> .
+#@ <id_54W?6lfeTs_H?S_q4ryP3yMK0>
+<Tony_Caterina>	<isLeaderOf>	<Eastwood,_Edmonton> .
+#@ <id_dupPM9I1O9_H?S_ACZiH5SRuT>
+<Richard_Mostyn>	<isLeaderOf>	<Whitehorse,_Yukon> .
+#@ <id_xrcGbRQFGq_H?S_1lIEAAq?ty>
+<Na_Kyung-won>	<isLeaderOf>	<Seoul> .
+#@ <id_emj0tYSJ62_H?S_iL04TcPYiL>
+<Nathan_Cullen>	<isLeaderOf>	<Prince_Rupert,_British_Columbia> .
+#@ <id_txYMv9WGCn_H?S_dYwyKh8fkY>
+<Luis_Castañeda_Lossio>	<isLeaderOf>	<Lima> .
+#@ <id_jm2C7!Zx8D_H?S_?O1g8J6ZB!>
+<Joe_Cressy>	<isLeaderOf>	<Harbourfront_(Toronto)> .
+#@ <id_Y73P9ka4rN_H?S_7!ylH7Exqo>
+<Chiranjeet_Chakraborty>	<isLeaderOf>	<Barasat> .
+#@ <id_oOe7fIZsXm_H?S_9BFckSeS0H>
+<Gus_O'Donnell>	<isLeaderOf>	<Civil_Service_Islamic_Society> .
+#@ <id_INDI0Yht2e_H?S_bUJJufvk6y>
+<Jill_Jacobs_(rabbi)>	<isLeaderOf>	<T'ruah> .
+#@ <id_lV7D5jJlZP_H?S_A79xTD9j0n>
+<Robert_E._Lee>	<isLeaderOf>	<Confederate_States_Army> .
+#@ <id_49I!JK1CQM_H?S_17cLXz7?rn>
+<Nikita_Belykh>	<isLeaderOf>	<Union_of_Right_Forces> .
+#@ <id_gkXguIissI_H?S_7jvhfSFlbM>
+<Harry_Cobby>	<isLeaderOf>	<No._1_Squadron_RAAF> .
+#@ <id_ecx3GBSEbU_H?S_xBACh2ys7D>
+<Kit_Nieto>	<isLeaderOf>	<Karangalan_Village,_Cainta> .
+#@ <id_AeOnqnTqL!_H?S_1bRvftLEnP>
+<Julio_Argentino_Roca>	<isLeaderOf>	<National_Autonomist_Party> .
+#@ <id_qdze7XS91q_H?S_ypiQUeJO7o>
+<Richard_L._Saslaw>	<isLeaderOf>	<Alexandria,_Virginia> .
+#@ <id_FsneragWXb_H?S_!p!fbznfw1>
+<Robert_William_Wilcox>	<isLeaderOf>	<Home_Rule_Party_of_Hawaii> .
+#@ <id_V1Zbmjmxzf_H?S_okXWo5RDHZ>
+<Ashton_Kutcher>	<isLeaderOf>	<Thorn_(organization)> .
+#@ <id_Cre48ghpoX_H?S_qI?YnDg4F5>
+<Zhu_Haowen>	<isLeaderOf>	<Qinhuangdao> .
+#@ <id_RY0wVveebf_H?S_TNYNIJyYgM>
+<Kathleen_Wynne>	<isLeaderOf>	<York_Mills> .
+#@ <id_Wse7IVagz7_H?S_MIKk5t?pCh>
+<Bob_Bjornerud>	<isLeaderOf>	<Bredenbury,_Saskatchewan> .
+#@ <id_UDPs!Hi5tB_H?S_2ZlskWb1bf>
+<John_Yakabuski>	<isLeaderOf>	<Whitewater_Region> .
+#@ <id_!W1GY7wk7N_H?S_5rescKx9IM>
+<José_Perurena_López>	<isLeaderOf>	<International_Canoe_Federation> .
+#@ <id_JmDmT2b5fT_H?S_3kml8jkocY>
+<Federico_Policani>	<isLeaderOf>	<Colón,_Panama> .
+#@ <id_8Ya!jkHDmw_H?S_LWrhY9imEp>
+<Ashford_Sinanan>	<isLeaderOf>	<Democratic_Labour_Party_(West_Indies_Federation)> .
+#@ <id_ExSQzjrVsq_H?S_ZJXNxAx96X>
+<Vidal_Francisco_Soberón_Sanz>	<isLeaderOf>	<Mexican_Armed_Forces> .
+#@ <id_Hs6thMdaXx_H?S_7D!JW8fpzB>
+<Graziano_Delrio>	<isLeaderOf>	<Renziani> .
+#@ <id_r9dFK4JOJ3_H?S_x3nm8XK40G>
+<Vasyl_Kuybida>	<isLeaderOf>	<People's_Movement_of_Ukraine> .
+#@ <id_rHDavGVYjG_H?S_jmUnkmbbST>
+<Lee_Bee_Wah>	<isLeaderOf>	<Yishun> .
+#@ <id_euKhY!fnt?_H?S_WImtUIa9mZ>
+<Julián_Velázquez_y_Llorente>	<isLeaderOf>	<Tlaxcala> .
+#@ <id_r7N02sgRCr_H?S_k6y!Oy2weR>
+<Sarah_Hoffman>	<isLeaderOf>	<North_Glenora,_Edmonton> .
+#@ <id_3Di6LJuTSe_H?S_cSpU!Bb4!?>
+<John_Furlong_(sports_administrator)>	<isLeaderOf>	<VANOC> .
+#@ <id_zi3nsNjspv_H?S_5E66hIEZo!>
+<Jim_Farr>	<isLeaderOf>	<Goleta,_California> .
+#@ <id_e2t!rkJKp0_H?S_ZKHzQjn1Et>
+<Carlo_Cattaneo>	<isLeaderOf>	<Action_Party_(Italy,_1848)> .
+#@ <id_zjfc?Co1Gk_H?S_ZxMjzgb4H3>
+<Nawab_Zada_Wali_Muhammad_Khan>	<isLeaderOf>	<Battagram_District> .
+#@ <id_rgN6D3bUhe_H?S_BHgyfxDCG8>
+<Independent_politician>	<isLeaderOf>	<Luzerne_County,_Pennsylvania> .
+#@ <id_?Yj5VproEz_H?S_uzWQkCMt5G>
+<Town_council>	<isLeaderOf>	<Zealandia_(town)> .
+#@ <id_LoAsJ2z7mx_H?S_LKKii6k!Ro>
+<Frank_S._Leffingwell>	<isLeaderOf>	<Round_Rock,_Texas> .
+#@ <id_gMw9eBb1jo_H?S_TAD4yfcVBX>
+<Jim_Jeffers>	<isLeaderOf>	<Nacogdoches,_Texas> .
+#@ <id_odxhskKf73_H?S_!ibI4Z8q5O>
+<Mike_Jakubo_(curler)>	<isLeaderOf>	<Nickel_Centre> .
+#@ <id_tswywI2gJ5_H?S_0zqAyUuPW2>
+<Joyce_Anelay,_Baroness_Anelay_of_St_Johns>	<isLeaderOf>	<British_Overseas_Territories> .
+#@ <id_guCUo1ivxP_H?S_olveNo2Zrc>
+<Rustam_Effendi>	<isLeaderOf>	<Bangka_Belitung_Islands> .
+#@ <id_nLX8spDEZX_H?S_uo9vSpFdzI>
+<Roberto_Speranza>	<isLeaderOf>	<Reformist_Area> .
+#@ <id_?88Pvl8RGU_H?S_5XVrZjVs0U>
+<Tammy_Wilson>	<isLeaderOf>	<Chester,_Nova_Scotia> .
+#@ <id_ddy5cfuJV5_H?S_aLQNW!Q0Of>
+<Douglas_Murray_(author)>	<isLeaderOf>	<Henry_Jackson_Society> .
+#@ <id_ZT72yGAL8e_H?S_mHn3uuuwDE>
+<Donald_Trump>	<isLeaderOf>	<103rd_Air_Control_Squadron> .
+#@ <id_esCb7IskM6_H?S_I1tZBNYrED>
+<Kevan_Hurst>	<isLeaderOf>	<Walton_Hills,_Ohio> .
+#@ <id_WGgqiGu2m7_H?S_XTd!!HTdGV>
+<Leslie_Harris_(lawyer)>	<isLeaderOf>	<Center_for_Copyright_Information> .
+#@ <id_r5M8!6Ytx!_H?S_R?VjX!VEHL>
+<Yasir_Naqvi>	<isLeaderOf>	<Mechanicsville,_Ottawa> .
+#@ <id_ddbtmFH57n_H?S_fAmnGQi37D>
+<Elaine_McCoy>	<isLeaderOf>	<Independent_Senators_Group> .
+#@ <id_?J9lAzL5Dy_H?S_e?Wy!UdbFG>
+<Kenneth_Kedi>	<isLeaderOf>	<Marshall_Islands> .
+#@ <id_97MX1gz5Ib_H?S_R9ikn2SJHx>
+<Sher_Singh_Ghubaya>	<isLeaderOf>	<Bhangala> .
+#@ <id_SYvjglL2?L_H?S_y31nRvWvWn>
+<Alan_Clarke>	<isLeaderOf>	<One_NorthEast> .
+#@ <id_cbd7sYRh4z_H?S_?BZcAJNaDb>
+<Justin_Trudeau>	<isLeaderOf>	<Montreal> .
+#@ <id_PetT220sWQ_H?S_zdF56MRN3s>
+<Armand_Călinescu>	<isLeaderOf>	<National_Renaissance_Front> .
+#@ <id_ECuvRv1pwW_H?S_Fm4yFdgvbK>
+<Patty_Berg>	<isLeaderOf>	<Fort_Dick,_California> .
+#@ <id_?JoiPqktmh_H?S_ZUEcl5UKKV>
+<Kanubhai_Hasmukhbhai_Tailor>	<isLeaderOf>	<Disable_Welfare_Trust_of_India> .
+#@ <id_aXUGP9uJMo_H?S_gA29y8vpZh>
+<Nikolai_Simoniak>	<isLeaderOf>	<56th_Guards_District_Training_Center> .
+#@ <id_pv?ashNq0I_H?S_OFMmQa1Nfj>
+<Elguja_Gvazava>	<isLeaderOf>	<Government_of_the_Autonomous_Republic_of_Abkhazia> .
+#@ <id_c2JRTHrXhU_H?S_tlNjz?zzw0>
+<Allan_L._Rellon>	<isLeaderOf>	<Tagum> .
+#@ <id_JxQDixW5fC_H?S_tksXq9FG6m>
+<Marcelino_Martínez>	<isLeaderOf>	<Sobrescobio> .
+#@ <id_eRNTJfsa5H_H?S_5co35lY5Yr>
+<Roberto_Salcedo_Sr.>	<isLeaderOf>	<24_de_Abril> .
+#@ <id_jehvdiIfc0_H?S_g7xkzMJUBQ>
+<Robert_Sopuck>	<isLeaderOf>	<McAuley,_Manitoba> .
+#@ <id_HEb23B2hQ2_H?S_9sQrvCwH3W>
+<John_Campbell_(Ontario_politician)>	<isLeaderOf>	<Humber_Heights_–_Westmount> .
+#@ <id_euMmtzsU41_H?S_6yUzzZSrMK>
+<Byron_Brown>	<isLeaderOf>	<Buffalo,_New_York> .
+#@ <id_CGrnZfXaCr_H?S_dhIq!2cC77>
+<Mike_Nickel>	<isLeaderOf>	<Richfield,_Edmonton> .
+#@ <id_9ThZzWl1N6_H?S_2GCt8dDJm5>
+<Zhang_Binglin>	<isLeaderOf>	<Unity_Party_(China)> .
+#@ <id_DzTPuZCbho_H?S_Z3qZRNSJRq>
+<Mark_Leno>	<isLeaderOf>	<Woodacre,_California> .
+#@ <id_!w?Ku090T9_H?S_S5SRoWB9T9>
+<Gregor_Robertson_(politician)>	<isLeaderOf>	<Vancouver> .
+#@ <id_NA?5DzHCnr_H?S_tGFVVtF?2a>
+<Choe_Ryong-hae>	<isLeaderOf>	<North_Korea> .
+#@ <id_GvjkDkngGM_H?S_iRO!UiNBMs>
+<Naresh_Yadav>	<isLeaderOf>	<Mehrauli> .
+#@ <id_4Au2?39quB_H?S_2HUIvLF58A>
+<Joseph_Votel>	<isLeaderOf>	<United_States_Central_Command> .
+#@ <id_4LgFL17nyi_H?S_FaYcZjMaou>
+<Martín_Orozco_Sandoval>	<isLeaderOf>	<Aguascalientes> .
+#@ <id_lz8KdYmcVm_H?S_98gt?pWf2t>
+<Sebihan_Mehmed>	<isLeaderOf>	<Krumovgrad> .
+#@ <id_7MR!SVWn6K_H?S_sEZGnmVp8G>
+<Ana_Bailão>	<isLeaderOf>	<Dovercourt_Park> .
+#@ <id_5BM5lp66yC_H?S_f6qVSW5ElI>
+<Tjapko_Poppens>	<isLeaderOf>	<Wijk_bij_Duurstede> .
+#@ <id_7gIr1QZxq?_H?S_h!yyUo?qGP>
+<Rodolfo_Rodríguez>	<isLeaderOf>	<San_José,_Belize> .
+#@ <id_nUA!HwNaHc_H?S_naoMFEjGWM>
+<Rebecca_Rios>	<isLeaderOf>	<Arizona_Democratic_Party> .
+#@ <id_1mriL28UFP_H?S_2zllNWD0AB>
+<Philip_Baker_(obstetrician)>	<isLeaderOf>	<Gravida_(organisation)> .
+#@ <id_aibR1lReDi_H?S_IATFe!RP48>
+<Ren_Xuefeng>	<isLeaderOf>	<Guangzhou> .
+#@ <id_oAthXglTlS_H?S_kBfk!MWHVD>
+<Stu_Briese>	<isLeaderOf>	<Bagot,_Manitoba> .
+#@ <id_k0czDC9YYM_H?S_wAceHwFDrY>
+<Cheryl_Gallant>	<isLeaderOf>	<Nipissing_District> .
+#@ <id_0JTD9oVBK7_H?S_?BZcAJNaDb>
+<Alexandre_Boulerice>	<isLeaderOf>	<Montreal> .
+#@ <id_WceBmZZMYz_H?S_tQsFib9osY>
+<Jean_Fuller>	<isLeaderOf>	<Taft_Heights,_California> .
+#@ <id_eRNTJfsa5H_H?S_npn?xZTjFq>
+<Roberto_Salcedo_Sr.>	<isLeaderOf>	<Ciudad_Universitaria,_Distrito_Nacional> .
+#@ <id_ovnhi9DI2C_H?S_KHCYOUMDzp>
+<Manuel_Pardo>	<isLeaderOf>	<Civilista_Party> .
+#@ <id_Fz6jXyW6QU_H?S_G7dT6pCiam>
+<Irina_Deriugina>	<isLeaderOf>	<Ukrainian_Federation_of_Rhythmic_Gymnastics> .
+#@ <id_gTS2zEDaxF_H?S_qVqbkae!oK>
+<Larry_Doke>	<isLeaderOf>	<Maidstone,_Saskatchewan> .
+#@ <id_IB4nl50rWH_H?S_nMYrmMASga>
+<Haakon_Bruun-Hanssen>	<isLeaderOf>	<Norwegian_Armed_Forces> .
+#@ <id_URL?y1Yz3S_H?S_wYH20jZykC>
+<Bob_Crowell>	<isLeaderOf>	<Carson_City,_Nevada> .
+#@ <id_HC5BxqGxYl_H?S_15smwf7OZ3>
+<Helen_Adams>	<isLeaderOf>	<Jericho,_Arkansas> .
+#@ <id_ZtLUPxDCdX_H?S_EGrxG0cle3>
+<Fred_Horne>	<isLeaderOf>	<New_Richmond,_Wisconsin> .
+#@ <id_n0XqcgH0DU_H?S_oiEKK8sav2>
+<Ajay_K._Sood>	<isLeaderOf>	<Indian_National_Science_Academy> .
+#@ <id_!vV2XttoqO_H?S_1Hb!y4baQ4>
+<Dave_Talerico>	<isLeaderOf>	<Steele_Creek,_Alaska> .
+#@ <id_7w0wN21jsD_H?S_DxTNJuvt2p>
+<Denny_Doyle_(politician)>	<isLeaderOf>	<Beaverton,_Oregon> .
+#@ <id_EA?4YK8lCN_H?S_4Pj?m7H8BI>
+<John_Barlow_(Canadian_politician)>	<isLeaderOf>	<Fort_Macleod> .
+#@ <id_J7D?YvMffD_H?S_QDNHRqTaHu>
+<Henry_Halleck>	<isLeaderOf>	<Union_Army> .
+#@ <id_2WOek6LaIc_H?S_IUyzTWQY5d>
+<Gregory_Beroza>	<isLeaderOf>	<Southern_California_Earthquake_Center> .
+#@ <id_IKeezfyBgw_H?S_nMMDEAiR3k>
+<Darko_Kralj>	<isLeaderOf>	<Luka,_Zagreb_County> .
+#@ <id_7JjJnVSqlR_H?S_LEiwfSr?C!>
+<József_Sándor>	<isLeaderOf>	<Feliceni> .
+#@ <id_0UGyQrXXxX_H?S_rlkl067hMN>
+<Frederic_J._Fransen>	<isLeaderOf>	<Center_for_Excellence_in_Higher_Education> .
+#@ <id_mlfgk2MbO5_H?S_4IU?2wIF7x>
+<Luke_Clippinger>	<isLeaderOf>	<Baltimore> .
+#@ <id_dbIu33V0vz_H?S_1wwBzH93oK>
+<Antonio_Maura>	<isLeaderOf>	<Conservative_Party_(Spain)> .
+#@ <id_AryhK20rQP_H?S_81saAwMcnk>
+<Udom_Gabriel_Emmanuel>	<isLeaderOf>	<Akwa_Ibom_State> .
+#@ <id_dpxHojjeBX_H?S_Q528Bvidm4>
+<Levente_Riz>	<isLeaderOf>	<Rákosmente> .
+#@ <id_cRTjmIx8pd_H?S_oS1Pa1z4sQ>
+<Nils_Muižnieks>	<isLeaderOf>	<Commissioner_for_Human_Rights> .
+#@ <id_jae3ZpTX5Y_H?S_6DMu5gn5IJ>
+<Mahamudu_Bawumia>	<isLeaderOf>	<Ghana> .
+#@ <id_!NZlqeAAps_H?S_nmadISE3ee>
+<Ramón_Luis_Rivera_Jr.>	<isLeaderOf>	<Bayamón,_Puerto_Rico> .
+#@ <id_90bM?mrHp5_H?S_N1zXLUPjKE>
+<Mashrafe_Mortaza>	<isLeaderOf>	<Narail_District> .
+#@ <id_HfwQiXi8Fs_H?S_YHc2EVp42t>
+<Linda_Sloan>	<isLeaderOf>	<Jasper_Place,_Alberta> .
+#@ <id_55MgsIgClM_H?S_pFchfQ?d6W>
+<Ed_Komarnicki>	<isLeaderOf>	<Rocanville> .
+#@ <id_2ZlXq8S68p_H?S_RHe7QLVTeX>
+<George_Bancroft>	<isLeaderOf>	<War_Democrat> .
+#@ <id_C5IAfn2aTu_H?S_NBFMVg3IGU>
+<Dick_Haley>	<isLeaderOf>	<Corona,_California> .
+#@ <id_ZDdlEBRWri_H?S_3V!j1viMUu>
+<Taur_Matan_Ruak>	<isLeaderOf>	<East_Timor> .
+#@ <id_eOGZf4WVew_H?S_M0h8dRadVU>
+<Asbjørn_Wahl>	<isLeaderOf>	<Campaign_for_the_Welfare_State> .
+#@ <id_G31fPGAwcd_H?S_MY8mjnqVAI>
+<Hafiz_Hafeezur_Rehman>	<isLeaderOf>	<Gilgit-Baltistan> .
+#@ <id_CSNn7qk6Ud_H?S_adJ41wgq0v>
+<Rolf_Apweiler>	<isLeaderOf>	<European_Bioinformatics_Institute> .
+#@ <id_!Oiew0i2KX_H?S_4ljHACEEfg>
+<Ali_Ehsassi>	<isLeaderOf>	<North_York> .
+#@ <id_gzxzueNop9_H?S_yORu?Fw4E3>
+<Click_Bishop>	<isLeaderOf>	<McKinley_Park,_Alaska> .
+#@ <id_80gsYIqO0s_H?S_iQyM05ViNU>
+<Teresa_Núñez>	<isLeaderOf>	<Cardenal_Caro_Province> .
+#@ <id_mpMXepfHpq_H?S_oqpYQlagvH>
+<Jack_Manchester>	<isLeaderOf>	<Lewisburg,_West_Virginia> .
+#@ <id_2wxDUb0vl4_H?S_7S6EjyoLk5>
+<Vasip_Şahin>	<isLeaderOf>	<Eyüp> .
+#@ <id_7BOel8C3Rs_H?S_uLJnKrEmu8>
+<Ali_Mohamed_Shein>	<isLeaderOf>	<Zanzibar> .
+#@ <id_rMycdEquuQ_H?S_XZwXNXz!6S>
+<Prince_Sixtus_Henry_of_Bourbon-Parma>	<isLeaderOf>	<Order_of_Saint_Lazarus_(statuted_1910)> .
+#@ <id_VgoE8MM4KV_H?S_KLaK0MKpFL>
+<Vasily_Golubev_(politician)>	<isLeaderOf>	<Rostov_Oblast> .
+#@ <id_XRQWtPzi7b_H?S_3g!inWWXSF>
+<Michael_Chong>	<isLeaderOf>	<Puslinch,_Ontario> .
+#@ <id_4Rl50PcIug_H?S_qRCJjSMxSR>
+<Chris_Sanders>	<isLeaderOf>	<Crystal_Lake_Park,_Missouri> .
+#@ <id_zoaG4DIHtZ_H?S_pP3PdHEehZ>
+<Felix_Scheffler>	<isLeaderOf>	<Volksmarine> .
+#@ <id_7?lNTElXyX_H?S_DWMWX4C0Ys>
+<Katja_Suding>	<isLeaderOf>	<Free_Democratic_Party_(Germany)> .
+#@ <id_9luQgvkQnt_H?S_2SXsojCAiP>
+<Carlos_López-Cantera>	<isLeaderOf>	<Flagami> .
+#@ <id_9bHMW7hjpu_H?S_jDxqmkURST>
+<Meynardo_Sabili>	<isLeaderOf>	<Lipa,_Batangas> .
+#@ <id_aSl6yeCvUj_H?S_8bnGGILq25>
+<Jenny_Kwan>	<isLeaderOf>	<Strathcona,_Vancouver> .
+#@ <id_nPcHnLbZ4l_H?S_mAhK0CPUt3>
+<Chuan_Leekpai>	<isLeaderOf>	<Democrat_Party_(Thailand)> .
+#@ <id_MPoTK1pN8R_H?S_JCAi5wAS8J>
+<Manuel_María_Lombardini>	<isLeaderOf>	<Conservative_Party_(Mexico)> .
+#@ <id_tIJXc1I2Wv_H?S_gPQAkIBHZt>
+<John_Redwood>	<isLeaderOf>	<Borough_of_Wokingham> .
+#@ <id_bSiTHjiHba_H?S_eWIXgiWewu>
+<David_Shiner_(politician)>	<isLeaderOf>	<Bayview_Village> .
+#@ <id_vzfNIplIPj_H?S_pqVmRby4De>
+<Henri_Vaugeois>	<isLeaderOf>	<Action_Française> .
+#@ <id_yVH!Xxkk19_H?S_GwTIViM3xY>
+<John_I_of_Portugal>	<isLeaderOf>	<Portuguese_Empire> .
+#@ <id_tqsrgFD8K5_H?S_CPVFsuzQZ?>
+<Mamoni_Raisom_Goswami>	<isLeaderOf>	<People's_Consultative_Group> .
+#@ <id_1XHGZFgrHf_H?S_VRcAGYVcpR>
+<Carlos_López_Rivera>	<isLeaderOf>	<Dorado,_Puerto_Rico> .
+#@ <id_gzxzueNop9_H?S_jHaVf9bRW3>
+<Click_Bishop>	<isLeaderOf>	<Alcan_Border,_Alaska> .
+#@ <id_rwir0DlXcC_H?S_5LLAbFdrNx>
+<Finlay_Rothhaus>	<isLeaderOf>	<Merrimack,_New_Hampshire> .
+#@ <id_wXvb1O31t6_H?S_JBoD2YLEB4>
+<Chiu_Ching-chun>	<isLeaderOf>	<Hsinchu_County> .
+#@ <id_irwt4?mlPN_H?S_29zsdMBAOv>
+<David_C._Long>	<isLeaderOf>	<Fort_Wayne,_Indiana> .
+#@ <id_skQfU!e9Ii_H?S_1miq4s1wFu>
+<Donny_Olson>	<isLeaderOf>	<Point_Hope,_Alaska> .
+#@ <id_wo6nUUGDwY_H?S_Mx5oYfFvNh>
+<Christina,_Queen_of_Sweden>	<isLeaderOf>	<Military_of_the_Swedish_Empire> .
+#@ <id_ZX??iYSaHr_H?S_zaOE0vDB2Y>
+<Viktor_Orbán>	<isLeaderOf>	<Fidesz> .
+#@ <id_x7NzqRp16s_H?S_t6Px0gUGAd>
+<Charles_Jackson_Paine>	<isLeaderOf>	<2nd_Louisiana_Regiment_Infantry_(Union)> .
+#@ <id_ENym03ukQ7_H?S_AbfUNkexG6>
+<Zekra_Alwach>	<isLeaderOf>	<Baghdad_Governorate> .
+#@ <id_anLxBQAfAG_H?S_UpEqUDBiup>
+<Terry_Beech>	<isLeaderOf>	<Burnaby> .
+#@ <id_!FKTtp6F?M_H?S_kv2xFRtk5l>
+<Sandro_Pertini>	<isLeaderOf>	<Italian_Socialist_Party> .
+#@ <id_iVLuES2x1N_H?S_w3nm2garrP>
+<Nikolay_Gergov>	<isLeaderOf>	<Gramada,_Bulgaria> .
+#@ <id_IO3dHGE8Pe_H?S_VE70Qia3CP>
+<Zahra_Saei>	<isLeaderOf>	<Tabriz> .
+#@ <id_l4vByvXvq8_H?S_7aZj2iqg2j>
+<Tião_Viana>	<isLeaderOf>	<Acre_(state)> .
+#@ <id_LUPhvYicyR_H?S_DLnzJyc5DR>
+<Mike_Navarre>	<isLeaderOf>	<Lowell_Point,_Alaska> .
+#@ <id_oEG0dPLDQC_H?S_q!i8TZMLS7>
+<Wang_Yongkang>	<isLeaderOf>	<Xi'an> .
+#@ <id_EFUMXjy?dm_H?S_ThhIcwZmyb>
+<Christina_Gray>	<isLeaderOf>	<Edmonton> .
+#@ <id_4akltuCifR_H?S_pDEBamjO9p>
+<Valter_Flego>	<isLeaderOf>	<Istria_County> .
+#@ <id_tkNn56IudG_H?S_N2sq0mKGpL>
+<Lois_Jackson>	<isLeaderOf>	<Delta,_British_Columbia> .
+#@ <id_GPUW3kXa3v_H?S_UC!IbvSU9B>
+<Job_Ndugai>	<isLeaderOf>	<Tanzania> .
+#@ <id_!vV2XttoqO_H?S_QJZYxiUlf8>
+<Dave_Talerico>	<isLeaderOf>	<Four_Mile_Road,_Alaska> .
+#@ <id_kJG6JqO15W_H?S_pMrXFRs9DE>
+<Don_MacIntyre>	<isLeaderOf>	<Sylvan_Lake,_Alberta> .
+#@ <id_cARnxaQPYR_H?S_THAImzAE0z>
+<Bob_Bratina>	<isLeaderOf>	<Hamilton,_Ontario> .
+#@ <id_VOF54rF4?A_H?S_WvaVaQEnX>
+<Yoweri_Museveni>	<isLeaderOf>	<Uganda> .
+#@ <id_Xm79conakK_H?S_satAJ9dRT8>
+<Jim_Prentice>	<isLeaderOf>	<Division_No._6,_Alberta> .
+#@ <id_qS7JHG2yWn_H?S_GOcWs11NlE>
+<George_V>	<isLeaderOf>	<10th_Baluch_Regiment> .
+#@ <id_hHe65aVlmV_H?S_KHCYOUMDzp>
+<Serapio_Calderón>	<isLeaderOf>	<Civilista_Party> .
+#@ <id_ypO9AwCqqt_H?S_SC6nfLW334>
+<Charles_James_Fox>	<isLeaderOf>	<Whigs_(British_political_party)> .
+#@ <id_coL00U2j1q_H?S_IIQVBgfEcT>
+<Jorge_Santini>	<isLeaderOf>	<Venezuela_(Pueblo)> .
+#@ <id_IrqOm1HtKt_H?S_1VjAHGBPkc>
+<Lyman_Hoffman>	<isLeaderOf>	<Tuntutuliak,_Alaska> .
+#@ <id_hgivlenic8_H?S_VWH!Zi0mKD>
+<Hans-Göran_Johansson>	<isLeaderOf>	<Värnamo_Municipality> .
+#@ <id_PIEQN0uZP6_H?S_!OkKU61asa>
+<Geran_Tarr>	<isLeaderOf>	<Anchorage,_Alaska> .
+#@ <id_T3YjZm17lr_H?S_JjpXxEsaEY>
+<Biren_Sing_Engti>	<isLeaderOf>	<Bokajan> .
+#@ <id_x7K475x?1J_H?S_tESfADpUyD>
+<Mhd_Amin_Nordin_Abdul_Aziz>	<isLeaderOf>	<Bandar_Sri_Permaisuri> .
+#@ <id_ZlOa9lJEFo_H?S_LYT4KoMRlu>
+<Takao_Fujii>	<isLeaderOf>	<Sunrise_Party> .
+#@ <id_rq6gv0htzK_H?S_DEfgES8Rkv>
+<Blaine_Pedersen>	<isLeaderOf>	<Homewood,_Manitoba> .
+#@ <id_lfMqcYmhig_H?S_a0G0C2rqWH>
+<Ricardo_Colombi>	<isLeaderOf>	<Corrientes_Province> .
+#@ <id_qScaPPK6ZB_H?S_MRvNsRM7m?>
+<Gene_Karpinski>	<isLeaderOf>	<League_of_Conservation_Voters> .
+#@ <id_d3Si16RHkg_H?S_GWbMI0iElV>
+<Ivica_Kirin>	<isLeaderOf>	<Virovitica> .
+#@ <id_IrqOm1HtKt_H?S_Zz4BcE3if3>
+<Lyman_Hoffman>	<isLeaderOf>	<Newtok,_Alaska> .
+#@ <id_FSmzACTwFj_H?S_EUGV3v4NXd>
+<Hüseyin_Avni_Bey>	<isLeaderOf>	<57th_Infantry_Regiment_(Ottoman_Empire)> .
+#@ <id_F39E6X!U3K_H?S_q7a5EewABg>
+<Cardinal-Infante_Ferdinand_of_Austria>	<isLeaderOf>	<Army_of_Flanders> .
+#@ <id_bOiXGsEtRR_H?S_kw8eh?skH1>
+<Eduardo_Pereira>	<isLeaderOf>	<Horta_Football_Association> .
+#@ <id_rke4Un?wg?_H?S_Fl2068t5ec>
+<Carlos_Castillo_Armas>	<isLeaderOf>	<National_Liberation_Movement_(Guatemala)> .
+#@ <id_S0Z5?EAvAG_H?S_e1ZoV6gJxZ>
+<Stephen_Dorrell>	<isLeaderOf>	<European_Movement_UK> .
+#@ <id_QX7Ey!fXfa_H?S_0H?cgOzYQf>
+<Dennis_Faulkner>	<isLeaderOf>	<1st_Battalion,_Ulster_Defence_Regiment> .
+#@ <id_7EG2NbLoQE_H?S_FjIA71FKy2>
+<Remigijus_Šimašius>	<isLeaderOf>	<Vilnius> .
+#@ <id_grQ?RaovXL_H?S_rDXZmvdSQj>
+<Masahiko_Yamada>	<isLeaderOf>	<Tax_Cuts_Japan> .
+#@ <id_oFi3rKukfm_H?S_zR8IIS4gy6>
+<Ted_Gaines>	<isLeaderOf>	<Foresthill,_California> .
+#@ <id_hVKgSdcwmc_H?S_S9XH5d!XRJ>
+<Baldur_von_Schirach>	<isLeaderOf>	<League_of_German_Girls> .
+#@ <id_iYAseDJS5O_H?S_IZ6M4D8ESH>
+<Paul_Dennett>	<isLeaderOf>	<Irwell_Riverside_(ward)> .
+#@ <id_?Kuigvwoi4_H?S_xKmCTU5EwA>
+<Michelle_Stilwell>	<isLeaderOf>	<Lantzville> .
+#@ <id_BOK!FvTDPu_H?S_7U367bbhNd>
+<Elizabeth_II>	<isLeaderOf>	<Fiji> .
+#@ <id_P1ixKkdIPj_H?S_90WvgtATkS>
+<Bert_Stedman>	<isLeaderOf>	<Hobart_Bay,_Alaska> .
+#@ <id_yo1k8v2Z4N_H?S_agXKsQJFTl>
+<Jim_Hillyer_(politician)>	<isLeaderOf>	<Pakowki,_Alberta> .
+#@ <id_l?zdbUbidz_H?S_G3QH38WM0w>
+<Rosa_Elia_Romero_Guzmán>	<isLeaderOf>	<Oaxaca> .
+#@ <id_ui9ZjOAUK?_H?S_l?GKY81hEc>
+<Mikhail_Kasyanov>	<isLeaderOf>	<People's_Freedom_Party> .
+#@ <id_GH4qX5JCWY_H?S_DWEI!Mx9uh>
+<Sean_McDermott>	<isLeaderOf>	<Countryside,_Illinois> .
+#@ <id_PkZOt6zJxU_H?S_3O8nuS1Pck>
+<Michael_Levitt_(politician)>	<isLeaderOf>	<Bathurst_Manor> .
+#@ <id_8fKUci1n6L_H?S_SAu?uUFhfI>
+<Felix_Roque>	<isLeaderOf>	<West_New_York,_New_Jersey> .
+#@ <id_K3tPu7J?O?_H?S_4yQ1Xjuh2Y>
+<Andy_Vidak>	<isLeaderOf>	<Weedpatch,_California> .
+#@ <id_rgN6D3bUhe_H?S_1B81NLCBFl>
+<Independent_politician>	<isLeaderOf>	<Connacht> .
+#@ <id_GNh??dTS1F_H?S_8OeY6rmAxE>
+<Niki_Ashton>	<isLeaderOf>	<Sherridon,_Manitoba> .
+#@ <id_e2cQIsvs4h_H?S_uFqeEDSzrg>
+<Pompey>	<isLeaderOf>	<Optimates> .
+#@ <id_rCSthnf?!v_H?S_yA!6Ex3GAg>
+<Wu_Yingjie>	<isLeaderOf>	<Tibet_Autonomous_Region> .
+#@ <id_pToXdrDW33_H?S_m2M8vUxmgR>
+<Josh_Colle>	<isLeaderOf>	<Oakwood–Vaughan> .
+#@ <id_aTtcoPgpzF_H?S_Z?KL581soA>
+<Gloria_Rodríguez>	<isLeaderOf>	<Consecrated_Women_of_Regnum_Christi> .
+#@ <id_CGrnZfXaCr_H?S_fsXuJWT9NY>
+<Mike_Nickel>	<isLeaderOf>	<Meyonohk,_Edmonton> .
+#@ <id_yvTgiXWW91_H?S_1Jm5OvwnDJ>
+<Tony_Briffa>	<isLeaderOf>	<Organisation_Intersex_International_Australia> .
+#@ <id_EkQq8uGzj6_H?S_gBeDVOW?N7>
+<William_E._Lori>	<isLeaderOf>	<Knights_of_Columbus> .
+#@ <id_vx?r7Fg1R0_H?S_G?Md5Lfh4x>
+<Sumaira_Abdulali>	<isLeaderOf>	<Awaaz_Foundation> .
+#@ <id_54W?6lfeTs_H?S_r7HuGWcTVR>
+<Tony_Caterina>	<isLeaderOf>	<Abbottsfield,_Edmonton> .
+#@ <id_0AmXFAIaHv_H?S_0z7gIWO95N>
+<Hossam_Badrawi>	<isLeaderOf>	<Union_Party_(Egypt)> .
+#@ <id_zVB21euZb!_H?S_qiw8b!2gkb>
+<Claudia_Delgadillo_González>	<isLeaderOf>	<Jalisco> .
+#@ <id_oNNPbu8HDt_H?S_EncuXa6Vg?>
+<Ramon_Durano_VI>	<isLeaderOf>	<Borbon,_Cebu> .
+#@ <id_IrqOm1HtKt_H?S_eO?knwXjoZ>
+<Lyman_Hoffman>	<isLeaderOf>	<Crow_Village,_Alaska> .
+#@ <id_nLiWB3RtQt_H?S_tkGIRWU1zE>
+<Henry_Shaw_Briggs>	<isLeaderOf>	<10th_Regiment_Massachusetts_Volunteer_Infantry> .
+#@ <id_lMAX5YOwz8_H?S_!V5iOfEC2!>
+<Hage_Geingob>	<isLeaderOf>	<Namibian_Special_Forces> .
+#@ <id_avM1VA0ALu_H?S_aoqcciMLIF>
+<Bashar_al-Assad>	<isLeaderOf>	<Syrian_Air_Defense_Force> .
+#@ <id_aQUBVVo7BR_H?S_kjztKJg4FP>
+<Valdemar_Tomaševski>	<isLeaderOf>	<Electoral_Action_of_Poles_in_Lithuania> .
+#@ <id_Yat2?GpaFl_H?S_72LJ0P111h>
+<Gabriela_Michetti>	<isLeaderOf>	<Argentina> .
+#@ <id_oUPK?KVLeL_H?S_w1GZzlcdc8>
+<Suleiman_Frangieh>	<isLeaderOf>	<Marada_Movement> .
+#@ <id_!0jDcqH8eW_H?S_?kbhxr5XWB>
+<Dmitry_Medvedev>	<isLeaderOf>	<United_Russia> .
+#@ <id_1mLVYU2ezk_H?S_GinZEsqERe>
+<James_Meehan>	<isLeaderOf>	<Athol,_Massachusetts> .
+#@ <id_4LYFogD1f_H?S_BvfQhv1RJe>
+<Manorama_Devi>	<isLeaderOf>	<Benti,_Uttar_Pradesh> .
+#@ <id_dIBHD6yEd7_H?S_Bw18i9PDA3>
+<Dmitri_Popov>	<isLeaderOf>	<Surgut> .
+#@ <id_HyImfvf3X2_H?S_Yt9zZTq0uQ>
+<Matt_Hall>	<isLeaderOf>	<Carlsbad,_California> .
+#@ <id_YbRl8vmKyl_H?S_xzPrMcNmYJ>
+<Fernando_Chui>	<isLeaderOf>	<Macau> .
+#@ <id_NTdgm!o2b?_H?S_l67pftPOy5>
+<Pierre_Nkurunziza>	<isLeaderOf>	<Burundi> .
+#@ <id_PAy92lWC93_H?S_38irmJ3z!i>
+<David_Tilson>	<isLeaderOf>	<Caledon,_Ontario> .
+#@ <id_?!XwTwiAj9_H?S_LiCM4h71w7>
+<Ted_Falk>	<isLeaderOf>	<Aubigny,_Manitoba> .
+#@ <id_152zfWPktd_H?S_HMDXVBXuQx>
+<Jens_Kristiansen>	<isLeaderOf>	<Napasoq> .
+#@ <id_sB79Qy8FWp_H?S_1jkygsM5Yg>
+<Muhammad_Bala_Shagari>	<isLeaderOf>	<Shagari,_Nigeria> .
+#@ <id_vGZO?ls7td_H?S_K8Ot5aLJ7S>
+<Paul_McLaughlin_(businessman)>	<isLeaderOf>	<Scotty_Brand_Ltd> .
+#@ <id_qhI!tv87FZ_H?S_HqnAoInu3t>
+<David_Campos>	<isLeaderOf>	<Mission_District,_San_Francisco> .
+#@ <id_6uIggFpKuf_H?S_N6slkKd3!I>
+<Siti_Noordjannah_Djohantini>	<isLeaderOf>	<Aisyiyah> .
+#@ <id_mCY3wbMqCf_H?S_Do5MD1HMwb>
+<Zach_Fansler>	<isLeaderOf>	<Platinum,_Alaska> .
+#@ <id_IHQB?2Aod4_H?S_WjVWrWd?3r>
+<Walter_Stosch>	<isLeaderOf>	<Republican_Party_of_Virginia> .
+#@ <id_vOjDNAytzC_H?S_E0?IJLVr6K>
+<Helene_Schneider>	<isLeaderOf>	<Santa_Barbara,_California> .
+#@ <id_cGI76jJKVQ_H?S_qsEMu?O0w2>
+<Drew_Hastings>	<isLeaderOf>	<Hillsboro,_Ohio> .
+#@ <id_JaKNE4xYrB_H?S_4HOlJrScce>
+<Peter_Cruddas>	<isLeaderOf>	<Peter_Cruddas_Foundation> .
+#@ <id_PlxsD!NqsY_H?S_ruXlNpnHog>
+<Gerry_Ritz>	<isLeaderOf>	<Turtleford> .
+#@ <id_a5?xmmusrC_H?S_ToxJnjBvSn>
+<Barack_Obama>	<isLeaderOf>	<Maguayo> .
+#@ <id_El2eE9vIE4_H?S_4eTv5Hsolh>
+<Yogi_Huyghebaert>	<isLeaderOf>	<Assiniboia,_Saskatchewan> .
+#@ <id_bRqHeTdjES_H?S_XqrbEsCvrJ>
+<Jim_Messina_(political_staffer)>	<isLeaderOf>	<Organizing_for_Action> .
+#@ <id_!J3JrDGqWX_H?S_8otmqufqee>
+<Jack_MacLaren>	<isLeaderOf>	<Munster,_Ontario> .
+#@ <id_BJjT4P9tN4_H?S_3DhajNpY4A>
+<Valter_Girardelli>	<isLeaderOf>	<Italian_Navy> .
+#@ <id_KFFX3BLocV_H?S_LO0oNTX8C3>
+<Todd_Berry>	<isLeaderOf>	<American_Football_Coaches_Association> .
+#@ <id_mJ5Jk1n91?_H?S_fihHr8FPgy>
+<Britt_Bohlin_Olsson>	<isLeaderOf>	<Nordic_Council> .
+#@ <id_y9gVcvRsLO_H?S_afeZ0yRl1c>
+<Lin_Wenyi>	<isLeaderOf>	<Taiwan_Democratic_Self-Government_League> .
+#@ <id_kR0gFnwyzb_H?S_pXW?!2uHze>
+<A._Vinayagamoorthy>	<isLeaderOf>	<Tamil_National_Alliance> .
+#@ <id_uXu8Vc4nek_H?S_PpOVWtIYFh>
+<Richard_Burgon>	<isLeaderOf>	<City_of_Leeds> .
+#@ <id_p2GJxhVEcD_H?S_q1B5X7Wslv>
+<Bimal_Gurung>	<isLeaderOf>	<Ghum,_West_Bengal> .
+#@ <id_hxZu4X!b9M_H?S_VCLvVIz57a>
+<David_Mabuza>	<isLeaderOf>	<Mpumalanga> .
+#@ <id_Cztvwm15Jp_H?S_nbQlsY4O3u>
+<Leona_Alleslev>	<isLeaderOf>	<Richmond_Hill,_Ontario> .
+#@ <id_Gey8!7GFue_H?S_iqmjEeUmhv>
+<Gwen_Margolis>	<isLeaderOf>	<Park_West_(Miami)> .
+#@ <id_QmlSHdUbBa_H?S_wOOnWGo5Qq>
+<Lim_Guan_Eng>	<isLeaderOf>	<Bagan_Jermal,_Seberang_Perai> .
+#@ <id_FZccDXgj7M_H?S_aZM1D6NpHB>
+<Lo_Kin-hei>	<isLeaderOf>	<Democratic_Party_(Hong_Kong)> .
+#@ <id_eUAErpZ!B!_H?S_HgI73vmdjF>
+<Pierre_Charron>	<isLeaderOf>	<Saint-Eustache,_Quebec> .
+#@ <id_UcHhI0OKXF_H?S_LqZc8Q2BRE>
+<Raja_Al_Gurg>	<isLeaderOf>	<Al_Jalila_Foundation> .
+#@ <id_NDjcimT23i_H?S_8o0jHUQwrq>
+<Theda_Skocpol>	<isLeaderOf>	<Scholars_Strategy_Network> .
+#@ <id_8C?Yhdl1X?_H?S_czHY6RIJ7m>
+<Prince_Kitashirakawa_Yoshihisa>	<isLeaderOf>	<Ōuetsu_Reppan_Dōmei> .
+#@ <id_XxTE5SprfV_H?S_PzrFL1YolL>
+<Mustafa_Barzani>	<isLeaderOf>	<Kurdistan_Democratic_Party> .
+#@ <id_hgX5iFQuCT_H?S_2n6Pdge4v9>
+<Shannon_Grove>	<isLeaderOf>	<Oildale,_California> .
+#@ <id_p0NDmaipPH_H?S_gXpjUce9Ql>
+<Charles_Namoloh>	<isLeaderOf>	<Odibo> .
+#@ <id_!X!GIQfZ6j_H?S_3hLB5mruW3>
+<Naomi_Yamamoto>	<isLeaderOf>	<North_Vancouver_(city)> .
+#@ <id_KiFfpgjrkF_H?S_vwlZ9T5awh>
+<Adriana_Terrazas_Porras>	<isLeaderOf>	<Chihuahua_(state)> .
+#@ <id_!vV2XttoqO_H?S_Qv0YbZ4P1t>
+<Dave_Talerico>	<isLeaderOf>	<Birch_Creek,_Alaska> .
+#@ <id_zQ3W7dBJgr_H?S_oOJcCECIFR>
+<Hugo_Héctor_Martínez_González>	<isLeaderOf>	<Coahuila> .
+#@ <id_vHKc8V1XB!_H?S_wA4Mo519Kn>
+<Norm_Letnick>	<isLeaderOf>	<Kelowna> .
+#@ <id_NNvnWqZfLM_H?S_XciWoRzExr>
+<Stephen_O'Brien>	<isLeaderOf>	<Cheshire_East> .
+#@ <id_h8wEuG?qG9_H?S_NDTtW?Hw43>
+<Ghulam_Sarwar>	<isLeaderOf>	<Muslim_Educational_Trust> .
+#@ <id_Uw088mYnVG_H?S_ubPRWib9qn>
+<Roger_Casale>	<isLeaderOf>	<New_Europeans> .
+#@ <id_HKZ1dIVioC_H?S_unoVndTt29>
+<Susan_Jones>	<isLeaderOf>	<Wrexham_County_Borough> .
+#@ <id_mnV!FPBrcn_H?S_Y6M7keVmjY>
+<Yevdokia_Bershanskaya>	<isLeaderOf>	<Night_Witches> .
+#@ <id_InnHeyiUIp_H?S_72LJ0P111h>
+<Mauricio_Macri>	<isLeaderOf>	<Argentina> .
+#@ <id_gISZ4p21oB_H?S_4?oxYHI17E>
+<Bujar_Nishani>	<isLeaderOf>	<Albania> .
+#@ <id_72JTy57Ity_H?S_2Z6OOuwLq3>
+<László_Bartha>	<isLeaderOf>	<Boroșneu_Mare> .
+#@ <id_3IZpOl!r9D_H?S_ePlXECB9Tg>
+<Raimonds_Vējonis>	<isLeaderOf>	<Latvia> .
+#@ <id_e7FJ8AA2Xb_H?S_?VUwcYyaTC>
+<Athol_Trollip>	<isLeaderOf>	<Democratic_Alliance_(South_Africa)> .
+#@ <id_WKphMWPJoj_H?S_roohZyd90W>
+<Abdul_Hamid_(politician)>	<isLeaderOf>	<Bangladesh> .
+#@ <id_rpdNgzXZcQ_H?S_mzS?3bVY24>
+<Andrew_Blake_(scientist)>	<isLeaderOf>	<Alan_Turing_Institute> .
+#@ <id_lPcazAzuFb_H?S_ZPx3hymDkH>
+<Magdalina_Valchanova>	<isLeaderOf>	<Miss_National_Team_Bulgaria> .
+#@ <id_PLHfKAYLBZ_H?S_Yr25A3?3?V>
+<Louis_Philippe_I>	<isLeaderOf>	<Orléanist> .
+#@ <id_IPi4!on1WT_H?S_juGJz1n4Sf>
+<James_V._Hartinger>	<isLeaderOf>	<Aerospace_Defense_Center> .
+#@ <id_tY1Cr1hX5b_H?S_EEvOqWEcun>
+<Mike_Chenault>	<isLeaderOf>	<Lawing,_Alaska> .
+#@ <id_?JLcdVb6nW_H?S_CeKOoU8qgz>
+<Prince_Philip,_Duke_of_Edinburgh>	<isLeaderOf>	<Royal_Navy> .
+#@ <id_2KC7Yn1NjC_H?S_?LxF7hLP3B>
+<Shahrizat_Abdul_Jalil>	<isLeaderOf>	<United_Malays_National_Organisation> .
+#@ <id_4EOMkEh4QH_H?S_AKOQ!neK7R>
+<Elvis_Sekyanzi>	<isLeaderOf>	<Silk_events> .
+#@ <id_C3L1wfNPdC_H?S_NRfMwSE7Gl>
+<Douglas_Devananda>	<isLeaderOf>	<Kilinochchi_District> .
+#@ <id_fx5ZpwKQH7_H?S_5tNVvujfsZ>
+<Rishad_Bathiudeen>	<isLeaderOf>	<Northern_Province,_Sri_Lanka> .
+#@ <id_HUvGclIP6!_H?S_RkoEELCWMV>
+<Allan_Watt>	<isLeaderOf>	<Silver_Beach,_Alberta> .
+#@ <id_0Kz?6WQbq4_H?S_oozAuJZmvr>
+<Laura_Boldrini>	<isLeaderOf>	<Italy> .
+#@ <id_CRVK0V9?7F_H?S_JatEsct7MD>
+<François_Sauvadet>	<isLeaderOf>	<Côte-d'Or> .
+#@ <id_JzzZYOw0AO_H?S_2RhHMgSDDb>
+<Dushyant_Chautala>	<isLeaderOf>	<Hisar_(city)> .
+#@ <id_jO15wMi4jV_H?S_uIzex4kx0D>
+<Deborah_Lee_James>	<isLeaderOf>	<Indiana_Air_National_Guard> .
+#@ <id_CwKZhu?TrM_H?S_mE!Rls!DW7>
+<Teodoro_Nguema_Obiang_Mangue>	<isLeaderOf>	<Equatorial_Guinea> .
+#@ <id_2LeDZ8WCf4_H?S_ZRo1MVGX!T>
+<Todd_Stone>	<isLeaderOf>	<Kamloops> .
+#@ <id_rqa9m9u01f_H?S_Csyk!3nHly>
+<Zairil_Khir_Johari>	<isLeaderOf>	<Tanjung_Bungah> .
+#@ <id_8d9sskVVUR_H?S_eWaeteo3Tm>
+<Stephen_Conroy>	<isLeaderOf>	<Enfield_Primary_Care_NHS_Trust> .
+#@ <id_qWmUD3eb2G_H?S_X!C0laivt!>
+<Ken_Chen>	<isLeaderOf>	<Asian_American_Writers'_Workshop> .
+#@ <id_Or1LqatVIg_H?S_3naq9!3xdy>
+<Hans_Jørgensen>	<isLeaderOf>	<Faaborg-Midtfyn_Municipality> .
+#@ <id_YhoGxxDU4C_H?S_KTlyZ7NERc>
+<Ilia_II_of_Georgia>	<isLeaderOf>	<Georgia_(country)> .
+#@ <id_yRPwSAY63f_H?S_5HfzLTWDzH>
+<William_L._Kenly>	<isLeaderOf>	<Organization_of_the_Air_Service_of_the_American_Expeditionary_Force> .
+#@ <id_mXaExobMBC_H?S_!Q5ESN1wPW>
+<Nurullah_Kaya>	<isLeaderOf>	<Gürpınar_(District),_Van> .
+#@ <id_PVeQOhhilm_H?S_IkGxhRq31C>
+<Jay_Aspin>	<isLeaderOf>	<Bonfield,_Ontario> .
+#@ <id_VzHoONgJYZ_H?S_OZ4D8hlQka>
+<James_Burn>	<isLeaderOf>	<2nd_Regiment_of_Light_Dragoons_(United_States)> .
+#@ <id_K?xhajXMYo_H?S_EynxqXT6b0>
+<Scott_Reid_(politician)>	<isLeaderOf>	<Sydenham,_Frontenac_County,_Ontario> .
+#@ <id_CSm221QFsk_H?S_d0cHfr4yWN>
+<Ernesto_Rossi_(politician)>	<isLeaderOf>	<Action_Party_(Italy)> .
+#@ <id_xlCAiMxJt5_H?S_x1y9TDZOAT>
+<John_Carter_(New_Zealand_politician)>	<isLeaderOf>	<Far_North_District> .
+#@ <id_mCY3wbMqCf_H?S_MIrZsmM89m>
+<Zach_Fansler>	<isLeaderOf>	<Lower_Kalskag,_Alaska> .
+#@ <id_?rUrA32aw!_H?S_ITU4vZqFsR>
+<Steve_M._Thompson>	<isLeaderOf>	<Fairbanks,_Alaska> .
+#@ <id_ay45rums!B_H?S_Yqoai72GFx>
+<Georgi_Chakarov>	<isLeaderOf>	<Polski_Trambesh> .
+#@ <id_fKtPlabx?2_H?S_N!yOoWek0w>
+<Marja_van_der_Tas>	<isLeaderOf>	<Steenwijkerland> .
+#@ <id_cW3F3c8Ko0_H?S_CscS3zvFFl>
+<Elissa_Silverman>	<isLeaderOf>	<Washington,_D.C.> .
+#@ <id_L8r3Y0pXNB_H?S_7jvhfSFlbM>
+<Richard_Williams_(RAAF_officer)>	<isLeaderOf>	<No._1_Squadron_RAAF> .
+#@ <id_84OolP?tPU_H?S_mGgtsR2uyP>
+<Wade_Hampton_I>	<isLeaderOf>	<Regiment_of_Light_Dragoons_(United_States)> .
+#@ <id_bOHTRNs!!e_H?S_7IpC5AAic3>
+<Kenyan_McDuffie>	<isLeaderOf>	<Gateway_(Washington,_D.C.)> .
+#@ <id_yMi0hKc?Mc_H?S_2qiS8kMSlD>
+<Jim_Strickland_(politician)>	<isLeaderOf>	<Whitehaven,_Memphis,_Tennessee> .
+#@ <id_y9PufcjOt2_H?S_HEI8wsgOkc>
+<Lindsay_Everard>	<isLeaderOf>	<No._605_Squadron_RAF> .
+#@ <id_er1BwGjaHi_H?S_iwB78E1mBr>
+<Sylvia_Lim>	<isLeaderOf>	<Hougang> .
+#@ <id_SSoM5wXxnx_H?S_Udy4pJz0B4>
+<Keith_Moss>	<isLeaderOf>	<Duryea,_Pennsylvania> .
+#@ <id_e7yEL?T77Q_H?S_T!NhmtjEa!>
+<Ronnel_Rivera>	<isLeaderOf>	<General_Santos> .
+#@ <id_9aUMrFPCwy_H?S_y8OkcPioFF>
+<Tamim_bin_Hamad_Al_Thani>	<isLeaderOf>	<Qatar_Armed_Forces> .
+#@ <id_UmnSdRrWdZ_H?S_D0ffUzgyv8>
+<Tim_Tierney>	<isLeaderOf>	<Beacon_Hill-Cyrville_Ward> .
+#@ <id_qRZLAqJ1Bb_H?S_EgIRud2gGA>
+<Emma_Lewell-Buck>	<isLeaderOf>	<South_Tyneside> .
+#@ <id_Xpu3nbpz9v_H?S_m10qiiKq6s>
+<Douglas_Haig,_1st_Earl_Haig>	<isLeaderOf>	<Lochnagar_mine> .
+#@ <id_P1ixKkdIPj_H?S_mI7v6d2cEj>
+<Bert_Stedman>	<isLeaderOf>	<Kake,_Alaska> .
+#@ <id_?MYgQjSA2S_H?S_A79xTD9j0n>
+<Jefferson_Davis>	<isLeaderOf>	<Confederate_States_Army> .
+#@ <id_2R6xPSfXWZ_H?S_erTLFnaEL4>
+<John_Anderson_(British_Army_officer)>	<isLeaderOf>	<Timeline_of_Ulster_Defence_Regiment_operations> .
+#@ <id_Dhp36xpEoc_H?S_tzc8LQTOKT>
+<Avinash_Chander>	<isLeaderOf>	<Rurka_Kalan> .
+#@ <id_Qiqoxuk4lY_H?S_v!rn28Rq1J>
+<Isaac_Shooyook>	<isLeaderOf>	<Grise_Fiord> .
+#@ <id_BdZF9u3GD7_H?S_VeceXT7WPL>
+<Achille_Variati>	<isLeaderOf>	<Province_of_Vicenza> .
+#@ <id_aAVsD11bjP_H?S_!RE?u6a2YF>
+<Giuseppe_Falcomatà>	<isLeaderOf>	<Metropolitan_City_of_Reggio_Calabria> .
+#@ <id_Wa5toCx9MT_H?S_kmcOUqpPXj>
+<Brad_Trost>	<isLeaderOf>	<Nutana,_Saskatoon> .
+#@ <id_ucxc3qjq!s_H?S_kXUgkdK?0t>
+<Lia_Finocchiaro>	<isLeaderOf>	<Country_Liberal_Party> .
+#@ <id_oqnIDfsj?4_H?S_K6evDgulRh>
+<Prince_Edward,_Earl_of_Wessex>	<isLeaderOf>	<Royal_Fleet_Auxiliary> .
+#@ <id_IrqOm1HtKt_H?S_IxzUIFIiZx>
+<Lyman_Hoffman>	<isLeaderOf>	<Napakiak,_Alaska> .
+#@ <id_?mp?U6IUYD_H?S_x7pwstySac>
+<Ülle_Rajasalu>	<isLeaderOf>	<Harju_County> .
+#@ <id_h7CbKsYCpj_H?S_G5W?Urjjmo>
+<Buckley_Belanger>	<isLeaderOf>	<Île-à-la-Crosse> .
+#@ <id_7AWZq4Y?tv_H?S_sfuscT2WFw>
+<Dean_Westlake>	<isLeaderOf>	<Barrow,_Alaska> .
+#@ <id_47j1hk49qD_H?S_UzYNmFpdoo>
+<Janet_H._Brown>	<isLeaderOf>	<Commission_on_Presidential_Debates> .
+#@ <id_8FwQZAvsUX_H?S_nlhTu2mbkF>
+<Jean_Thomas_(biochemist)>	<isLeaderOf>	<Royal_Society_of_Biology> .
+#@ <id_xPAMWymYMR_H?S_UX4K0V3lTA>
+<Bertrand_Renouvin>	<isLeaderOf>	<Nouvelle_Action_Royaliste> .
+#@ <id_q07wV7sPvW_H?S_LGiApLX6i!>
+<Kâzım_Karabekir>	<isLeaderOf>	<Progressive_Republican_Party_(Turkey)> .
+#@ <id_aonizYwl01_H?S_eueTDYW6T8>
+<Adam_Vaughan>	<isLeaderOf>	<Toronto_Entertainment_District> .
+#@ <id_WGjII4fF3a_H?S_0DG64KIASB>
+<Nikolay_Krylov_(marshal)>	<isLeaderOf>	<Far_Eastern_Military_District> .
+#@ <id_OJtQQUYu0N_H?S_GpwmBZJ9vx>
+<Adam_Milstein>	<isLeaderOf>	<Israeli-American_Council> .
+#@ <id_uu4ekNjiNb_H?S_WWckJmdzwG>
+<Stephen_Cohn>	<isLeaderOf>	<Alex's_Lemonade_Stand_Foundation> .
+#@ <id_EjvFLYQqjU_H?S_wtLJtWewVP>
+<Trần_Đại_Quang>	<isLeaderOf>	<People's_Army_of_Vietnam> .
+#@ <id_FBwjfwkgIg_H?S_LbFHQQD8xz>
+<Gilles_Lehouillier>	<isLeaderOf>	<Pintendre,_Quebec> .
+#@ <id_UJmkErqJeb_H?S_5YW7DrxpXZ>
+<Bob_Benzen>	<isLeaderOf>	<Calgary> .
+#@ <id_R854e?jdXF_H?S_lE8!Llz9aU>
+<Mitzie_Hunter>	<isLeaderOf>	<Guildwood> .
+#@ <id_gJ7mbnMnKA_H?S_u7ZGfSc13C>
+<Ricardo_Ávila>	<isLeaderOf>	<Melchor_de_Mencos> .
+#@ <id_69L6lCUII4_H?S_pfmdLEj39Z>
+<Raul_del_Mar>	<isLeaderOf>	<Cebu_City> .
+#@ <id_fWT9vBUPR6_H?S_AieLq2t0e?>
+<Jacques_Roux>	<isLeaderOf>	<Enragés> .
+#@ <id_Etkp3gPixb_H?S_C9QQE2Uxyh>
+<James_Perowne>	<isLeaderOf>	<9th_Frigate_Squadron_(United_Kingdom)> .
+#@ <id_fxHQwOjuis_H?S_1SKxF8I2!D>
+<Charles_Sousa>	<isLeaderOf>	<Mississauga> .
+#@ <id_W8cj6pciK_H?S_Zp2ChZKQ5V>
+<Bill_Dane>	<isLeaderOf>	<Kearney,_Missouri> .
+#@ <id_J1zz4kGZMw_H?S_eEtIEOo1q5>
+<Michael_B._Donley>	<isLeaderOf>	<North_Carolina_Air_National_Guard> .
+#@ <id_fkzCN8khDz_H?S_LHHVB?q9q2>
+<Stephen_R._Lyons>	<isLeaderOf>	<United_States_Transportation_Command> .
+#@ <id_z7L1oWSMiu_H?S_q7TFt2dojW>
+<Vajiralongkorn>	<isLeaderOf>	<Thailand> .
+#@ <id_1f6H4HZClv_H?S_1QSEiDGKfj>
+<Nicolás_Maduro>	<isLeaderOf>	<National_Bolivarian_Armed_Forces_of_Venezuela> .
+#@ <id_ii3dcPoaI6_H?S_UB5m9UHqng>
+<François_Duvalier>	<isLeaderOf>	<Armed_Forces_of_Haiti> .
+#@ <id_fS2oEiL!qz_H?S_2Wv7ImkIE6>
+<Neymar>	<isLeaderOf>	<Majorda> .
+#@ <id_LL7HXEUoyz_H?S_2aM1bc?WrZ>
+<Abu_Bakr_al-Baghdadi>	<isLeaderOf>	<ISIL_territorial_claims> .
+#@ <id_4LxmA3jbVx_H?S_1wwBzH93oK>
+<Francisco_Silvela>	<isLeaderOf>	<Conservative_Party_(Spain)> .
+#@ <id_rgN6D3bUhe_H?S_Lp1Lwr?Vpm>
+<Independent_politician>	<isLeaderOf>	<Haidernagar_block> .
+#@ <id_n84o2H6!tR_H?S_4RA7SkKhxj>
+<Kevin_Faulconer>	<isLeaderOf>	<San_Diego> .
+#@ <id_AJ2T?CGT6U_H?S_oOJcCECIFR>
+<Noé_Fernando_Garza_Flores>	<isLeaderOf>	<Coahuila> .
+#@ <id_ekd3s0TKN?_H?S_5CJVq?8zcO>
+<Amy_Klobuchar>	<isLeaderOf>	<Rare_Disease_Caucus> .
+#@ <id_NWYXrlsJMH_H?S_WlnBelBs0x>
+<John_Baird_(Canadian_politician)>	<isLeaderOf>	<Britannia,_Ottawa> .
+#@ <id_bOHTRNs!!e_H?S_Lx2O2ntY1!>
+<Kenyan_McDuffie>	<isLeaderOf>	<Langdon,_Washington,_D.C.> .
+#@ <id_SRSaQLWeTg_H?S_BHgyfxDCG8>
+<Stephen_Urban>	<isLeaderOf>	<Luzerne_County,_Pennsylvania> .
+#@ <id_ENdeUjzLlO_H?S_llk?TZ3T!J>
+<Henry_Van_Thio>	<isLeaderOf>	<Myanmar> .
+#@ <id_yo1k8v2Z4N_H?S_Z00tuab9As>
+<Jim_Hillyer_(politician)>	<isLeaderOf>	<Masinasin,_Alberta> .
+#@ <id_qJy2T3xgic_H?S_h5NWgTYpxW>
+<Karl_Kassel>	<isLeaderOf>	<South_Van_Horn,_Alaska> .
+#@ <id_3lG3iBvYUS_H?S_hbRaclJDvJ>
+<Hidetaka_Nishiyama>	<isLeaderOf>	<International_Traditional_Karate_Federation> .
+#@ <id_Tzd2TIJlV4_H?S_DIGRCDlO03>
+<Julio_Durán>	<isLeaderOf>	<Radical_Democracy_(Chile)> .
+#@ <id_w9viqAomAs_H?S_3jpOdjOatb>
+<Brad_Duguid>	<isLeaderOf>	<Scarborough_City_Centre> .
+#@ <id_VUVde2s60l_H?S_LJ?uT?bBfH>
+<Betsy_Hodges>	<isLeaderOf>	<Minneapolis> .
+#@ <id_iGrtq7Gnas_H?S_11b0guu2Pd>
+<Venetta_Seals>	<isLeaderOf>	<Pecos,_Texas> .
+#@ <id_CF0ngGxi8I_H?S_HfJ5rRo9Dw>
+<Rosemary_Byrne>	<isLeaderOf>	<Solidarity_(Scotland)> .
+#@ <id_enERUb1Jeg_H?S_uZrH3Ll?5Q>
+<Marie_Goegg-Pouchoulin>	<isLeaderOf>	<Association_internationale_des_femmes> .
+#@ <id_f!0Z3orRXo_H?S_OCvCJtY3YD>
+<Tom_Middendorp>	<isLeaderOf>	<Armed_forces_of_the_Netherlands> .
+#@ <id_qvZgEOJx0S_H?S_ZV!Te!zSyO>
+<Simon_Bako_Lalong>	<isLeaderOf>	<Plateau_State> .
+#@ <id_oRE63bwVZb_H?S_goyPhl!67F>
+<Thomas_W._Gilligan>	<isLeaderOf>	<Hoover_Institution> .
+#@ <id_b?8dzvyCsB_H?S_!60eycmUJT>
+<Deng_Deng_Akuei>	<isLeaderOf>	<Aweil_East> .
+#@ <id_ANJW807f2J_H?S_6f7eQwJE4i>
+<Revanth_Reddy>	<isLeaderOf>	<Kodangal> .
+#@ <id_ufhjrnrL0J_H?S_YP64XCs0tX>
+<Kevin_Cramer>	<isLeaderOf>	<South_Hill,_Minot> .
+#@ <id_M3TVFFrQrK_H?S_c2d5rrFQlC>
+<Karen_Leibovici>	<isLeaderOf>	<Gariepy,_Edmonton> .
+#@ <id_dfA55mRnhd_H?S_nEr2Gogf8!>
+<Piero_Fassino>	<isLeaderOf>	<Democrats_of_the_Left> .
+#@ <id_gzxzueNop9_H?S_QJZYxiUlf8>
+<Click_Bishop>	<isLeaderOf>	<Four_Mile_Road,_Alaska> .
+#@ <id_5GHJsEujMh_H?S_nuhhVoURHV>
+<Thomas_Maley_Harris>	<isLeaderOf>	<10th_West_Virginia_Volunteer_Infantry_Regiment> .
+#@ <id_hfX4M?3rke_H?S_Qfh1x6ivR6>
+<David_Frum>	<isLeaderOf>	<Policy_Exchange> .
+#@ <id_dzrHMFb3Sd_H?S_7XWSHZk59B>
+<Ernst_Rüdiger_Starhemberg>	<isLeaderOf>	<Fatherland_Front_(Austria)> .
+#@ <id_gGOc6UMNaq_H?S_BPjrE4qokH>
+<Chen_Wu_(politician)>	<isLeaderOf>	<Guangxi> .
+#@ <id_w!Hnbm8aW4_H?S_d77OHV9yXj>
+<Mauro_Jöhri>	<isLeaderOf>	<Order_of_Friars_Minor_Capuchin> .
+#@ <id_pHmP3u2S2V_H?S_q3SV7wZjmm>
+<John_Mason_(Scottish_politician)>	<isLeaderOf>	<Glasgow> .
+#@ <id_2TiQYaV!LJ_H?S_DEmMsQHKZq>
+<Mary-Margaret_McMahon>	<isLeaderOf>	<East_Danforth> .
+#@ <id_B2cVZ0ui3T_H?S_3L27Q!oWCw>
+<Arthur_C._Yap>	<isLeaderOf>	<Loay,_Bohol> .
+#@ <id_czuIKw5Ufc_H?S_iNHapQZp8f>
+<Jim_Watson_(Canadian_politician)>	<isLeaderOf>	<Vernon,_Ontario> .
+#@ <id_PvLwkC2SXf_H?S_elMHYynAP2>
+<Volker_Wieker>	<isLeaderOf>	<Bundeswehr> .
+#@ <id_divluob1g0_H?S_7DTP5Dzeqa>
+<Peter_Jeffrey_(RAAF_officer)>	<isLeaderOf>	<No._3_Squadron_RAAF> .
+#@ <id_9YiQUWtIsW_H?S_DDm2WBK5I9>
+<Glenn_Haughton>	<isLeaderOf>	<Regular_Reserve_(United_Kingdom)> .
+#@ <id_!vV2XttoqO_H?S_yORu?Fw4E3>
+<Dave_Talerico>	<isLeaderOf>	<McKinley_Park,_Alaska> .
+#@ <id_HvFGT1fcWC_H?S_ihXdREpbvr>
+<Zachary_Scott>	<isLeaderOf>	<Associated_Students,_Chico> .
+#@ <id_wCvR0HvaBV_H?S_SvboQ82fqJ>
+<James_Maloney_(lawyer)>	<isLeaderOf>	<Eatonville,_Toronto> .
+#@ <id_cEnVawJ5cf_H?S_6CPhcOkyS7>
+<Nsima_Ekere>	<isLeaderOf>	<Niger_Delta_Development_Commission> .
+#@ <id_ZnMni!7MRU_H?S_brM2RgdF0X>
+<Tomislav_Nikolić>	<isLeaderOf>	<Serbia> .
+#@ <id_QX7Ey!fXfa_H?S_0dlwXwnu7p>
+<Dennis_Faulkner>	<isLeaderOf>	<2nd/11th_Battalion,_Ulster_Defence_Regiment> .
+#@ <id_mCY3wbMqCf_H?S_uHpQimaYPn>
+<Zach_Fansler>	<isLeaderOf>	<Bethel,_Alaska> .
+#@ <id_nx0uPOnqvs_H?S_ThplQHtkQA>
+<Edgar_Chatto>	<isLeaderOf>	<Bohol> .
+#@ <id_rgN6D3bUhe_H?S_xcUZgfe5nE>
+<Independent_politician>	<isLeaderOf>	<Newport_News,_Virginia> .
+#@ <id_CFRUF3sDUZ_H?S_tl0JFkDOpP>
+<Lois_Wolk>	<isLeaderOf>	<Kennedy,_California> .
+#@ <id_!EHa5POqxw_H?S_UJ754ZfSei>
+<Lee_Hsi-min>	<isLeaderOf>	<Republic_of_China_Armed_Forces> .
+#@ <id_qw?naFD5Dy_H?S_KOAMi?svAj>
+<Gabriel_J._Campana>	<isLeaderOf>	<Williamsport,_Pennsylvania> .
+#@ <id_FAIPh95lcF_H?S_senVIQSkhG>
+<Rafael_Pacchiano_Alamán>	<isLeaderOf>	<Querétaro> .
+#@ <id_7z2W3f3xlZ_H?S_BEQNNzJryd>
+<Apostolos_Tzitzikostas>	<isLeaderOf>	<Thessaloniki_(regional_unit)> .
+#@ <id_OIVN2dFeZN_H?S_TwTG!soScC>
+<Mansour_bin_Muqrin>	<isLeaderOf>	<'Asir_Region> .
+#@ <id_7AWZq4Y?tv_H?S_MnvRrahqD0>
+<Dean_Westlake>	<isLeaderOf>	<Ambler,_Alaska> .
+#@ <id_YqizfgBnja_H?S_3TvxOrdpwk>
+<Mark_Hempsell>	<isLeaderOf>	<British_Interplanetary_Society> .
+#@ <id_mglMlK0uU4_H?S_?TJbYR?iIQ>
+<Abdullah_bin_Zayed_Al_Nahyan>	<isLeaderOf>	<Emirates_Foundation> .
+#@ <id_4jHtf8EQaE_H?S_cHB8VTWQlG>
+<George_Cretekos>	<isLeaderOf>	<Clearwater,_Florida> .
+#@ <id_kcau?TZWSS_H?S_b2AT6ZG7Wi>
+<Lawrence_Mishel>	<isLeaderOf>	<Economic_Policy_Institute> .
+#@ <id_hGHp2tuwT9_H?S_9Cyca?iThu>
+<Balasaheb_Thorat>	<isLeaderOf>	<Sangamner_taluka> .
+#@ <id_WZD6WB48dP_H?S_8YiN8Y9kva>
+<Tamara_Cofman_Wittes>	<isLeaderOf>	<Center_for_Middle_East_Policy> .
+#@ <id_e15WNy!CAl_H?S_Wrm?rpeHDC>
+<Sylvester_Turner>	<isLeaderOf>	<Houston> .
+#@ <id_WeA8z3S1qz_H?S_7Y9?UKc!nJ>
+<Giuseppe_Civati>	<isLeaderOf>	<Possible_(Italy)> .
+#@ <id_z5cm?Uzd9?_H?S_jTQUhs6SrZ>
+<James_Davies_(politician)>	<isLeaderOf>	<Denbighshire> .
+#@ <id_DzTPuZCbho_H?S_OquYGX3QNh>
+<Mark_Leno>	<isLeaderOf>	<Santa_Venetia,_California> .
+#@ <id_dA0xDONWvR_H?S_EeFnWh2TgB>
+<Susantha_Punchinilame>	<isLeaderOf>	<Trincomalee_District> .
+#@ <id_wq!m3euuJc_H?S_vsTUQ3SaPF>
+<Abdallah_Ben_Abdel_Mohsen_At-Turki>	<isLeaderOf>	<International_Islamic_Relief_Organization> .
+#@ <id_BFBAV6cG8f_H?S_V6IIWR3ucx>
+<Sarah_Campbell>	<isLeaderOf>	<Savant_Lake> .
+#@ <id_IL3ST9fRFg_H?S_xB26FStgOc>
+<Percy_Hatfield>	<isLeaderOf>	<Windsor,_Ontario> .
+#@ <id_UhOMNvPxRb_H?S_?MI25va2AL>
+<Josep_Maria_Mauri>	<isLeaderOf>	<Andorra> .
+#@ <id_6M!KBgYqLe_H?S_G8SiAoU3oP>
+<Yun_Jeung>	<isLeaderOf>	<Westerners_(Korean_political_faction)> .
+#@ <id_WZYNG3HD3J_H?S_icxbtlRPXb>
+<Larissa_Waters>	<isLeaderOf>	<Australian_Greens> .
+#@ <id_0bJyp8uf1e_H?S_u1S3MBosJs>
+<Qazi_Hussain_Ahmad>	<isLeaderOf>	<Muttahida_Majlis-e-Amal> .
+#@ <id_qBRc89yI3K_H?S_u2w9C8fbOq>
+<Alexey_Popov>	<isLeaderOf>	<5th_Spetsnaz_Brigade> .
+#@ <id_RJIUh5rGne_H?S_17cLXz7?rn>
+<Sergey_Kiriyenko>	<isLeaderOf>	<Union_of_Right_Forces> .
+#@ <id_oGnN5cEmuR_H?S_lDO4LvUCfg>
+<Jon_Burnside>	<isLeaderOf>	<Thorncliffe_Park> .
+#@ <id_hMzFJXPUTS_H?S_vj71jYvmGB>
+<Lawrence_Ward>	<isLeaderOf>	<Metepenagiag_Mi'kmaq_Nation> .
+#@ <id_C5k4763S8A_H?S_NrtUvLoVLq>
+<Rinus_Houtman>	<isLeaderOf>	<Leerdam> .
+#@ <id_Js9K8UwHPz_H?S_uNgVTppI9!>
+<Anne_Laubies>	<isLeaderOf>	<Collectivity_of_Saint_Martin> .
+#@ <id_Bp9UUV4C7t_H?S_yjnvE4FB7R>
+<Ludwig_Adolf_Wilhelm_von_Lützow>	<isLeaderOf>	<Lützow_Free_Corps> .
+#@ <id_dXIjjQml9Z_H?S_fL!YNTG7Wc>
+<Borys_Wrzesnewskyj>	<isLeaderOf>	<Kingsview_Village> .
+#@ <id_xMlaJjyZja_H?S_kWKxwazmMZ>
+<Angelo_Cruz_Ramos>	<isLeaderOf>	<Ceiba,_Puerto_Rico> .
+#@ <id_d2lpmhObSE_H?S_VTGmsZoEUl>
+<G._Krishnapillai>	<isLeaderOf>	<Batticaloa_District> .
+#@ <id_yQmTUNzC?q_H?S_YEwAahhxIq>
+<Randy_Edmunds_(politician)>	<isLeaderOf>	<Nunatsiavut> .
+#@ <id_CiYFeOmusl_H?S_x?WFgg5lC3>
+<Kwame_Kilpatrick>	<isLeaderOf>	<Ghazi_Nara> .
+#@ <id_KR0ERcDogt_H?S_!ZIBoG1Jat>
+<Michael_Signer>	<isLeaderOf>	<Charlottesville,_Virginia> .
+#@ <id_i9uxcaLjkF_H?S_?ohGb7Xztk>
+<Douglas_Coe>	<isLeaderOf>	<The_Fellowship_(Christian_organization)> .
+#@ <id_qTn2fgG!kt_H?S_uEMMdWuILJ>
+<Mark_Parsons>	<isLeaderOf>	<Research_Data_Alliance> .
+#@ <id_EjvFLYQqjU_H?S_1BMBzs0uIQ>
+<Trần_Đại_Quang>	<isLeaderOf>	<Vietnam> .
+#@ <id_eo3HrkiDW5_H?S_NPxXr4dWwI>
+<Andre_Retief>	<isLeaderOf>	<South_African_Army_Armoured_Formation> .
+#@ <id_zqUKo8toEi_H?S_PKOUYH!x0N>
+<Giorgio_Mammoliti>	<isLeaderOf>	<Humber_Summit> .
+#@ <id_AmVmyxh8HR_H?S_vXZesqMMcy>
+<Abdulfatah_Ahmed>	<isLeaderOf>	<Kwara_State> .
+#@ <id_7DJ?cDTuVK_H?S_Y7jOAwE2ed>
+<Meng_Foon>	<isLeaderOf>	<Tikitiki> .
+#@ <id_ai1J61v4Cq_H?S_ljEqHjBRyE>
+<Iain_McNicol>	<isLeaderOf>	<Labour_Party_(UK)> .
+#@ <id_er1BwGjaHi_H?S_vbgUUNz6VY>
+<Sylvia_Lim>	<isLeaderOf>	<Serangoon> .
+#@ <id_lFD08xDljg_H?S_97ex5B1V6y>
+<Soo_Wong>	<isLeaderOf>	<L'Amoreaux> .
+#@ <id_rB6isMnplh_H?S_EIRKQmkn54>
+<Jesús_Rivera_Sánchez>	<isLeaderOf>	<Las_Monjas_(Hato_Rey)> .
+#@ <id_Iee4?mJAR8_H?S_LX1UjlidFy>
+<T._J._Harvey>	<isLeaderOf>	<Grand_Falls,_New_Brunswick> .
+#@ <id_plBsYcLefY_H?S_ZUveUyQlHM>
+<Scott_Hamilton_(politician)>	<isLeaderOf>	<Greater_Vancouver> .
+#@ <id_MMQw6Cpqx1_5BD_5Zv7ZQqnK6>
+<Nichiren>	<isKnownFor>	<Dharma> .
+#@ <id_Hjim2QaBTe_5BD_7Zo3S9448U>
+<Jacques_Derrida>	<isKnownFor>	<Différance> .
+#@ <id_UCAoQV6npE_5BD_8qCNpdRn0D>
+<Wayne_Grudem>	<isKnownFor>	<Complementarianism> .
+#@ <id_H!oqjDqguK_5BD_edLDFpV7m6>
+<Salem_Hanna_Khamis>	<isKnownFor>	<Sampling_(statistics)> .
+#@ <id_HZXLbVhwSs_5BD_n52PN0dXLP>
+<Fethullah_Gülen>	<isKnownFor>	<Gülen_movement> .
+#@ <id_rw9hDz9!b?_5BD_VJSiqrgYHE>
+<Erich_Fromm>	<isKnownFor>	<Character_orientation> .
+#@ <id_Ho02vuakhh_5BD_7hyS7b2T7t>
+<Abu_Yusuf>	<isKnownFor>	<Fiqh> .
+#@ <id_SxBeBlHRyn_5BD_dSb9Z7n3P2>
+<Luciano_Floridi>	<isKnownFor>	<Abstraction_(software_engineering)> .
+#@ <id_q37cKhx7an_5BD_elNvH8M9Zs>
+<William_Baumol>	<isKnownFor>	<Baumol–Tobin_model> .
+#@ <id_d?Kh4BNMlo_5BD_GTWfR5Xlpo>
+<Albert_O._Hirschman>	<isKnownFor>	<Hiding_hand_principle> .
+#@ <id_jQUK0K7nvJ_5BD_OTW3OqzRvQ>
+<John_Dewey>	<isKnownFor>	<American_Association_of_University_Professors> .
+#@ <id_eYU8ShuKt5_5BD_XcJQn2!t2f>
+<Javad_Nurbakhsh>	<isKnownFor>	<Sufi_poetry> .
+#@ <id_742uHDuwsF_5BD_ZthdYHlwTB>
+<Erich_Gutenberg>	<isKnownFor>	<Theory_of_the_firm> .
+#@ <id_rVegV!crj5_5BD_obfAlJpe!x>
+<Eric_T._Olson_(philosopher)>	<isKnownFor>	<Animalism_(philosophy)> .
+#@ <id_GRuKI0Jak1_5BD_cE2RGBSKKb>
+<Richard_H._Steckel>	<isKnownFor>	<Economic_history> .
+#@ <id_WYWGTujoH0_5BD_48RKsSwdnE>
+<Richard_Tarnas>	<isKnownFor>	<Participatory_theory> .
+#@ <id_DHzkJDgJi6_5BD_piiLeoI7KC>
+<Alexander_Herzen>	<isKnownFor>	<Agrarianism> .
+#@ <id_gJtTZ2XCcG_5BD_iN!7nD?M5O>
+<Jean-Paul_Sartre>	<isKnownFor>	<Bad_faith_(existentialism)> .
+#@ <id_zit5PSw8Aw_5BD_l8kl7S9Fxb>
+<George_Boole>	<isKnownFor>	<Boolean_algebra> .
+#@ <id_s1jiWPVPzh_5BD_7w!SfdSGtm>
+<Immanuel_Kant>	<isKnownFor>	<Kingdom_of_Ends> .
+#@ <id_eLDowW42Ch_5BD_gPC1Ail2z7>
+<William_A._Barnett>	<isKnownFor>	<Macroeconomic_Dynamics> .
+#@ <id_Uqnl93Nmbd_5BD_yDKI39zzX1>
+<Baruch_Spinoza>	<isKnownFor>	<de/Deus_sive_Natura> .
+#@ <id_!eB2dDesJM_5BD_BscRrgKbCt>
+<Shaykh_Tusi>	<isKnownFor>	<Hawza> .
+#@ <id_7jsHUUJZm5_5BD_xFARTLNXXR>
+<Edmund_Husserl>	<isKnownFor>	<Philosophical_realism> .
+#@ <id_t1PAUWZt5Z_5BD_XNYIQtsyCw>
+<Muhammad_Husayn_Tabataba'i>	<isKnownFor>	<Tafsir> .
+#@ <id_?MMftc2ITB_5BD_AFPdPEoeOs>
+<Vernon_L._Smith>	<isKnownFor>	<Experimental_economics> .
+#@ <id_TfhzxXBiQj_5BD_DUu0S4QmKD>
+<Emanuel_Swedenborg>	<isKnownFor>	<Last_Judgment> .
+#@ <id_DGy73fP2Vh_5BD_LO?bSb0!Bf>
+<Sue_Johnson>	<isKnownFor>	<Emotionally_focused_therapy> .
+#@ <id_BRw8l5DzKl_5BD_6E5uU48Xgy>
+<Ugo_Panizza>	<isKnownFor>	<Too_Much_Finance> .
+#@ <id_JioDUkaeqJ_5BD_WaSrP3oqgi>
+<Vilfredo_Pareto>	<isKnownFor>	<Pareto_distribution> .
+#@ <id_OBFG4DcZzT_5BD_NlvaS5xWAO>
+<John_Locke>	<isKnownFor>	<Molyneux's_problem> .
+#@ <id_HkEqor567c_5BD_d0uJvbmx5s>
+<Ludwig_Wittgenstein>	<isKnownFor>	<Semantic_externalism> .
+#@ <id_wcYPMBSHzH_5BD_rx7xuwATC2>
+<Ludwig_von_Mises>	<isKnownFor>	<Economic_calculation_problem> .
+#@ <id_M670jLHka7_5BD_FlKiSTeGP7>
+<Georg_Simmel>	<isKnownFor>	<Formal_sociology> .
+#@ <id_wF!EBXXZ5!_5BD_NiZHeTQlT9>
+<Nicolas_Malebranche>	<isKnownFor>	<Augustine_of_Hippo> .
+#@ <id_CPEgCspFAm_5BD_XcJQn2!t2f>
+<Allah_Baksh_Sarshar_Uqaili>	<isKnownFor>	<Sufi_poetry> .
+#@ <id_U08g5qCXR1_5BD_6Yh3ZvPlZW>
+<Émile_Durkheim>	<isKnownFor>	<Social_fact> .
+#@ <id_i71t!XKWNN_5BD_g?q?ZLgOiR>
+<Alfred_Marshall>	<isKnownFor>	<Principles_of_Economics_(Marshall)> .
+#@ <id_ykcoVPFQk0_5BD_p5ukahylyE>
+<Charalambos_D._Aliprantis>	<isKnownFor>	<Riesz_space> .
+#@ <id_mthp7b1buO_5BD_Hgk3nn1TjL>
+<Nikolas_Kompridis>	<isKnownFor>	<Reflective_disclosure> .
+#@ <id_gfmEYk6ukh_5BD_e2B!bK8v?X>
+<Herbert_Butterfield>	<isKnownFor>	<Whig_history> .
+#@ <id_HBcqdqOc8o_5BD_0Z3d129bbX>
+<Trevor_Swan>	<isKnownFor>	<Solow–Swan_model> .
+#@ <id_BJyeodvB0F_5BD_kPzQd7jplu>
+<Michèle_Pujol>	<isKnownFor>	<Harriet_Taylor_Mill> .
+#@ <id_7demRUHYdl_5BD_reMH!qGgRc>
+<Pierre_Pica>	<isKnownFor>	<Munduruku> .
+#@ <id_kkITOsMFei_5BD_MNlg1AGeml>
+<Simone_de_Beauvoir>	<isKnownFor>	<Feminist_existentialism> .
+#@ <id_6DWk?8oEbC_5BD_VZtrwT8h!X>
+<Elinor_Ostrom>	<isKnownFor>	<Institutional_analysis> .
+#@ <id_Nv0TV5DoIx_5BD_s!kGhlTfPf>
+<Wynne_Godley>	<isKnownFor>	<Sectoral_balances> .
+#@ <id_g8v1?OAgQq_5BD_oULcweC6KK>
+<Karl_Polanyi>	<isKnownFor>	<Fictitious_commodities> .
+#@ <id_Zc5swB7nRC_5BD_lIq2gvpF4w>
+<James_Foster_(economist)>	<isKnownFor>	<Multidimensional_Poverty_Index> .
+#@ <id_APH5qGrvUD_5BD_aYnRLuNdOA>
+<Karl_Popper>	<isKnownFor>	<Darwinism> .
+#@ <id_w0VPTeDdwm_5BD_s1jiWPVPzh>
+<Johann_Gottlieb_Fichte>	<isKnownFor>	<Immanuel_Kant> .
+#@ <id_6QxT8t7bCI_5BD_edFSdy6NKc>
+<Katarina_Juselius>	<isKnownFor>	<Vector_autoregression> .
+#@ <id_c4ocA2CPia_5BD_P9UJZXZHSL>
+<Bernard_Bolzano>	<isKnownFor>	<Bolzano–Weierstrass_theorem> .
+#@ <id_0YSzLR98Mh_5BD_akf?OCQQ9n>
+<Ronald_Coase>	<isKnownFor>	<Transaction_cost> .
+#@ <id_A8xrYZyVwI_5BD_OTRc4HEVzs>
+<Debiprasad_Chattopadhyaya>	<isKnownFor>	<Rigveda> .
+#@ <id_GNy!QCYALN_5BD_eqT2DztyND>
+<Catherine_Malabou>	<isKnownFor>	<Neuroplasticity> .
+#@ <id_Uqnl93Nmbd_5BD_RtQvYpp2Sl>
+<Baruch_Spinoza>	<isKnownFor>	<Forms_of_government> .
+#@ <id_uBjZ3nh?kn_5BD_!UcKwGLx6?>
+<Gideon_Rosen>	<isKnownFor>	<Modal_fictionalism> .
+#@ <id_wTMiq8UxCF_5BD_Pr5!hyV1PN>
+<Edwin_Arthur_Burtt>	<isKnownFor>	<Metaphysical_naturalism> .
+#@ <id_CPEgCspFAm_5BD_vaVSns6667>
+<Allah_Baksh_Sarshar_Uqaili>	<isKnownFor>	<Muhammad> .
+#@ <id_LtMo?wGr47_5BD_15r1ZCGvNH>
+<Karl_Marx>	<isKnownFor>	<Marx's_theory_of_alienation> .
+#@ <id_6Un3ZjYG?G_5BD_oA7RbmOwfy>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Geist> .
+#@ <id_Uy!cJCAJtb_5BD_VYplbZvgPv>
+<William_Vickrey>	<isKnownFor>	<Vickrey_auction> .
+#@ <id_JJBy5zfhYr_5BD_P4H?KkdKXN>
+<Søren_Kierkegaard>	<isKnownFor>	<Leap_of_faith> .
+#@ <id_rSrc5hYDil_5BD_9GQbwnKiuh>
+<Stephen_Resnick>	<isKnownFor>	<Marxian_economics> .
+#@ <id_VLWLWx5!2S_5BD_4BJsUhEr1s>
+<G._E._Moore>	<isKnownFor>	<Moore's_paradox> .
+#@ <id_LsSik8RSh?_5BD_qjohh4PJeN>
+<Benjamin_Lee_Whorf>	<isKnownFor>	<Linguistic_relativity> .
+#@ <id_Nv0TV5DoIx_5BD_jaSghtcmtw>
+<Wynne_Godley>	<isKnownFor>	<Stock-Flow_consistent_model> .
+#@ <id_vpFySbfFlT_5BD_Y0?BFazbG5>
+<Alexandre_Kojève>	<isKnownFor>	<Philosophy_of_desire> .
+#@ <id_ki6MFFXeQ?_5BD_DuJel3VuQ7>
+<Richard_Stone>	<isKnownFor>	<Input–output_model> .
+#@ <id_l0kQ2zVOox_5BD_5r5O3e!A56>
+<Michel_Aflaq>	<isKnownFor>	<Ba'athism> .
+#@ <id_lZ2vuCME?Q_5BD_xnXXCZyo0P>
+<William_H._Poteat>	<isKnownFor>	<Age_of_Enlightenment> .
+#@ <id_eiuPsYzv?g_5BD_UUO3qaCZ7O>
+<Plato>	<isKnownFor>	<Philosopher_king> .
+#@ <id_klEMiqB5jO_5BD_ESq4YiAcph>
+<Paul_Grice>	<isKnownFor>	<Implicature> .
+#@ <id_q1eQYN9G06_5BD_fxVSCumHsX>
+<Karl_Jaspers>	<isKnownFor>	<Dasein> .
+#@ <id_wF!EBXXZ5!_5BD_tr9F!019Ti>
+<Nicolas_Malebranche>	<isKnownFor>	<Ontologism> .
+#@ <id_!HCBx5rl0o_5BD_6xAYdr9QCU>
+<Christopher_S._Tang>	<isKnownFor>	<Social_responsibility> .
+#@ <id_PRBRYgGgOv_5BD_gPJu2zrBvS>
+<Alvin_Hansen>	<isKnownFor>	<Secular_stagnation_theory> .
+#@ <id_PK!PrHQORV_5BD_CKYDpQwi8H>
+<Irving_Fisher>	<isKnownFor>	<Fisher_separation_theorem> .
+#@ <id_xH?clldWcE_5BD_7iB48vmEw3>
+<Paul_Fitts>	<isKnownFor>	<Fitts's_law> .
+#@ <id_LtMo?wGr47_5BD_sUx1QVfcke>
+<Karl_Marx>	<isKnownFor>	<Surplus_value> .
+#@ <id_8N6uWwWSTG_5BD_KA2Ea7cGvG>
+<Adrian_Pagan>	<isKnownFor>	<Breusch–Pagan_test> .
+#@ <id_1jCYvu?7D1_5BD_C0CN1FDYhw>
+<David_Ricardo>	<isKnownFor>	<Ricardian_equivalence> .
+#@ <id_0T46Uf5mqh_5BD_yNcoyndCZk>
+<E._P._Sanders>	<isKnownFor>	<New_Perspective_on_Paul> .
+#@ <id_heb7TIJUgy_5BD_tDBCtEDx3H>
+<David_Lewis_(philosopher)>	<isKnownFor>	<Possible_world> .
+#@ <id_k18za29P?a_5BD_8K46shRPfd>
+<Hans_Kamp>	<isKnownFor>	<Discourse_representation_theory> .
+#@ <id_HNznWeorEY_5BD_D6FcZyISdF>
+<Zygmunt_Bauman>	<isKnownFor>	<Late_modernity> .
+#@ <id_sAd4twALCu_5BD_QVDS5r4DBl>
+<Marc_Augé>	<isKnownFor>	<de/Nicht-Ort> .
+#@ <id_?DuJpJDQ9r_5BD_T8MLq7bCsW>
+<Aristotle>	<isKnownFor>	<Hylomorphism> .
+#@ <id_0lxbLz!Egh_5BD_93VjKWHXKS>
+<A._J._Ayer>	<isKnownFor>	<Verificationism> .
+#@ <id_QPAC7E4x21_5BD_f9opa6179N>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Product_rule> .
+#@ <id_FvneLRPDL6_5BD_W34D39Qmkd>
+<George_Grant_(philosopher)>	<isKnownFor>	<Red_Tory> .
+#@ <id_PMLB9F!rry_5BD_bPSLYJFUlQ>
+<Ion_Dragoumis>	<isKnownFor>	<Romantic_nationalism> .
+#@ <id_HtbYJhMeCT_5BD_feqOKWQ2vV>
+<Nancy_Folbre>	<isKnownFor>	<Feminist_economics> .
+#@ <id_jHYzVJttz1_5BD_F?4mOcjX4K>
+<Nicolás_Gómez_Dávila>	<isKnownFor>	<Postdevelopment_theory> .
+#@ <id_3rWeNrdyCZ_5BD_qt5nHPl1?U>
+<Muhammad_Iqbal>	<isKnownFor>	<Two-nation_theory> .
+#@ <id_hEzcD1BC6K_5BD_zxZ6XU1UJS>
+<Hans-Georg_Gadamer>	<isKnownFor>	<Fusion_of_horizons> .
+#@ <id_OMvqIDQENL_5BD_93dYZGkNI7>
+<Gottlob_Frege>	<isKnownFor>	<Hume's_principle> .
+#@ <id_!Gl?Xu?bKN_5BD_FlD3025wgk>
+<Pierre_Bourdieu>	<isKnownFor>	<Reflexivity_(social_theory)> .
+#@ <id_pXR!lUVkY2_5BD_8MbQQTomwI>
+<Elizabeth_Anscombe>	<isKnownFor>	<Brute_fact> .
+#@ <id_0qKpIc38JD_5BD_ZkaVESeON2>
+<J._L._Mackie>	<isKnownFor>	<Argument_from_queerness> .
+#@ <id_bZiUpDt3Bq_5BD_BUjyBuo8io>
+<John_Searle>	<isKnownFor>	<Biological_naturalism> .
+#@ <id_QPAC7E4x21_5BD_JPEwdGl9nz>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Problem_of_why_there_is_anything_at_all> .
+#@ <id_zhNirwCkGc_5BD_2oiGZSIjil>
+<Willard_Van_Orman_Quine>	<isKnownFor>	<New_Foundations> .
+#@ <id_7jsHUUJZm5_5BD_hxQsJFEfJw>
+<Edmund_Husserl>	<isKnownFor>	<Phenomenology_(philosophy)> .
+#@ <id_w2VICuRXIs_5BD_BpRWxroRwy>
+<Rudolf_Steiner>	<isKnownFor>	<Waldorf_education> .
+#@ <id_PMLB9F!rry_5BD_167j9AFdCn>
+<Ion_Dragoumis>	<isKnownFor>	<Middle_East> .
+#@ <id_nr3sK3uhGA_5BD_pewRF7Pne6>
+<Ziony_Zevit>	<isKnownFor>	<Adam> .
+#@ <id_Clssy3xbeA_5BD_UaMBMkDPjr>
+<Peter_Kropotkin>	<isKnownFor>	<The_Conquest_of_Bread> .
+#@ <id_c1AGAaCyXP_5BD_GxLtCsqQX1>
+<Otto_Jespersen>	<isKnownFor>	<Occidental_language> .
+#@ <id_8mIHM0unL3_5BD_1FTuDq45qO>
+<Malik_ibn_Anas>	<isKnownFor>	<Maliki> .
+#@ <id_9g4goxhsQU_5BD_yfMrnv!jaj>
+<Ibn_Tufail>	<isKnownFor>	<Coming_of_age> .
+#@ <id_3bg6QFLBKd_5BD_uWQJ4YPOXH>
+<Blaise_Pascal>	<isKnownFor>	<Pascal's_triangle> .
+#@ <id_VOeyfTKpJg_5BD_5gO9zbDUsy>
+<Joseph_A._Bracken>	<isKnownFor>	<Process_theology> .
+#@ <id_jqCkuwd2sD_5BD_B5t0BbnNhn>
+<René_Guénon>	<isKnownFor>	<Eastern_world> .
+#@ <id_x1pFDbCH?k_5BD_cYoLWe?58V>
+<Luigi_Pasinetti>	<isKnownFor>	<Theory_of_value_(economics)> .
+#@ <id_9g4goxhsQU_5BD_nzlcrTDEz9>
+<Ibn_Tufail>	<isKnownFor>	<Autodidacticism> .
+#@ <id_xrxWhXgP40_5BD_ffUiR5F9EI>
+<Patrick_Suppes>	<isKnownFor>	<Structuralism_(philosophy_of_science)> .
+#@ <id_7Doq3CJuou_5BD_tyAhO?jMnJ>
+<Gilles_Deleuze>	<isKnownFor>	<fr/Personnage_conceptuel> .
+#@ <id_eiuPsYzv?g_5BD_??XB1uhoEQ>
+<Plato>	<isKnownFor>	<Allegory_of_the_Cave> .
+#@ <id_!4G3FVecTl_5BD_SLit4RzrbG>
+<Kenneth_Arrow>	<isKnownFor>	<General_equilibrium_theory> .
+#@ <id_OryERqHfbh_5BD_Clyhn2dnrA>
+<Hong_Daeyong>	<isKnownFor>	<Earth's_rotation> .
+#@ <id_31?W?Sw4gL_5BD_CvbtHZUDW8>
+<Henry_George>	<isKnownFor>	<Georgism> .
+#@ <id_QPAC7E4x21_5BD_ShYm!laZCP>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Chain_rule> .
+#@ <id_g0s8UwK!53_5BD_bGf!WpLT9v>
+<Murray_Rothbard>	<isKnownFor>	<Anarcho-capitalism> .
+#@ <id_xZWa!pw2qK_5BD_LtMo?wGr47>
+<Leszek_Kołakowski>	<isKnownFor>	<Karl_Marx> .
+#@ <id_8YMJy6DioC_5BD_g1APUmZYAK>
+<Didier_Anzieu>	<isKnownFor>	<fr/Moi-Peau> .
+#@ <id_e1ST3bsXqr_5BD_3Rl4LWav0O>
+<Dawud_al-Zahiri>	<isKnownFor>	<Ẓāhirī> .
+#@ <id_?70YfIK4pw_5BD_aHoiJVuw4m>
+<Giorgio_Locchi>	<isKnownFor>	<Pensée_unique> .
+#@ <id_RHkN4BopiO_5BD_6Zzt5cM7al>
+<Richard_Rorty>	<isKnownFor>	<Ironism> .
+#@ <id_BJyeodvB0F_5BD_1zbHx0YmMj>
+<Michèle_Pujol>	<isKnownFor>	<John_Stuart_Mill> .
+#@ <id_vQsrN8UDQ2_5BD_eR9fPCJES5>
+<Sergei_Starostin>	<isKnownFor>	<Altaic_languages> .
+#@ <id_WluIzdKxYw_5BD_F5eyWLHx!V>
+<Umar_Vadillo>	<isKnownFor>	<Modern_gold_dinar> .
+#@ <id_tUYBHd9H6g_5BD_SK9wE45Mlo>
+<Friedrich_Nietzsche>	<isKnownFor>	<Will_to_power> .
+#@ <id_esvMCJo?ov_5BD_Rb7DHU7LF6>
+<Said_Gafurov>	<isKnownFor>	<Securities_research> .
+#@ <id_t7beuTpf9H_5BD_33zCCWP8oE>
+<Zaki_al-Arsuzi>	<isKnownFor>	<Salah_al-Din_al-Bitar> .
+#@ <id_yjw1?15UrE_5BD_2jrgwjJYuv>
+<Nicole_Oresme>	<isKnownFor>	<Divergent_series> .
+#@ <id_l0kQ2zVOox_5BD_t7beuTpf9H>
+<Michel_Aflaq>	<isKnownFor>	<Zaki_al-Arsuzi> .
+#@ <id_1sOn!ow1gN_5BD_k5Vjoh4AMH>
+<Hilary_Putnam>	<isKnownFor>	<Brain_in_a_vat> .
+#@ <id_?DuJpJDQ9r_5BD_cnbzEWQbDt>
+<Aristotle>	<isKnownFor>	<Hexis> .
+#@ <id_CiLl23edqd_5BD_z0TNYC33Iw>
+<Huw_Dixon>	<isKnownFor>	<Conjectural_variation> .
+#@ <id_ijlsCS0mxL_5BD_LabDc?XW9u>
+<Stephen_Cameron>	<isKnownFor>	<General_Educational_Development> .
+#@ <id_YaLlM752GV_5BD_Ko?VtjfcJX>
+<Hannah_Arendt>	<isKnownFor>	<The_Human_Condition_(book)> .
+#@ <id_3JOAGT5TMy_5BD_6Wvs2NFz7m>
+<J._J._C._Smart>	<isKnownFor>	<Type_physicalism> .
+#@ <id_vYdKGST3IP_5BD_CqRvcnLagQ>
+<Friedrich_Hayek>	<isKnownFor>	<Hebbian_theory> .
+#@ <id_CPEgCspFAm_5BD_MkHkdfsFYJ>
+<Allah_Baksh_Sarshar_Uqaili>	<isKnownFor>	<Quran> .
+#@ <id_03yd9kTsxG_5BD_7p5Qguqvhs>
+<Saul_Kripke>	<isKnownFor>	<Kripke_structure_(model_checking)> .
+#@ <id_JJBy5zfhYr_5BD_ciAgegmOvG>
+<Søren_Kierkegaard>	<isKnownFor>	<Absurdism> .
+#@ <id_1jCYvu?7D1_5BD_eMviPsJhEH>
+<David_Ricardo>	<isKnownFor>	<Comparative_advantage> .
+#@ <id_RHkN4BopiO_5BD_jF6BUP6Mfd>
+<Richard_Rorty>	<isKnownFor>	<Postanalytic_philosophy> .
+#@ <id_IkcI8dfXC9_5BD_qf8RLicVzv>
+<Jacques-Alain_Miller>	<isKnownFor>	<World_Association_of_Psychoanalysis> .
+#@ <id_0lnpLqEpfJ_5BD_h9iy2miurF>
+<Edward_Said>	<isKnownFor>	<Orientalism> .
+#@ <id_c1AGAaCyXP_5BD_n1IPJFbbZY>
+<Otto_Jespersen>	<isKnownFor>	<Ido_language> .
+#@ <id_ZlClaFqwAe_5BD_NTNJf9HQ69>
+<Hugo_Grotius>	<isKnownFor>	<Just_war_theory> .
+#@ <id_esvMCJo?ov_5BD_h9iy2miurF>
+<Said_Gafurov>	<isKnownFor>	<Orientalism> .
+#@ <id_6OBv!KvVcU_5BD_nADhycYSgY>
+<Anaxagoras>	<isKnownFor>	<Milky_Way> .
+#@ <id_OOY2AJEL?F_5BD_BaFAsl3!E5>
+<John_Burr_Williams>	<isKnownFor>	<Dividend_discount_model> .
+#@ <id_JXIcYX6vT9_5BD_k2L3k5nhk1>
+<Cornelius_Castoriadis>	<isKnownFor>	<Sublimation_(psychology)> .
+#@ <id_!sYh9CrNrc_5BD_uW60NVVK81>
+<Duns_Scotus>	<isKnownFor>	<Univocity_of_being> .
+#@ <id_tUYBHd9H6g_5BD_hgKdIRdnts>
+<Friedrich_Nietzsche>	<isKnownFor>	<Perspectivism> .
+#@ <id_QSEDWbbtO_5BD_5ulC3wc!bT>
+<Halbert_White>	<isKnownFor>	<White_test> .
+#@ <id_b27idC!M!g_5BD_DuJel3VuQ7>
+<Karen_R._Polenske>	<isKnownFor>	<Input–output_model> .
+#@ <id_uUtpED87!e_5BD_hNAv07Ai?v>
+<Norman_Geisler>	<isKnownFor>	<Chicago_Statement_on_Biblical_Inerrancy> .
+#@ <id_T2Ia6KuH0e_5BD_5tcfHFB0kd>
+<Jesús_Padilla_Gálvez>	<isKnownFor>	<Self-reference> .
+#@ <id_Me8He?05AI_5BD_aWHFqRrnb3>
+<Adam_Smith>	<isKnownFor>	<Free_market> .
+#@ <id_oTK!3kC3Wl_5BD_3G8CBz1o0F>
+<Friedrich_Schleiermacher>	<isKnownFor>	<Hermeneutic_circle> .
+#@ <id_jrpAg!aLFe_5BD_oBm52Gu3Hz>
+<Nikolai_Kondratiev>	<isKnownFor>	<Kondratiev_wave> .
+#@ <id_1WoEQidLhm_5BD_pZTNi1KyW3>
+<Robert_J._Gordon>	<isKnownFor>	<Core_inflation> .
+#@ <id_juDFjxvI!b_5BD_D5bxYmmICJ>
+<John_Frame_(theologian)>	<isKnownFor>	<Multiperspectivalism> .
+#@ <id_PK!PrHQORV_5BD_Zp4u33k0Hs>
+<Irving_Fisher>	<isKnownFor>	<Phillips_curve> .
+#@ <id_7r5s8RsoqX_5BD_2VcSVu7Ra6>
+<Nicola_Acocella>	<isKnownFor>	<Monetary_policy> .
+#@ <id_VgTp!pEr4e_5BD_bbW!!bGr3d>
+<Johann_Gottfried_Herder>	<isKnownFor>	<Cultural_relativism> .
+#@ <id_1u59lFp6xN_5BD_6zBvd8rk4t>
+<Gottfried_Feder>	<isKnownFor>	<Nazism> .
+#@ <id_TGl4VmZoBT_5BD_mkcVYokExK>
+<Bas_van_Fraassen>	<isKnownFor>	<Constructive_empiricism> .
+#@ <id_YMSY9LDgU6_5BD_M3zqtcUaea>
+<Taqi_al-Din_al-Nabhani>	<isKnownFor>	<Islamic_revival> .
+#@ <id_niGowoY1F1_5BD_0KOV?6zfAh>
+<Robert_Merrihew_Adams>	<isKnownFor>	<Divine_command_theory> .
+#@ <id_f9c1W0zOYC_5BD_dLRUqy2?Uv>
+<Michael_Servetus>	<isKnownFor>	<Nontrinitarianism> .
+#@ <id_JXIcYX6vT9_5BD_3F3inUDvEW>
+<Cornelius_Castoriadis>	<isKnownFor>	<Chaos_(cosmogony)> .
+#@ <id_cjSndY4XeQ_5BD_lxIHHNtesv>
+<Qadi_Thanaullah_Panipati>	<isKnownFor>	<Shia_Islam> .
+#@ <id_LEfdFhwx1J_5BD_?HIPzlk4eM>
+<Alexius_Meinong>	<isKnownFor>	<Meinong's_jungle> .
+#@ <id_nw?tohK6hb_5BD_UvbM!20B88>
+<Frank_Hahn>	<isKnownFor>	<Hahn's_problem> .
+#@ <id_pKxqjmz19Q_5BD_V?pyDPE1IT>
+<Gonzalo_Arango>	<isKnownFor>	<Nadaism> .
+#@ <id_h1JIA9IKFJ_5BD_G0c8qdBl!E>
+<C._D._Broad>	<isKnownFor>	<Growing_block_universe> .
+#@ <id_b?GDATQgwh_5BD_XNYIQtsyCw>
+<Talib_Jauhari>	<isKnownFor>	<Tafsir> .
+#@ <id_0lnpLqEpfJ_5BD_7P4sbac3eY>
+<Edward_Said>	<isKnownFor>	<Other> .
+#@ <id_TkwFQlVnQF_5BD_n2SPTBVDsV>
+<George_Berkeley>	<isKnownFor>	<Subjective_idealism> .
+#@ <id_AcencwBEJu_5BD_h0GFHXi7nD>
+<Muhammad_Mustafa_Jauhar>	<isKnownFor>	<Islamic_philosophy> .
+#@ <id_GUN9ePUhlG_5BD_0zxgoa55ut>
+<Edward_C._Harwood>	<isKnownFor>	<John_Kenneth_Galbraith> .
+#@ <id_IlYsr3kCeW_5BD_VNFAfm7ZY9>
+<Karl_Kautsky>	<isKnownFor>	<Evolutionary_epistemology> .
+#@ <id_ocl3BBqltQ_5BD_AyZDhPTcvy>
+<Rudolf_Carnap>	<isKnownFor>	<Decidability_(logic)> .
+#@ <id_nX926HlbFD_5BD_teiw9ZCV8p>
+<Dimitri_Kitsikis>	<isKnownFor>	<Hellenoturkism> .
+#@ <id_wyuaDgTDA6_5BD_3SpFegCP!!>
+<Shibli_Nomani>	<isKnownFor>	<Sirat-un-Nabi> .
+#@ <id_0U?lSSBjfX_5BD_DOUeeZBxoh>
+<Alexey_Kylasov>	<isKnownFor>	<Indigenous_peoples> .
+#@ <id_3?CQjhUGxY_5BD_MbuSbn1Fxa>
+<Peter_Blau>	<isKnownFor>	<Seymour_Martin_Lipset> .
+#@ <id_tnTIDVrXKo_5BD_q4yxAxQQ3J>
+<Hamid_Bin_Ahmad_Al-Rifaie>	<isKnownFor>	<World_Muslim_Congress> .
+#@ <id_tDdTYgRVDf_5BD_IaKouEUCwG>
+<Aryabhata>	<isKnownFor>	<Earth> .
+#@ <id_BCSoHh1RQX_5BD_!1B9SX7nsq>
+<John_Hicks>	<isKnownFor>	<Capital_(economics)> .
+#@ <id_e7vLuJNcWv_5BD_vscwTrVRYq>
+<Heraclitus>	<isKnownFor>	<Logos> .
+#@ <id_ocXp!gOCZf_5BD_2kdGNJXsXX>
+<Michael_Porter>	<isKnownFor>	<Porter_hypothesis> .
+#@ <id_HkEqor567c_5BD_lhN2K6YXS5>
+<Ludwig_Wittgenstein>	<isKnownFor>	<Language-game_(philosophy)> .
+#@ <id_RxKJ?RXRR0_5BD_ORMXcfvJu!>
+<Ligon_Duncan>	<isKnownFor>	<Covenant_theology> .
+#@ <id_mpw6IeTd5S_5BD_Uz81BZm560>
+<Mahbub_ul_Haq>	<isKnownFor>	<Human_Development_Index> .
+#@ <id_4j?PcsTIuK_5BD_12JMFx7oh7>
+<J._M._E._McTaggart>	<isKnownFor>	<The_Unreality_of_Time> .
+#@ <id_51Z1W63Y!d_5BD_NlFdUkm0eG>
+<Irena_Krzywicka>	<isKnownFor>	<Feminist_ethics> .
+#@ <id_Q7jOl19s1h_5BD_lgpY!Bo!eI>
+<Porphyry_(philosopher)>	<isKnownFor>	<Predicable> .
+#@ <id_53mdgMuk?H_5BD_Z0zMMrA16x>
+<Chrysippus>	<isKnownFor>	<Ekpyrosis> .
+#@ <id_Hwn59GYvl9_5BD_HZBtF0!QIQ>
+<Jerry_Fodor>	<isKnownFor>	<Modularity_of_mind> .
+#@ <id_HkEqor567c_5BD_4x7s0Wo5?D>
+<Ludwig_Wittgenstein>	<isKnownFor>	<State_of_affairs_(philosophy)> .
+#@ <id_QF189pvDFm_5BD_g5IbdGOJcx>
+<John_Rawls>	<isKnownFor>	<Overlapping_consensus> .
+#@ <id_kY4Xd99Pbj_5BD_4EgeAEH!wZ>
+<Guy_Debord>	<isKnownFor>	<Détournement> .
+#@ <id_3bg6QFLBKd_5BD_Xm!ENRb?!A>
+<Blaise_Pascal>	<isKnownFor>	<Pascal's_theorem> .
+#@ <id_7Doq3CJuou_5BD_bhimpi5Y8l>
+<Gilles_Deleuze>	<isKnownFor>	<Deterritorialization> .
+#@ <id_lKEUFXNHs9_5BD_HnzM9lIsta>
+<Robert_Nozick>	<isKnownFor>	<Deontological_ethics> .
+#@ <id_EAlyo5li2m_5BD_HzsCdmUVpq>
+<Andrew_Dilnot>	<isKnownFor>	<The_Tiger_That_Isn't> .
+#@ <id_fe3QjeG0Dm_5BD_QMo3HvqCKO>
+<William_Petty>	<isKnownFor>	<Division_of_labour> .
+#@ <id_Uqnl93Nmbd_5BD_BCkFchaSR3>
+<Baruch_Spinoza>	<isKnownFor>	<Hebrew_Bible> .
+#@ <id_PMLB9F!rry_5BD_4sBi97HTsY>
+<Ion_Dragoumis>	<isKnownFor>	<Demotic_Greek> .
+#@ <id_f1V?tTHbuu_5BD_xxSrhVDsl?>
+<Neven_Sesardić>	<isKnownFor>	<Heritability> .
+#@ <id_i6v3VuS?1N_5BD_LEIsbPhY0O>
+<Robert_J._Shiller>	<isKnownFor>	<Case–Shiller_index> .
+#@ <id_wrDzGMpBfV_5BD_byBJSGrH2B>
+<Émile_Armand>	<isKnownFor>	<Intentional_community> .
+#@ <id_7U!QhsNL9M_5BD_9GQbwnKiuh>
+<Jack_Amariglio>	<isKnownFor>	<Marxian_economics> .
+#@ <id_02muz6baoi_5BD_It3J4!juOj>
+<Speusippus>	<isKnownFor>	<Theory_of_Forms> .
+#@ <id_QPAC7E4x21_5BD_zHRLewiB10>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Leibniz_formula_for_determinants> .
+#@ <id_TALVtvOoj9_5BD_6ngc8uRDvJ>
+<Pythagoras>	<isKnownFor>	<Pythagorean_theorem> .
+#@ <id_GNy!QCYALN_5BD_r6j!!O2xYM>
+<Catherine_Malabou>	<isKnownFor>	<Michel_Foucault> .
+#@ <id_vQOvfQ70Rp_5BD_aPNQlkaL1Y>
+<Confucius>	<isKnownFor>	<Confucianism> .
+#@ <id_0zxgoa55ut_5BD_yjDveu2I3d>
+<John_Kenneth_Galbraith>	<isKnownFor>	<Countervailing_power> .
+#@ <id_LaYcVv7S9H_5BD_qV2ZGNHB1l>
+<Noam_Chomsky>	<isKnownFor>	<Chomsky_normal_form> .
+#@ <id_1sgw4GxOPs_5BD_Kcz88KUNoC>
+<Carl_Schmitt>	<isKnownFor>	<State_of_exception> .
+#@ <id_3?CQjhUGxY_5BD_8N0lUMm8Bw>
+<Peter_Blau>	<isKnownFor>	<Philip_Selznick> .
+#@ <id_vQsrN8UDQ2_5BD_hUT8Hfw6NK>
+<Sergei_Starostin>	<isKnownFor>	<North_Caucasian_languages> .
+#@ <id_!yEJzz6dUl_5BD_68UrZRQglP>
+<Michel_Serres>	<isKnownFor>	<Hermes> .
+#@ <id_zGcKrb38cY_5BD_3R08XOP7PW>
+<fr/Jean-Christophe_Gay>	<isKnownFor>	<Ushant> .
+#@ <id_?fSDdK4p1t_5BD_cemE7KmPRM>
+<Edgar_Morin>	<isKnownFor>	<fr/Pensée_complexe> .
+#@ <id_wF!EBXXZ5!_5BD_Ig2j822Grc>
+<Nicolas_Malebranche>	<isKnownFor>	<Existence_of_God> .
+#@ <id_QPAC7E4x21_5BD_OeFl2SJ3kd>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Fermat's_little_theorem> .
+#@ <id_JXIcYX6vT9_5BD_MhPBUxI!kl>
+<Cornelius_Castoriadis>	<isKnownFor>	<Drive_theory> .
+#@ <id_?p?KrfRVOo_5BD_jJngUYLty5>
+<C._J._F._Williams>	<isKnownFor>	<Identity_(philosophy)> .
+#@ <id_JioDUkaeqJ_5BD_oZHE3lEOKf>
+<Vilfredo_Pareto>	<isKnownFor>	<Pareto_principle> .
+#@ <id_APH5qGrvUD_5BD_7hyewBHDR5>
+<Karl_Popper>	<isKnownFor>	<The_Logic_of_Scientific_Discovery> .
+#@ <id_CVyKScpsf4_5BD_3zONNNCAXd>
+<Wolfgang_Smith>	<isKnownFor>	<Scientism> .
+#@ <id_xeN6Sc2wDp_5BD_BCkFchaSR3>
+<John_Selden>	<isKnownFor>	<Hebrew_Bible> .
+#@ <id_ttoyupHfHS_5BD_aslpAofhCP>
+<Jonathan_Nitzan>	<isKnownFor>	<Differential_accumulation> .
+#@ <id_JJBy5zfhYr_5BD_t?EVgXCj3s>
+<Søren_Kierkegaard>	<isKnownFor>	<Knight_of_faith> .
+#@ <id_Ko22j0y8XI_5BD_l04y57t4WK>
+<Qalandar_Baba_Auliya>	<isKnownFor>	<Azeemiyya> .
+#@ <id_OMvqIDQENL_5BD_gPAqrDc?a6>
+<Gottlob_Frege>	<isKnownFor>	<Principle_of_compositionality> .
+#@ <id_bJAsO?odtU_5BD_lk5d2?W800>
+<Mozi>	<isKnownFor>	<Mohism> .
+#@ <id_APH5qGrvUD_5BD_22s5Gn!x4y>
+<Karl_Popper>	<isKnownFor>	<Critical_rationalism> .
+#@ <id_woKHG4SEr2_5BD_9B7KZFg8wT>
+<Muhammad_Yunus>	<isKnownFor>	<Grameen_Bank> .
+#@ <id_zSFG3dGCmj_5BD_fxVSCumHsX>
+<Martin_Heidegger>	<isKnownFor>	<Dasein> .
+#@ <id_PMLB9F!rry_5BD_pQFuOJNxr3>
+<Ion_Dragoumis>	<isKnownFor>	<Megali_Idea> .
+#@ <id_6Un3ZjYG?G_5BD_J5x!oP?5Ag>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Panlogism> .
+#@ <id_sB17qXmXFs_5BD_hgKdIRdnts>
+<Agustín_García_Calvo>	<isKnownFor>	<Perspectivism> .
+#@ <id_PMLB9F!rry_5BD_wjzGesmNJM>
+<Ion_Dragoumis>	<isKnownFor>	<Greek_Orthodox_Church> .
+#@ <id_CQ2mMgyfCI_5BD_hxQsJFEfJw>
+<Franz_Brentano>	<isKnownFor>	<Phenomenology_(philosophy)> .
+#@ <id_J7qZybf0bX_5BD_4Np5vgD8kP>
+<Masoud_Ahmadzadeh>	<isKnownFor>	<Praxis_(process)> .
+#@ <id_j9zd67wm6H_5BD_3GsdSPGPFP>
+<Gilbert_Ryle>	<isKnownFor>	<Ryle's_regress> .
+#@ <id_3RVyyprNrr_5BD_zaQb1HQfCB>
+<Costanzo_Preve>	<isKnownFor>	<Communitarianism> .
+#@ <id_7iLH?2OLUS_5BD_g2xn?Ht93d>
+<Bilal_Philips>	<isKnownFor>	<Islamic_Online_University> .
+#@ <id_7DtK5iBOkz_5BD_R!HcRlu6d8>
+<Lucien_Tesnière>	<isKnownFor>	<Dependency_grammar> .
+#@ <id_r32xF?Kky0_5BD_PqEQooLNNr>
+<Friedrich_Wilhelm_Joseph_Schelling>	<isKnownFor>	<Naturphilosophie> .
+#@ <id_JXIcYX6vT9_5BD_cBai3vWH0L>
+<Cornelius_Castoriadis>	<isKnownFor>	<Georg_Cantor> .
+#@ <id_5rGSH0H!MI_5BD_lPIXi5whpM>
+<George_Ritzer>	<isKnownFor>	<McDonaldization> .
+#@ <id_RxKJ?RXRR0_5BD_8qCNpdRn0D>
+<Ligon_Duncan>	<isKnownFor>	<Complementarianism> .
+#@ <id_zSFG3dGCmj_5BD_3G8CBz1o0F>
+<Martin_Heidegger>	<isKnownFor>	<Hermeneutic_circle> .
+#@ <id_FvneLRPDL6_5BD_cT!xKad0DC>
+<George_Grant_(philosopher)>	<isKnownFor>	<Canadian_nationalism> .
+#@ <id_R4HmHokmh2_5BD_VFjFgaqJNp>
+<James_Prinsep>	<isKnownFor>	<Brahmi_script> .
+#@ <id_tUYBHd9H6g_5BD_!4EtSILKDM>
+<Friedrich_Nietzsche>	<isKnownFor>	<Amor_fati> .
+#@ <id_YMSY9LDgU6_5BD_MyS?BlafB4>
+<Taqi_al-Din_al-Nabhani>	<isKnownFor>	<Islamism> .
+#@ <id_MrmfSQwKq8_5BD_J3q3?vB8U8>
+<Boris_Cyrulnik>	<isKnownFor>	<Psychological_resilience> .
+#@ <id_gXF87fwq6y_5BD_M5dzLksFga>
+<de/Jean-Paul_Valabrega>	<isKnownFor>	<fr/Quatrième_Groupe> .
+#@ <id_kUKTNKNLhi_5BD_BBluDnUNPR>
+<Randall_G._Holcombe>	<isKnownFor>	<Public_choice> .
+#@ <id_F3VnjeeKSx_5BD_TnhURTTvon>
+<Antonio_Gramsci>	<isKnownFor>	<Cultural_hegemony> .
+#@ <id_tijhu98d4J_5BD_hjKYggh4tw>
+<Derek_Parfit>	<isKnownFor>	<Mere_addition_paradox> .
+#@ <id_nX926HlbFD_5BD_9I6JZ0bzyn>
+<Dimitri_Kitsikis>	<isKnownFor>	<Neo-Ottomanism> .
+#@ <id_3?CQjhUGxY_5BD_68R75AHOHp>
+<Peter_Blau>	<isKnownFor>	<James_Samuel_Coleman> .
+#@ <id_fWvHDnJgTJ_5BD_agXyMPvxdX>
+<Bob_Black>	<isKnownFor>	<The_Abolition_of_Work> .
+#@ <id_QPAC7E4x21_5BD_Zu0ulFmNZU>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Leibniz_harmonic_triangle> .
+#@ <id_1htDSgvjVU_5BD_U?vs3eJI6J>
+<Roy_Harrod>	<isKnownFor>	<Harrod–Domar_model> .
+#@ <id_ZUnUnCRhzF_5BD_7hzsjrEyWb>
+<Benjamin_Graham>	<isKnownFor>	<The_Intelligent_Investor> .
+#@ <id_84fAC6AK5b_5BD_dWsIcgPrjF>
+<Fredric_Jameson>	<isKnownFor>	<National_personification> .
+#@ <id_MHLIq8TGKy_5BD_Wn0FmXEFtb>
+<Galen_Strawson>	<isKnownFor>	<Panpsychism> .
+#@ <id_xa4q8z3HXH_5BD_bo9jyvbotZ>
+<Richard_Easterlin>	<isKnownFor>	<Easterlin_paradox> .
+#@ <id_zSFG3dGCmj_5BD_cEuop7UqZM>
+<Martin_Heidegger>	<isKnownFor>	<Aletheia> .
+#@ <id_yjw1?15UrE_5BD_?dUssRWMwn>
+<Nicole_Oresme>	<isKnownFor>	<Harmonic_series_(mathematics)> .
+#@ <id_s1jiWPVPzh_5BD_2CfLhVpCKK>
+<Immanuel_Kant>	<isKnownFor>	<Sapere_aude> .
+#@ <id_CVyKScpsf4_5BD_lzQkEuZT0d>
+<Wolfgang_Smith>	<isKnownFor>	<Neo-Scholasticism> .
+#@ <id_!0pgipiTE7_5BD_!IUT1BYqmJ>
+<Daniel_Dennett>	<isKnownFor>	<Intentional_stance> .
+#@ <id_RgdUpEDQkV_5BD_haqr30mC7B>
+<E._Jerome_McCarthy>	<isKnownFor>	<Marketing_mix> .
+#@ <id_fugFCUHFkv_5BD_?DuJpJDQ9r>
+<Theophrastus>	<isKnownFor>	<Aristotle> .
+#@ <id_nXmfPaergI_5BD_5gO9zbDUsy>
+<Charles_Hartshorne>	<isKnownFor>	<Process_theology> .
+#@ <id_5Zo2A9mt46_5BD_nPrTdRUOCv>
+<Leonard_Bloomfield>	<isKnownFor>	<fr/Distributionnalisme> .
+#@ <id_wzcuMpwokT_5BD_lNd9xrCnuB>
+<Félix_Guattari>	<isKnownFor>	<Anti-Oedipus> .
+#@ <id_QPAC7E4x21_5BD_IvCPc!HlHq>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Entscheidungsproblem> .
+#@ <id_zSFG3dGCmj_5BD_60njnu9MJa>
+<Martin_Heidegger>	<isKnownFor>	<Gestell> .
+#@ <id_sZ8wPDw0w0_5BD_C0CN1FDYhw>
+<Robert_Barro>	<isKnownFor>	<Ricardian_equivalence> .
+#@ <id_xLsDOAaQX1_5BD_Dfg1vLHwYf>
+<Steve_Hanke>	<isKnownFor>	<Hyperinflation> .
+#@ <id_qP9AUtDkcn_5BD_C!lFNxKXJ9>
+<Ahmad_ibn_Hanbal>	<isKnownFor>	<Hanbali> .
+#@ <id_vq0lN6WxPK_5BD_spul5Fek6S>
+<Clive_Granger>	<isKnownFor>	<Autoregressive_fractionally_integrated_moving_average> .
+#@ <id_drL0WC?F4t_5BD_hYYvdtXn?n>
+<John_Wycliffe>	<isKnownFor>	<Wycliffe's_Bible> .
+#@ <id_8fEPI2lCet_5BD_FF4zjdNu3x>
+<Jerry_A._Hausman>	<isKnownFor>	<Durbin–Wu–Hausman_test> .
+#@ <id_oiDJ!ICQkC_5BD_0QdI8VJh6x>
+<Jacques_Lacan>	<isKnownFor>	<The_Real> .
+#@ <id_vq0lN6WxPK_5BD_5eLyIcBh!W>
+<Clive_Granger>	<isKnownFor>	<Granger_causality> .
+#@ <id_7?KAF!lVLa_5BD_ULw!CbblUz>
+<John_Carrington_Cox>	<isKnownFor>	<Cox–Ingersoll–Ross_model> .
+#@ <id_?fSDdK4p1t_5BD_O64BZRMU2O>
+<Edgar_Morin>	<isKnownFor>	<Ludwig_von_Bertalanffy> .
+#@ <id_6Un3ZjYG?G_5BD_pbJuFAcuxw>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Absolute_idealism> .
+#@ <id_eGDFXeh6JH_5BD_XcJQn2!t2f>
+<Sachal_Sarmast>	<isKnownFor>	<Sufi_poetry> .
+#@ <id_skH?Loh!fV_5BD_guHEPlIyPl>
+<Stephen_Ross_(economist)>	<isKnownFor>	<Arbitrage_pricing_theory> .
+#@ <id_RCVE4nThph_5BD_NpnzIn4aDT>
+<Edward_Chamberlin>	<isKnownFor>	<Monopolistic_competition> .
+#@ <id_i1CB6eJb1t_5BD_kiaw?Pcr4k>
+<Paul_Krugman>	<isKnownFor>	<New_trade_theory> .
+#@ <id_sB17qXmXFs_5BD_6R3BLO8xU!>
+<Agustín_García_Calvo>	<isKnownFor>	<Herd_behavior> .
+#@ <id_QPAC7E4x21_5BD_Rh3juyZ0!Z>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Principle_of_sufficient_reason> .
+#@ <id_PK!PrHQORV_5BD_CTW!cm7zRR>
+<Irving_Fisher>	<isKnownFor>	<Money_illusion> .
+#@ <id_gzJTadXtCy_5BD_ofbNiqBP5R>
+<Harry_Frankfurt>	<isKnownFor>	<On_Bullshit> .
+#@ <id_KpZvEO3NIF_5BD_XDSSRvNNoz>
+<Philippe_Van_Parijs>	<isKnownFor>	<Basic_income> .
+#@ <id_OOY2AJEL?F_5BD_MrHV!WzATs>
+<John_Burr_Williams>	<isKnownFor>	<Discounted_cash_flow> .
+#@ <id_VTBoblAgen_5BD_iEZTX3z6iM>
+<Thomas_Klikauer>	<isKnownFor>	<Lawrence_Kohlberg> .
+#@ <id_APH5qGrvUD_5BD_9gvCVchnQ?>
+<Karl_Popper>	<isKnownFor>	<Falsifiability> .
+#@ <id_ro6D8DLX?!_5BD_cm2AOYVGYO>
+<Rogelio_Julio_Frigerio>	<isKnownFor>	<Developmentalism> .
+#@ <id_e6c8pgi6eL_5BD_?i15BF20hP>
+<Aenesidemus>	<isKnownFor>	<Epoché> .
+#@ <id_kY4Xd99Pbj_5BD_I5KHIBGYrM>
+<Guy_Debord>	<isKnownFor>	<Dérive> .
+#@ <id_tUYBHd9H6g_5BD_cpYLA!M3mO>
+<Friedrich_Nietzsche>	<isKnownFor>	<God_is_dead> .
+#@ <id_VbhN9wm7rZ_5BD_pmxUsz2JEK>
+<Alfred_North_Whitehead>	<isKnownFor>	<Process_philosophy> .
+#@ <id_Czz1PVflBb_5BD_ZAtPNNbfXQ>
+<George_Gurdjieff>	<isKnownFor>	<Fourth_Way_enneagram> .
+#@ <id_IMrjg0IDje_5BD_sObu4QHPvq>
+<Robert_D._Putnam>	<isKnownFor>	<Bowling_Alone> .
+#@ <id_?MMftc2ITB_5BD_6ocFaOJELE>
+<Vernon_L._Smith>	<isKnownFor>	<Combinatorial_auction> .
+#@ <id_?Gn0nDLAVh_5BD_aTxgv57jN0>
+<Imrich_Karvaš>	<isKnownFor>	<Slovak_National_Uprising> .
+#@ <id_vQsrN8UDQ2_5BD_nF3Z1TE9Uv>
+<Sergei_Starostin>	<isKnownFor>	<Old_Chinese> .
+#@ <id_SxBeBlHRyn_5BD_rDZM55jb2k>
+<Luciano_Floridi>	<isKnownFor>	<Information_ethics> .
+#@ <id_RvLO!PlS6u_5BD_TX5GnlvzhF>
+<René_Descartes>	<isKnownFor>	<Cartesian_coordinate_system> .
+#@ <id_nn2XCuxRj7_5BD_cc8MBikuV3>
+<Randall_Wright>	<isKnownFor>	<Matching_theory_(economics)> .
+#@ <id_9d63j9SjbQ_5BD_qzlJRjVxmU>
+<Henri_Bourassa>	<isKnownFor>	<Constitution_Act,_1867> .
+#@ <id_iY7htmWVMz_5BD_!ODqGWkry8>
+<Susan_Haack>	<isKnownFor>	<Foundherentism> .
+#@ <id_Clssy3xbeA_5BD_HZZ5SFjRrJ>
+<Peter_Kropotkin>	<isKnownFor>	<Mutual_aid_(organization_theory)> .
+#@ <id_WfkALvlb9I_5BD_Sp!uUwFcZJ>
+<Abul_Hasan_Ali_Hasani_Nadwi>	<isKnownFor>	<Interfaith_dialogue> .
+#@ <id_F?qbfyIpEw_5BD_9qtbFAB0ka>
+<Jürgen_Habermas>	<isKnownFor>	<Communicative_action> .
+#@ <id_wF!EBXXZ5!_5BD_5YTHc8V?bH>
+<Nicolas_Malebranche>	<isKnownFor>	<Occasionalism> .
+#@ <id_Cx4Sys7XxK_5BD_xitvMzywvo>
+<Patricia_Churchland>	<isKnownFor>	<Neurophilosophy> .
+#@ <id_XtuIk0NrtC_5BD_7F6mN2xtWa>
+<Louis_Althusser>	<isKnownFor>	<Economic_determinism> .
+#@ <id_YMSY9LDgU6_5BD_L9jHKzcgoT>
+<Taqi_al-Din_al-Nabhani>	<isKnownFor>	<Zionism> .
+#@ <id_QWLI5FHEAM_5BD_6Wvs2NFz7m>
+<Ullin_Place>	<isKnownFor>	<Type_physicalism> .
+#@ <id_HkEqor567c_5BD_mZWOXt!Evq>
+<Ludwig_Wittgenstein>	<isKnownFor>	<Private_language_argument> .
+#@ <id_kNdLl!DZsA_5BD_HQ7wexcLPP>
+<Raymond_Aron>	<isKnownFor>	<The_Opium_of_the_Intellectuals> .
+#@ <id_JXIcYX6vT9_5BD_4JmJ8Dtgfh>
+<Cornelius_Castoriadis>	<isKnownFor>	<Social_constructionism> .
+#@ <id_nSE3S7oWQs_5BD_v6u2RHbAXN>
+<Ernest_Sosa>	<isKnownFor>	<Virtue_epistemology> .
+#@ <id_IjTvlhI2sw_5BD_XOYCp93jkA>
+<Nasir_al-Din_al-Tusi>	<isKnownFor>	<Tusi_couple> .
+#@ <id_jxW4oIyZqk_5BD_E44L1yM9wB>
+<William_James>	<isKnownFor>	<James–Lange_theory> .
+#@ <id_doznFq!9Aq_5BD_ykxkstx2Pj>
+<Friedrich_List>	<isKnownFor>	<Historical_school_of_economics> .
+#@ <id_Et5OAsO65f_5BD_1MY8d4N5QJ>
+<Donald_Brook>	<isKnownFor>	<Sociocultural_evolution> .
+#@ <id_RyQOQ6MifY_5BD_nlrhlYNLKw>
+<Eduard_Sievers>	<isKnownFor>	<Sievers'_law> .
+#@ <id_zSFG3dGCmj_5BD_PxMAc30vG1>
+<Martin_Heidegger>	<isKnownFor>	<Heideggerian_terminology> .
+#@ <id_VczK5ZDt1j_5BD_G8ElLTJzY5>
+<Timothy_Williamson>	<isKnownFor>	<Epistemicism> .
+#@ <id_ciIEIgXxsz_5BD_VNV2ounPxx>
+<Paul_Samuelson>	<isKnownFor>	<Neoclassical_synthesis> .
+#@ <id_?MmRqpCRGL_5BD_!PzC4Hao1A>
+<Wasil_ibn_Ata>	<isKnownFor>	<Muʿtazila> .
+#@ <id_!eB2dDesJM_5BD_CVSSlVvG3s>
+<Shaykh_Tusi>	<isKnownFor>	<Najaf> .
+#@ <id_?hv7WbfYld_5BD_GcZZH4FkE!>
+<Howard_Zehr>	<isKnownFor>	<Restorative_justice> .
+#@ <id_nXAlOje3ES_5BD_UnObflTGQG>
+<Stephen_M._Engel>	<isKnownFor>	<Less-than-whole_citizens> .
+#@ <id_msu1CcEhPs_5BD_TBXbAbNwvO>
+<Tadeusz_Kotarbiński>	<isKnownFor>	<Reism> .
+#@ <id_gyqkbgUlEP_5BD_REohfLILtf>
+<Alvin_Goldman>	<isKnownFor>	<Causal_theory_of_knowledge> .
+#@ <id_RgnMHyffSD_5BD_RIkJZ1vH?O>
+<Ibn_Khaldun>	<isKnownFor>	<Social_cycle_theory> .
+#@ <id_?DQZNRe0jx_5BD_sI1hxmBCCq>
+<Franco_Modigliani>	<isKnownFor>	<Life-cycle_hypothesis> .
+#@ <id_dSlIAb?EoX_5BD_O0Shfb2G5D>
+<David_Hume>	<isKnownFor>	<Is–ought_problem> .
+#@ <id_0zxgoa55ut_5BD_rGWEuojrDs>
+<John_Kenneth_Galbraith>	<isKnownFor>	<Technostructure> .
+#@ <id_VAx8K9QJ9x_5BD_FrlGYQO2MG>
+<Bakul_Harshadrai_Dholakia>	<isKnownFor>	<Indian_Institutes_of_Management> .
+#@ <id_TM?OB?TO1u_5BD_NlhdYvKUXO>
+<Matt_Chandler_(pastor)>	<isKnownFor>	<Calvinism> .
+#@ <id_QPAC7E4x21_5BD_QJM?u868do>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Best_of_all_possible_worlds> .
+#@ <id_PiaZPhHbiv_5BD_Eql1!Pq1OT>
+<Thomas_Reid>	<isKnownFor>	<Naïve_realism> .
+#@ <id_eE?ZLq2cFj_5BD_Zp4u33k0Hs>
+<William_Phillips_(economist)>	<isKnownFor>	<Phillips_curve> .
+#@ <id_RcHFc7TJ0Z_5BD_GlROiGsy8W>
+<Frank_P._Ramsey>	<isKnownFor>	<Redundancy_theory_of_truth> .
+#@ <id_JXIcYX6vT9_5BD_l7FzBe3KH8>
+<Cornelius_Castoriadis>	<isKnownFor>	<Set_(mathematics)> .
+#@ <id_FV5s6Dn4br_5BD_BBluDnUNPR>
+<James_M._Buchanan>	<isKnownFor>	<Public_choice> .
+#@ <id_j1qUkZaxM1_5BD_4QPTSPnBIq>
+<Diogenes>	<isKnownFor>	<Cynicism_(philosophy)> .
+#@ <id_StNrGBh9?p_5BD_xLKFWO9TmP>
+<Laozi>	<isKnownFor>	<Wu_wei> .
+#@ <id_7?KAF!lVLa_5BD_uWunO5stxc>
+<John_Carrington_Cox>	<isKnownFor>	<Binomial_options_pricing_model> .
+#@ <id_JNjBe6OWNz_5BD_36yyo5CoAq>
+<Frank_Knight>	<isKnownFor>	<Knightian_uncertainty> .
+#@ <id_NI1!sGrRWz_5BD_QtjNEvN82O>
+<Michael_Huemer>	<isKnownFor>	<Phenomenal_conservatism> .
+#@ <id_RdWZflxOsp_5BD_W8Zal2GrnL>
+<Thales_of_Miletus>	<isKnownFor>	<Intercept_theorem> .
+#@ <id_rEThVcl7nn_5BD_qlZpSHedET>
+<Michael_Spence>	<isKnownFor>	<Signalling_(economics)> .
+#@ <id_eiuPsYzv?g_5BD_ZmGHYEOO5f>
+<Plato>	<isKnownFor>	<Platonic_realism> .
+#@ <id_LN4jv0aSnY_5BD_8xvXOKmF!M>
+<Peter_Leeson>	<isKnownFor>	<The_Invisible_Hook> .
+#@ <id_wX9OYx0JBa_5BD_Am2vN1PHvH>
+<Ravi_Batra>	<isKnownFor>	<Labour_economics> .
+#@ <id_JXIcYX6vT9_5BD_34uj2fF?rm>
+<Cornelius_Castoriadis>	<isKnownFor>	<Verstehen> .
+#@ <id_gaJ?J3gRxA_5BD_NOgs39llVf>
+<fr/Charles_Odier>	<isKnownFor>	<Paris_Psychoanalytic_Society> .
+#@ <id_7Doq3CJuou_5BD_kWvorW7o8Y>
+<Gilles_Deleuze>	<isKnownFor>	<Minority_(philosophy)> .
+#@ <id_QF189pvDFm_5BD_NjJ2q5ubUH>
+<John_Rawls>	<isKnownFor>	<Original_position> .
+#@ <id_VD8bDPv7iV_5BD_SIyT?Fj4g!>
+<Jean-Jacques_Laffont>	<isKnownFor>	<Information_asymmetry> .
+#@ <id_fj!DuprdrP_5BD_87z4JhmDiV>
+<Myron_Scholes>	<isKnownFor>	<Black–Scholes_model> .
+#@ <id_SgNSN6kD1O_5BD_VYm5ps95k!>
+<Peter_van_Inwagen>	<isKnownFor>	<Incompatibilism> .
+#@ <id_ciIEIgXxsz_5BD_idFbeKWQ5u>
+<Paul_Samuelson>	<isKnownFor>	<Mathematical_economics> .
+#@ <id_t8qw0ZVKnM_5BD_8jy7TQc?Qe>
+<Gustav_Cassel>	<isKnownFor>	<Purchasing_power_parity> .
+#@ <id_tUYBHd9H6g_5BD_HEPSHYJQ73>
+<Friedrich_Nietzsche>	<isKnownFor>	<Eternal_return> .
+#@ <id_9!mLPK3GtA_5BD_xoD6UgGY7A>
+<Bettye_Caldwell>	<isKnownFor>	<Head_Start_(program)> .
+#@ <id_pOc1IcE?Vl_5BD_3yPjPszeF9>
+<Vladimir_Solovyov_(philosopher)>	<isKnownFor>	<Sophia_(wisdom)> .
+#@ <id_6Un3ZjYG?G_5BD_hxQsJFEfJw>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Phenomenology_(philosophy)> .
+#@ <id_CFMwSuBjsX_5BD_SfcQsYIke2>
+<Nicholas_Rescher>	<isKnownFor>	<Theory_of_everything_(philosophy)> .
+#@ <id_dSlIAb?EoX_5BD_ubTp6Xloqm>
+<David_Hume>	<isKnownFor>	<Bundle_theory> .
+#@ <id_bIkfvv01H9_5BD_VqNmB10t5e>
+<Ned_Block>	<isKnownFor>	<Blockhead_(computer_system)> .
+#@ <id_RvvkPKnfgY_5BD_174z91GgZE>
+<Gayatri_Chakravorty_Spivak>	<isKnownFor>	<Subaltern_(postcolonialism)> .
+#@ <id_RvLO!PlS6u_5BD_AtYu5MMEz5>
+<René_Descartes>	<isKnownFor>	<Cartesian_doubt> .
+#@ <id_yFPIn7cILO_5BD_IXuQ17sTPs>
+<Omraam_Mikhaël_Aïvanhov>	<isKnownFor>	<Christianity> .
+#@ <id_nX926HlbFD_5BD_p7Fi0KTA7Y>
+<Dimitri_Kitsikis>	<isKnownFor>	<Ottoman_Empire> .
+#@ <id_R?6vu6qrNw_5BD_1bGTAssXi2>
+<Stephanie_Kelton>	<isKnownFor>	<Modern_Monetary_Theory> .
+#@ <id_ocl3BBqltQ_5BD_GMT2uWhzkW>
+<Rudolf_Carnap>	<isKnownFor>	<Phenomenalism> .
+#@ <id_TdJITlpxb4_5BD_hAZiXHJtJK>
+<Andrei_Shleifer>	<isKnownFor>	<Legal_origins_theory> .
+#@ <id_t7beuTpf9H_5BD_l0kQ2zVOox>
+<Zaki_al-Arsuzi>	<isKnownFor>	<Michel_Aflaq> .
+#@ <id_QPAC7E4x21_5BD_cc7zPVSKre>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Monadology> .
+#@ <id_PK!PrHQORV_5BD_sG469HM0ib>
+<Irving_Fisher>	<isKnownFor>	<Equation_of_exchange> .
+#@ <id_Hjim2QaBTe_5BD_T5RPDm0WYs>
+<Jacques_Derrida>	<isKnownFor>	<Phallogocentrism> .
+#@ <id_1sgw4GxOPs_5BD_6bHq6UiNx1>
+<Carl_Schmitt>	<isKnownFor>	<The_Concept_of_the_Political> .
+#@ <id_ltK5HJWlFR_5BD_6AYkTDY??C>
+<Samuel_L._Myers_Sr.>	<isKnownFor>	<Consumer_protection> .
+#@ <id_BmnhTda?mJ_5BD_yNIEtBbBHO>
+<James_Tobin>	<isKnownFor>	<Tobin's_q> .
+#@ <id_7r5s8RsoqX_5BD_Am2vN1PHvH>
+<Nicola_Acocella>	<isKnownFor>	<Labour_economics> .
+#@ <id_tUYBHd9H6g_5BD_qXyQ?!4ueQ>
+<Friedrich_Nietzsche>	<isKnownFor>	<Master–slave_morality> .
+#@ <id_nX926HlbFD_5BD_Zm?GAfr8T?>
+<Dimitri_Kitsikis>	<isKnownFor>	<Eurasianism> .
+#@ <id_SusuGDq6j8_5BD_nADhycYSgY>
+<Democritus>	<isKnownFor>	<Milky_Way> .
+#@ <id_yQe?GZNE6H_5BD_Op5UqrN1CR>
+<Franz_Hermann_Schulze-Delitzsch>	<isKnownFor>	<Bond_of_association> .
+#@ <id_ki6MFFXeQ?_5BD_CbZmJw9Aj3>
+<Richard_Stone>	<isKnownFor>	<National_accounts> .
+#@ <id_yCrPDTiCso_5BD_azvKlV24ks>
+<Michael_Levin>	<isKnownFor>	<Heritability_of_IQ> .
+#@ <id_tijhu98d4J_5BD_tqoj9ZRHvt>
+<Derek_Parfit>	<isKnownFor>	<On_What_Matters> .
+#@ <id_BCSoHh1RQX_5BD_G0KCiQuzOQ>
+<John_Hicks>	<isKnownFor>	<IS–LM_model> .
+#@ <id_tZrn?m!sR7_5BD_gTEnT1lHRK>
+<Hans_Kelsen>	<isKnownFor>	<Pure_Theory_of_Law> .
+#@ <id_fPhEDYhggt_5BD_XJ8aHNJ4bW>
+<Muhammad_ibn_Abd_al-Wahhab>	<isKnownFor>	<Tawhid> .
+#@ <id_GUN9ePUhlG_5BD_1VY2GXiQne>
+<Edward_C._Harwood>	<isKnownFor>	<John_Maynard_Keynes> .
+#@ <id_1q9UuT5hcW_5BD_n42XYfn52o>
+<Yung-Ping_Chen>	<isKnownFor>	<Social_Security_(United_States)> .
+#@ <id_RcHFc7TJ0Z_5BD_K01maMo?dN>
+<Frank_P._Ramsey>	<isKnownFor>	<Ramsey_theory> .
+#@ <id_zSFG3dGCmj_5BD_BKn3?Cq?ys>
+<Martin_Heidegger>	<isKnownFor>	<Ecstasy_(philosophy)> .
+#@ <id_APH5qGrvUD_5BD_QNZ12X?Vsa>
+<Karl_Popper>	<isKnownFor>	<Essentialism> .
+#@ <id_Gml8n8WwC9_5BD_vicrNEX6nA>
+<Robert_Lado>	<isKnownFor>	<Applied_linguistics> .
+#@ <id_APH5qGrvUD_5BD_FlD3025wgk>
+<Karl_Popper>	<isKnownFor>	<Reflexivity_(social_theory)> .
+#@ <id_t7beuTpf9H_5BD_5r5O3e!A56>
+<Zaki_al-Arsuzi>	<isKnownFor>	<Ba'athism> .
+#@ <id_QL40MlI2mv_5BD_Wj45tgy8VZ>
+<Karl_Barth>	<isKnownFor>	<Neo-orthodoxy> .
+#@ <id_ku6sPlOS4F_5BD_8Qkx6VkiPS>
+<Richard_Kahn,_Baron_Kahn>	<isKnownFor>	<Multiplier_(economics)> .
+#@ <id_!4G3FVecTl_5BD_9TySL4Iczj>
+<Kenneth_Arrow>	<isKnownFor>	<Fundamental_theorems_of_welfare_economics> .
+#@ <id_6Un3ZjYG?G_5BD_qCIr3Mvpuk>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Sittlichkeit> .
+#@ <id_7WNF9jmAuJ_5BD_MxNMAlP8Xs>
+<Eugene_Fama>	<isKnownFor>	<Fama–French_three-factor_model> .
+#@ <id_JXIcYX6vT9_5BD_qBkTK8Z17q>
+<Cornelius_Castoriadis>	<isKnownFor>	<Affect_(psychology)> .
+#@ <id_Uy!cJCAJtb_5BD_rRtU3JfDJD>
+<William_Vickrey>	<isKnownFor>	<Revenue_equivalence> .
+#@ <id_kkITOsMFei_5BD_NlFdUkm0eG>
+<Simone_de_Beauvoir>	<isKnownFor>	<Feminist_ethics> .
+#@ <id_Me8He?05AI_5BD_RgU0mpBm32>
+<Adam_Smith>	<isKnownFor>	<Invisible_hand> .
+#@ <id_RfjG!MZ7ge_5BD_xh75mI5PtC>
+<Max_Hirsch_(economist)>	<isKnownFor>	<Law_of_rent> .
+#@ <id_EtScj7Z5u0_5BD_fjWB3HDJTb>
+<Jeremy_Rifkin>	<isKnownFor>	<The_Empathic_Civilization> .
+#@ <id_6Un3ZjYG?G_5BD_RJce0jgzjA>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Master–slave_dialectic> .
+#@ <id_jxW4oIyZqk_5BD_7jyPyH6i9V>
+<William_James>	<isKnownFor>	<Ten_percent_of_the_brain_myth> .
+#@ <id_vCfdPEtXCd_5BD_s547LZppCM>
+<Julian_Steward>	<isKnownFor>	<Cultural_ecology> .
+#@ <id_buT5U5oeS7_5BD_KS6e?iraXI>
+<Merton_Miller>	<isKnownFor>	<Modigliani–Miller_theorem> .
+#@ <id_q37cKhx7an_5BD_SBL9Lx8qWP>
+<William_Baumol>	<isKnownFor>	<Baumol's_cost_disease> .
+#@ <id_c4ocA2CPia_5BD_?X017xTqQE>
+<Bernard_Bolzano>	<isKnownFor>	<Anti-psychologism> .
+#@ <id_KXJTKMtonG_5BD_EueN7TPsmG>
+<Emmanuel_Levinas>	<isKnownFor>	<Face-to-face_(philosophy)> .
+#@ <id_I4SFmlbiuQ_5BD_s7ew1?lIyH>
+<Thomas_More>	<isKnownFor>	<Utopia> .
+#@ <id_lAe3?SAIZy_5BD_Zu2Np7JZnk>
+<Peter_Singer>	<isKnownFor>	<fr/Antispécisme> .
+#@ <id_vQsrN8UDQ2_5BD_O0z9Ik7qt8>
+<Sergei_Starostin>	<isKnownFor>	<Dené–Caucasian_languages> .
+#@ <id_uNyRfqu5vm_5BD_pDM3HQ79pe>
+<Robert_Sugden_(economist)>	<isKnownFor>	<Regret_(decision_theory)> .
+#@ <id_tlE5BLW60Z_5BD_OL4Z8u2ixJ>
+<James_D._McCawley>	<isKnownFor>	<Generative_semantics> .
+#@ <id_3RVyyprNrr_5BD_OVdh9tc93k>
+<Costanzo_Preve>	<isKnownFor>	<Anti-capitalism> .
+#@ <id_7Doq3CJuou_5BD_d3VeTKdW4z>
+<Gilles_Deleuze>	<isKnownFor>	<fr/Pornologie> .
+#@ <id_wcYPMBSHzH_5BD_5Nnb!wvtpT>
+<Ludwig_von_Mises>	<isKnownFor>	<Quantity_theory_of_money> .
+#@ <id_0zxgoa55ut_5BD_MhLJeJoSWg>
+<John_Kenneth_Galbraith>	<isKnownFor>	<Conventional_wisdom> .
+#@ <id_c1AGAaCyXP_5BD_Vh9KqmvESk>
+<Otto_Jespersen>	<isKnownFor>	<Novial> .
+#@ <id_g8v1?OAgQq_5BD_mA0kjL9Rx9>
+<Karl_Polanyi>	<isKnownFor>	<Double_Movement> .
+#@ <id_?j9nXICuqD_5BD_MkHkdfsFYJ>
+<Jawdat_Said>	<isKnownFor>	<Quran> .
+#@ <id_BoO4trfnRU_5BD_BMRLOpBOwH>
+<Jean-François_Lyotard>	<isKnownFor>	<Postmodernity> .
+#@ <id_CpTUUOxfeC_5BD_lw0?jsvNk9>
+<Nobuhiro_Kiyotaki>	<isKnownFor>	<Kiyotaki–Moore_model> .
+#@ <id_VJggDDIbjZ_5BD_mVViA!iQEL>
+<Max_O._Lorenz>	<isKnownFor>	<Lorenz_curve> .
+#@ <id_UWA5CoolvN_5BD_VuLhKM8n2W>
+<David_Chalmers>	<isKnownFor>	<Two-dimensionalism> .
+#@ <id_QPAC7E4x21_5BD_GrjuyGzvIr>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Leibniz_formula_for_π> .
+#@ <id_tUYBHd9H6g_5BD_ToT6RVCTCq>
+<Friedrich_Nietzsche>	<isKnownFor>	<Tschandala> .
+#@ <id_jEnktvPyoj_5BD_v?rn3Fhjmz>
+<Henri_Bergson>	<isKnownFor>	<Duration_(philosophy)> .
+#@ <id_6uGNxEv30t_5BD_oyt7LG2Nb!>
+<Robert_Lucas_Jr.>	<isKnownFor>	<Rational_expectations> .
+#@ <id_6Un3ZjYG?G_5BD_8GnMkvtPQv>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Universal_(metaphysics)> .
+#@ <id_V7ivrsxGom_5BD_93dYZGkNI7>
+<George_Boolos>	<isKnownFor>	<Hume's_principle> .
+#@ <id_Kwx0q9aE8g_5BD_pEFd0X!6ox>
+<Murray_Bookchin>	<isKnownFor>	<Communalism_(political_philosophy)> .
+#@ <id_?y5YenvZJK_5BD_h4q1920xTd>
+<Philippa_Foot>	<isKnownFor>	<Trolley_problem> .
+#@ <id_QmXpx0PHpz_5BD_HXCH2oJr4Y>
+<George_Santayana>	<isKnownFor>	<The_Realms_of_Being> .
+#@ <id_APH5qGrvUD_5BD_L0?eHpBFZe>
+<Karl_Popper>	<isKnownFor>	<Propensity_probability> .
+#@ <id_DASLAmBxK1_5BD_BIENxsx45c>
+<Lewis_Gordon>	<isKnownFor>	<Postcolonialism> .
+#@ <id_Mh48CwQ3T2_5BD_r0dr7NOMFI>
+<Robert_Triffin>	<isKnownFor>	<Triffin_dilemma> .
+#@ <id_JJBy5zfhYr_5BD_4!NlCHKYgL>
+<Søren_Kierkegaard>	<isKnownFor>	<Existential_crisis> .
+#@ <id_TM?OB?TO1u_5BD_8qCNpdRn0D>
+<Matt_Chandler_(pastor)>	<isKnownFor>	<Complementarianism> .
+#@ <id_LaYcVv7S9H_5BD_CyewTG7D9e>
+<Noam_Chomsky>	<isKnownFor>	<Chomsky_hierarchy> .
+#@ <id_4z5j8lqrpH_5BD_h0GFHXi7nD>
+<Ahmad_Sirhindi>	<isKnownFor>	<Islamic_philosophy> .
+#@ <id_j7CCWYaTtL_5BD_SKcqKmXHr9>
+<Roy_Bhaskar>	<isKnownFor>	<Critical_realism_(philosophy_of_the_social_sciences)> .
+#@ <id_nX926HlbFD_5BD_!3E0HBC9MS>
+<Dimitri_Kitsikis>	<isKnownFor>	<Intermediate_Region> .
+#@ <id_APH5qGrvUD_5BD_K3d27OIXtr>
+<Karl_Popper>	<isKnownFor>	<Popper's_three_worlds> .
+#@ <id_oa9Bu5Z!RO_5BD_qt5nHPl1?U>
+<Muhammad_Din_Fauq>	<isKnownFor>	<Two-nation_theory> .
+#@ <id_vYdKGST3IP_5BD_ffv?VZVgBZ>
+<Friedrich_Hayek>	<isKnownFor>	<Catallactics> .
+#@ <id_F?jJIuJGIJ_5BD_tRiYDhGcp6>
+<Jaegwon_Kim>	<isKnownFor>	<Supervenience> .
+#@ <id_BmnhTda?mJ_5BD_XO?GDWLTTy>
+<James_Tobin>	<isKnownFor>	<Tobit_model> .
+#@ <id_E!z?xN9S18_5BD_TIChASBArJ>
+<Arius>	<isKnownFor>	<Subordinationism> .
+#@ <id_sB17qXmXFs_5BD_qXyQ?!4ueQ>
+<Agustín_García_Calvo>	<isKnownFor>	<Master–slave_morality> .
+#@ <id_miLvtcSIie_5BD_erahgiK5YG>
+<Herman_Daly>	<isKnownFor>	<Uneconomic_growth> .
+#@ <id_ByH7Wwkgmw_5BD_QICX0DU?!L>
+<Arthur_Danto>	<isKnownFor>	<Indiscernibles> .
+#@ <id_nmPUTgtc4C_5BD_U?vs3eJI6J>
+<Evsey_Domar>	<isKnownFor>	<Harrod–Domar_model> .
+#@ <id_Uqnl93Nmbd_5BD_wUKzOzMa0s>
+<Baruch_Spinoza>	<isKnownFor>	<Parallelism_(philosophy)> .
+#@ <id_7jsHUUJZm5_5BD_UbxcXCv32c>
+<Edmund_Husserl>	<isKnownFor>	<Lifeworld> .
+#@ <id_RvvkPKnfgY_5BD_7P4sbac3eY>
+<Gayatri_Chakravorty_Spivak>	<isKnownFor>	<Other> .
+#@ <id_O5U!HaK0cn_5BD_IM80AHRCSd>
+<Henri_Lefebvre>	<isKnownFor>	<Rhythmanalysis> .
+#@ <id_skkGwJaSc5_5BD_qEc2KsAa1J>
+<Gary_Gorton>	<isKnownFor>	<Shadow_banking_system> .
+#@ <id_EPqYcgZbRd_5BD_xFARTLNXXR>
+<Larry_Laudan>	<isKnownFor>	<Philosophical_realism> .
+#@ <id_3KW?PwRH57_5BD_GKw2m9KyjE>
+<Francois-Joseph_Servois>	<isKnownFor>	<Distributive_property> .
+#@ <id_1VY2GXiQne_5BD_5gKJqYb55H>
+<John_Maynard_Keynes>	<isKnownFor>	<Liquidity_preference> .
+#@ <id_eiuPsYzv?g_5BD_TMosOkhEY7>
+<Plato>	<isKnownFor>	<Anamnesis_(philosophy)> .
+#@ <id_3eHurdRije_5BD_yC3v2T0buT>
+<Henry_David_Thoreau>	<isKnownFor>	<Abolitionism_in_the_United_States> .
+#@ <id_ORDoV3mMc0_5BD_Zg4Am?6hnz>
+<Maitreesh_Ghatak>	<isKnownFor>	<Microfinance> .
+#@ <id_0YSzLR98Mh_5BD_5glVMp!oIg>
+<Ronald_Coase>	<isKnownFor>	<Coase_theorem> .
+#@ <id_jtQFfgKqZ0_5BD_4AhOz82FL2>
+<Jamāl_al-Dīn_al-Afghānī>	<isKnownFor>	<Pan-Islamism> .
+#@ <id_PMLB9F!rry_5BD_teiw9ZCV8p>
+<Ion_Dragoumis>	<isKnownFor>	<Hellenoturkism> .
+#@ <id_7Doq3CJuou_5BD_avO?KhQUpH>
+<Gilles_Deleuze>	<isKnownFor>	<Assemblage_(philosophy)> .
+#@ <id_3bg6QFLBKd_5BD_UzTWUFit84>
+<Blaise_Pascal>	<isKnownFor>	<Pascal's_Wager> .
+#@ <id_03yd9kTsxG_5BD_xg!oRknvBQ>
+<Saul_Kripke>	<isKnownFor>	<Kripke–Platek_set_theory> .
+#@ <id_1VY2GXiQne_5BD_RO1ix3TXgC>
+<John_Maynard_Keynes>	<isKnownFor>	<Fiscal_multiplier> .
+#@ <id_1sOn!ow1gN_5BD_d0uJvbmx5s>
+<Hilary_Putnam>	<isKnownFor>	<Semantic_externalism> .
+#@ <id_O!LnM5r82a_5BD_DNUunpOOdL>
+<Ekkehart_Schlicht>	<isKnownFor>	<Convention_(norm)> .
+#@ <id_NPs9m8XpDH_5BD_Bcf2aYkC3F>
+<Simone_Weil>	<isKnownFor>	<The_Need_for_Roots> .
+#@ <id_cCnj3bVAw7_5BD_jaSghtcmtw>
+<Morris_Copeland>	<isKnownFor>	<Stock-Flow_consistent_model> .
+#@ <id_ZqJdLRx5Lh_5BD_R4XcYyrRNR>
+<Charles_Harvard_Gibbs-Smith>	<isKnownFor>	<George_Cayley> .
+#@ <id_CPEgCspFAm_5BD_jkqZj0PebG>
+<Allah_Baksh_Sarshar_Uqaili>	<isKnownFor>	<Sufism> .
+#@ <id_!dEIYqx9rP_5BD_GX6dpgxjF7>
+<Jean_Buridan>	<isKnownFor>	<Theory_of_impetus> .
+#@ <id_5wAUomQ8WX_5BD_ry8s86wpan>
+<Hans_Vaihinger>	<isKnownFor>	<Fictionalism> .
+#@ <id_QV?A1?DHXn_5BD_NWKgOG6uah>
+<Zeno_of_Elea>	<isKnownFor>	<Zeno's_paradoxes> .
+#@ <id_jxW4oIyZqk_5BD_Tv!r?DiC?h>
+<William_James>	<isKnownFor>	<The_Will_to_Believe> .
+#@ <id_w0VPTeDdwm_5BD_8hmOWp!mbl>
+<Johann_Gottlieb_Fichte>	<isKnownFor>	<fr/Moi_absolu_de_Fichte> .
+#@ <id_Uy!cJCAJtb_5BD_nxWcA6pRVb>
+<William_Vickrey>	<isKnownFor>	<Congestion_pricing> .
+#@ <id_r6j!!O2xYM_5BD_EgscHPUVW2>
+<Michel_Foucault>	<isKnownFor>	<Heterotopia_(space)> .
+#@ <id_mauUUOclUw_5BD_6Yh3ZvPlZW>
+<Louis_Gabriel_Ambroise_de_Bonald>	<isKnownFor>	<Social_fact> .
+#@ <id_APH5qGrvUD_5BD_PsEWSi0b4C>
+<Karl_Popper>	<isKnownFor>	<Historism> .
+#@ <id_tUYBHd9H6g_5BD_kp2Kkj?pTw>
+<Friedrich_Nietzsche>	<isKnownFor>	<Übermensch> .
+#@ <id_l0kQ2zVOox_5BD_33zCCWP8oE>
+<Michel_Aflaq>	<isKnownFor>	<Salah_al-Din_al-Bitar> .
+#@ <id_Kwx0q9aE8g_5BD_QLR9ZQV6Z5>
+<Murray_Bookchin>	<isKnownFor>	<Social_ecology> .
+#@ <id_F?qbfyIpEw_5BD_NSBzrkTvIr>
+<Jürgen_Habermas>	<isKnownFor>	<Performative_contradiction> .
+#@ <id_!0pgipiTE7_5BD_o??tO9nAB5>
+<Daniel_Dennett>	<isKnownFor>	<Multiple_drafts_model> .
+#@ <id_Mi8gytwm6V_5BD_LtMo?wGr47>
+<Gustavo_Bueno>	<isKnownFor>	<Karl_Marx> .
+#@ <id_lKEUFXNHs9_5BD_IPNT8M1LUl>
+<Robert_Nozick>	<isKnownFor>	<Utility_monster> .
+#@ <id_wzcuMpwokT_5BD_GXjCP!bb0f>
+<Félix_Guattari>	<isKnownFor>	<Ecosophy> .
+#@ <id_EEZb!R6aam_5BD_UtEOMupEpE>
+<Charles_Horioka>	<isKnownFor>	<Feldstein–Horioka_puzzle> .
+#@ <id_1u59lFp6xN_5BD_OVdh9tc93k>
+<Gottfried_Feder>	<isKnownFor>	<Anti-capitalism> .
+#@ <id_ZKFO8ppaoC_5BD_NZ11o12Ysh>
+<Philippe_De_Brouwer>	<isKnownFor>	<Maslowian_portfolio_theory> .
+#@ <id_k2QXPCHSwD_5BD_yja0aFyZW1>
+<Mohammad_Abdul_Ghafoor_Hazarvi>	<isKnownFor>	<Majlis-e-Tahaffuz-e-Khatme_Nabuwwat> .
+#@ <id_w0TltS25CK_5BD_hZ2b3F6jXi>
+<Michael_C._Lovell>	<isKnownFor>	<Frisch–Waugh–Lovell_theorem> .
+#@ <id_vYdKGST3IP_5BD_BorUpARVzi>
+<Friedrich_Hayek>	<isKnownFor>	<Dispersed_knowledge> .
+#@ <id_eGDFXeh6JH_5BD_kjAy9nYl6C>
+<Sachal_Sarmast>	<isKnownFor>	<Sufi_music> .
+#@ <id_UWA5CoolvN_5BD_f5P6BdISfR>
+<David_Chalmers>	<isKnownFor>	<Hard_problem_of_consciousness> .
+#@ <id_vqKTnrLrk2_5BD_15r1ZCGvNH>
+<Friedrich_Engels>	<isKnownFor>	<Marx's_theory_of_alienation> .
+#@ <id_3Gv1ehEH7O_5BD_8GnMkvtPQv>
+<P._F._Strawson>	<isKnownFor>	<Universal_(metaphysics)> .
+#@ <id_vQsrN8UDQ2_5BD_0VDgAE!iaR>
+<Sergei_Starostin>	<isKnownFor>	<Yeniseian_languages> .
+#@ <id_dJhVHiVWqa_5BD_D5bxYmmICJ>
+<Vern_Poythress>	<isKnownFor>	<Multiperspectivalism> .
+#@ <id_pXR!lUVkY2_5BD_2BRK1lXlOv>
+<Elizabeth_Anscombe>	<isKnownFor>	<Action_(philosophy)> .
+#@ <id_wX9OYx0JBa_5BD_TA!swYrwDs>
+<Ravi_Batra>	<isKnownFor>	<Development_theory> .
+#@ <id_!sYh9CrNrc_5BD_tytTWeJ4CJ>
+<Duns_Scotus>	<isKnownFor>	<Immaculate_Conception> .
+#@ <id_BXD5hMPRmm_5BD_jbM9RTN8AZ>
+<Barbara_Aland>	<isKnownFor>	<Categories_of_New_Testament_manuscripts> .
+#@ <id_eZWBjThUMP_5BD_tG2abh1lP8>
+<Julius_Evola>	<isKnownFor>	<Fascist_mysticism> .
+#@ <id_0laLKJuPc7_5BD_WXG9CITkeT>
+<Suzanne_Briet>	<isKnownFor>	<Philosophy_of_technology> .
+#@ <id_sZ8wPDw0w0_5BD_AyKlCvB4fJ>
+<Robert_Barro>	<isKnownFor>	<Dynamic_inconsistency> .
+#@ <id_q1eQYN9G06_5BD_teo!cegCjB>
+<Karl_Jaspers>	<isKnownFor>	<Axial_Age> .
+#@ <id_Me8He?05AI_5BD_QMo3HvqCKO>
+<Adam_Smith>	<isKnownFor>	<Division_of_labour> .
+#@ <id_vQsrN8UDQ2_5BD_PofXla6RXI>
+<Sergei_Starostin>	<isKnownFor>	<Japonic_languages> .
+#@ <id_J?ZUiiixUa_5BD_VbXJKHh0sn>
+<Jean_Baudrillard>	<isKnownFor>	<Hyperreality> .
+#@ <id_YaLlM752GV_5BD_oFp0eQQKZb>
+<Hannah_Arendt>	<isKnownFor>	<Homo_faber> .
+#@ <id_QF189pvDFm_5BD_bU?IP3GlMb>
+<John_Rawls>	<isKnownFor>	<Reflective_equilibrium> .
+#@ <id_M2oc!sgdmS_5BD_J3t0DNCS8u>
+<Arthur_Schopenhauer>	<isKnownFor>	<On_the_Fourfold_Root_of_the_Principle_of_Sufficient_Reason> .
+#@ <id_VLWLWx5!2S_5BD_ybOriFJUbS>
+<G._E._Moore>	<isKnownFor>	<Paradox_of_analysis> .
+#@ <id_mLjOUaW8wu_5BD_7YEGtCUA1t>
+<Fritz_Machlup>	<isKnownFor>	<Information_society> .
+#@ <id_nw?tohK6hb_5BD_pPFbeAo2ok>
+<Frank_Hahn>	<isKnownFor>	<Keynesian_economics> .
+#@ <id_?DQZNRe0jx_5BD_KS6e?iraXI>
+<Franco_Modigliani>	<isKnownFor>	<Modigliani–Miller_theorem> .
+#@ <id_FCvvIfyS?P_5BD_pUYzXuhfQ5>
+<Cornel_West>	<isKnownFor>	<Race_Matters> .
+#@ <id_Sr02TxJp?8_5BD_?onlF!049d>
+<Antoun_Saadeh>	<isKnownFor>	<Greater_Syria> .
+#@ <id_E0Nst0OVfL_5BD_WYEeSxj1fo>
+<Hassan_Suhrawardy>	<isKnownFor>	<Syed_Ameer_Ali> .
+#@ <id_KXJTKMtonG_5BD_5V7XuNmQNZ>
+<Emmanuel_Levinas>	<isKnownFor>	<Alterity> .
+#@ <id_pMsqeqLMCk_5BD_7lbDmiAkO!>
+<Barbara_Cassin>	<isKnownFor>	<Sophist> .
+#@ <id_cgWKXmisCV_5BD_!GM18?KyVM>
+<Louis_Blanc>	<isKnownFor>	<Right_to_work> .
+#@ <id_DkTxtFnrM!_5BD_LCBWcSDMc7>
+<Hermann_Heinrich_Gossen>	<isKnownFor>	<Gossen's_laws> .
+#@ <id_HkEqor567c_5BD_b4njSErDCM>
+<Ludwig_Wittgenstein>	<isKnownFor>	<Quietism_(philosophy)> .
+#@ <id_pk23RtKhWw_5BD_lvYJYyOYsC>
+<Carl_Gustav_Hempel>	<isKnownFor>	<Raven_paradox> .
+#@ <id_FkyrJ7S4t8_5BD_o3xmvyrT66>
+<Max_Black>	<isKnownFor>	<Identity_of_indiscernibles> .
+#@ <id_3rWeNrdyCZ_5BD_zgWCHpu2iL>
+<Muhammad_Iqbal>	<isKnownFor>	<Allahabad_Address> .
+#@ <id_!0pgipiTE7_5BD_QQQXkkUlVF>
+<Daniel_Dennett>	<isKnownFor>	<Intuition_pump> .
+#@ <id_ykcoVPFQk0_5BD_XSows!ujDL>
+<Charalambos_D._Aliprantis>	<isKnownFor>	<Banach_space> .
+#@ <id_cb!eHXeCAl_5BD_IXuQ17sTPs>
+<Kurt_Lüthi>	<isKnownFor>	<Christianity> .
+#@ <id_7w!E7w?imU_5BD_8PB!N1OX8t>
+<Martha_Nussbaum>	<isKnownFor>	<Capability_approach> .
+#@ <id_6BM9g16kFT_5BD_1zbHx0YmMj>
+<Nathan_Salmon>	<isKnownFor>	<John_Stuart_Mill> .
+#@ <id_RfjG!MZ7ge_5BD_CvbtHZUDW8>
+<Max_Hirsch_(economist)>	<isKnownFor>	<Georgism> .
+#@ <id_nX926HlbFD_5BD_EZRU0EPasP>
+<Dimitri_Kitsikis>	<isKnownFor>	<National_Bolshevism> .
+#@ <id_6SlB44ZGWe_5BD_PWezWecwZ?>
+<fa/حسین_عظیمی_آرانی>	<isKnownFor>	<Economy_of_Iran> .
+#@ <id_A4BWfA3REA_5BD_8GnMkvtPQv>
+<Stilpo>	<isKnownFor>	<Universal_(metaphysics)> .
+#@ <id_CZ1ojGoRdb_5BD_cLoNV1nxQn>
+<Emmanuel_Mounier>	<isKnownFor>	<Personalism> .
+#@ <id_eIpNcGFSOG_5BD_?ILOAQ2V4P>
+<Teck-Hua_Ho>	<isKnownFor>	<Behavioral_economics> .
+#@ <id_GUN9ePUhlG_5BD_PRBRYgGgOv>
+<Edward_C._Harwood>	<isKnownFor>	<Alvin_Hansen> .
+#@ <id_Uqnl93Nmbd_5BD_6tMiyCHPUr>
+<Baruch_Spinoza>	<isKnownFor>	<Conatus> .
+#@ <id_aTpYoDJ5w7_5BD_qQ8742Cisg>
+<Socrates>	<isKnownFor>	<I_know_that_I_know_nothing> .
+#@ <id_YCXqE!l0As_5BD_liYdGlssfM>
+<Drew_Fudenberg>	<isKnownFor>	<Folk_theorem_(game_theory)> .
+#@ <id_vnDKFvx1bq_5BD_zBpxSDRaUU>
+<György_Lukács>	<isKnownFor>	<Reification_(Marxism)> .
+#@ <id_aNrmeaeLyN_5BD_xdF9NoVx0D>
+<Arthur_Cecil_Pigou>	<isKnownFor>	<Pigou_effect> .
+#@ <id_b4maoTs3rG_5BD_0!uDFUuqLb>
+<Gary_Becker>	<isKnownFor>	<Rotten_kid_theorem> .
+#@ <id_esvMCJo?ov_5BD_i2G8jKs26W>
+<Said_Gafurov>	<isKnownFor>	<Development_economics> .
+#@ <id_klEMiqB5jO_5BD_c92eaBH4qu>
+<Paul_Grice>	<isKnownFor>	<Cooperative_principle> .
+#@ <id_Lbt!C6F7YR_5BD_ULw!CbblUz>
+<Jonathan_E._Ingersoll>	<isKnownFor>	<Cox–Ingersoll–Ross_model> .
+#@ <id_7i9BD2xxxj_5BD_s4Wl2kc!Se>
+<Oded_Galor>	<isKnownFor>	<Unified_growth_theory> .
+#@ <id_iACbk0vskd_5BD_KA2Ea7cGvG>
+<Trevor_S._Breusch>	<isKnownFor>	<Breusch–Pagan_test> .
+#@ <id_s1jiWPVPzh_5BD_EIPxkCPVZv>
+<Immanuel_Kant>	<isKnownFor>	<Transcendental_idealism> .
+#@ <id_ZUnUnCRhzF_5BD_o2z844b48V>
+<Benjamin_Graham>	<isKnownFor>	<Security_Analysis_(book)> .
+#@ <id_LtMo?wGr47_5BD_v1sWrAmkNM>
+<Karl_Marx>	<isKnownFor>	<Class_conflict> .
+#@ <id_tUYBHd9H6g_5BD_d?PUZHxy7!>
+<Friedrich_Nietzsche>	<isKnownFor>	<Ressentiment> .
+#@ <id_nw?tohK6hb_5BD_SLit4RzrbG>
+<Frank_Hahn>	<isKnownFor>	<General_equilibrium_theory> .
+#@ <id_ClNib!6WP6_5BD_h0GFHXi7nD>
+<M._M._Sharif>	<isKnownFor>	<Islamic_philosophy> .
+#@ <id_uR9N4!C5cZ_5BD_H!CondYKyf>
+<Robert_Mundell>	<isKnownFor>	<Optimum_currency_area> .
+#@ <id_TfhzxXBiQj_5BD_yChF9HuXuZ>
+<Emanuel_Swedenborg>	<isKnownFor>	<Correspondence_(theology)> .
+#@ <id_96YsSocJdF_5BD_3!qvFhqMUA>
+<Cas_Wouters>	<isKnownFor>	<Habitus_(sociology)> .
+#@ <id_e5y49brZO1_5BD_lKmASSuRvt>
+<Chantal_Mouffe>	<isKnownFor>	<Deliberative_democracy> .
+#@ <id_lzqp33RhEs_5BD_cT5OZtY23c>
+<Muhammad_Hamidullah>	<isKnownFor>	<Islam> .
+#@ <id_heb7TIJUgy_5BD_vOy9vl9d6z>
+<David_Lewis_(philosopher)>	<isKnownFor>	<Modal_realism> .
+#@ <id_PkzKSSnkpd_5BD_HT2L7uXGQo>
+<Delores_S._Williams>	<isKnownFor>	<Womanism> .
+#@ <id_tUYBHd9H6g_5BD_MUWm5K!b06>
+<Friedrich_Nietzsche>	<isKnownFor>	<Last_man> .
+#@ <id_sJq9jjekGF_5BD_h33b!Fw884>
+<George_Stigler>	<isKnownFor>	<Regulatory_capture> .
+#@ <id_SUh?B2MQDg_5BD_EIPxkCPVZv>
+<Ady_Jean-Gardy>	<isKnownFor>	<Transcendental_idealism> .
+#@ <id_KmG?1nwq2O_5BD_MkHkdfsFYJ>
+<Amin_Ahsan_Islahi>	<isKnownFor>	<Quran> .
+#@ <id_R4HmHokmh2_5BD_ksPe6n7sJb>
+<James_Prinsep>	<isKnownFor>	<Kharosthi> .
+#@ <id_qRYCaD?8Cl_5BD_5zAo3oYYEB>
+<Randolph_Stone>	<isKnownFor>	<Energy_medicine> .
+#@ <id_nX926HlbFD_5BD_szSHQwe9VJ>
+<Dimitri_Kitsikis>	<isKnownFor>	<Alevism> .
+#@ <id_T2Ia6KuH0e_5BD_0Bq1JwrGUa>
+<Jesús_Padilla_Gálvez>	<isKnownFor>	<I_(pronoun)> .
+#@ <id_KZuLZRQ2SL_5BD_Qyj0Ij?1EK>
+<Victoria_Chick>	<isKnownFor>	<Post-Keynesian_economics> .
+#@ <id_QPAC7E4x21_5BD_Q7C41aW?kC>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Characteristica_universalis> .
+#@ <id_ceNyGXbws6_5BD_BBluDnUNPR>
+<Bruno_Leoni>	<isKnownFor>	<Public_choice> .
+#@ <id_wcYPMBSHzH_5BD_ffv?VZVgBZ>
+<Ludwig_von_Mises>	<isKnownFor>	<Catallactics> .
+#@ <id_esh3MwI?Wa_5BD_BO1G2tZgGb>
+<Thomas_Aquinas>	<isKnownFor>	<Five_Ways_(Aquinas)> .
+#@ <id_Z0cPVGCnAk_5BD_VzvAcN?EjY>
+<Dorothy_E._Smith>	<isKnownFor>	<Standpoint_theory> .
+#@ <id_2pNMfeIv!a_5BD_fj97uFhWod>
+<Graham_Priest>	<isKnownFor>	<Dialetheism> .
+#@ <id_heb7TIJUgy_5BD_tRiYDhGcp6>
+<David_Lewis_(philosopher)>	<isKnownFor>	<Supervenience> .
+#@ <id_?DuJpJDQ9r_5BD_fD7NwmD2eD>
+<Aristotle>	<isKnownFor>	<Phronesis> .
+#@ <id_TiNWIFYLD7_5BD_E!b?V9?tbe>
+<Thomas_Nagel>	<isKnownFor>	<Qualia> .
+#@ <id_Rg?rJco!FK_5BD_65hP6EWha8>
+<Rumi>	<isKnownFor>	<Sufi_whirling> .
+#@ <id_M!kUUi6?co_5BD_ocPZqye1wC>
+<Pierre-Joseph_Proudhon>	<isKnownFor>	<Mutualism_(economic_theory)> .
+#@ <id_QPAC7E4x21_5BD_dowfMhO!DE>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<De_Arte_Combinatoria> .
+#@ <id_qYGYI8P?Xw_5BD_p4rp1p8Bo7>
+<Afrikan_Spir>	<isKnownFor>	<Foundationalism> .
+#@ <id_6Un3ZjYG?G_5BD_dqBVtKF?ox>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Critical_philosophy> .
+#@ <id_sB17qXmXFs_5BD_cpYLA!M3mO>
+<Agustín_García_Calvo>	<isKnownFor>	<God_is_dead> .
+#@ <id_uzFdDh2DYK_5BD_pmxUsz2JEK>
+<Milič_Čapek>	<isKnownFor>	<Process_philosophy> .
+#@ <id_1jCYvu?7D1_5BD_y0sMKsl5rL>
+<David_Ricardo>	<isKnownFor>	<Diminishing_returns> .
+#@ <id_TALVtvOoj9_5BD_Sk1LD0vxcd>
+<Pythagoras>	<isKnownFor>	<Pythagorean_tuning> .
+#@ <id_KQqLEjGLHu_5BD_BnjDfqa!UX>
+<Josiah_Warren>	<isKnownFor>	<Self-ownership> .
+#@ <id_VLWLWx5!2S_5BD_OtXQmDnpDX>
+<G._E._Moore>	<isKnownFor>	<Here_is_one_hand> .
+#@ <id_JJBy5zfhYr_5BD_UNXq?LbzPa>
+<Søren_Kierkegaard>	<isKnownFor>	<Authenticity_(philosophy)> .
+#@ <id_WGglOfHqrc_5BD_WXREFxXUsb>
+<Gaston_Bachelard>	<isKnownFor>	<fr/Obstacle_épistémologique> .
+#@ <id_g6i0CXrK5c_5BD_?3AVIul7J3>
+<Boethius>	<isKnownFor>	<Rota_Fortunae> .
+#@ <id_zQEcD84O9O_5BD_JSGEeJORGX>
+<Giorgio_Agamben>	<isKnownFor>	<Homo_sacer> .
+#@ <id_re33Fns0dc_5BD_1OKTkpmz3z>
+<Maurice_Allais>	<isKnownFor>	<Allais_paradox> .
+#@ <id_kkITOsMFei_5BD_J8xvRUqc!G>
+<Simone_de_Beauvoir>	<isKnownFor>	<The_Ethics_of_Ambiguity> .
+#@ <id_JXIcYX6vT9_5BD_TWTE9FQrd5>
+<Cornelius_Castoriadis>	<isKnownFor>	<Law_of_identity> .
+#@ <id_FY5LZo6Hvc_5BD_pRkzVunJGh>
+<Bruno_Bauer>	<isKnownFor>	<Judaism> .
+#@ <id_hmnvyjk7Db_5BD_dYgBciRVgS>
+<Herbert_Marcuse>	<isKnownFor>	<Free_play_(Derrida)> .
+#@ <id_aKVFZJYJod_5BD_SLit4RzrbG>
+<Gérard_Debreu>	<isKnownFor>	<General_equilibrium_theory> .
+#@ <id_RXGh2sMMGt_5BD_7caU3RCzTw>
+<Aleksandr_Dugin>	<isKnownFor>	<The_Fourth_Political_Theory> .
+#@ <id_dH99t!merp_5BD_q!CNkM!Pys>
+<Plotinus>	<isKnownFor>	<Emanationism> .
+#@ <id_!Gl?Xu?bKN_5BD_3!qvFhqMUA>
+<Pierre_Bourdieu>	<isKnownFor>	<Habitus_(sociology)> .
+#@ <id_ocl3BBqltQ_5BD_e!T!akcvfx>
+<Rudolf_Carnap>	<isKnownFor>	<Analytic–synthetic_distinction> .
+#@ <id_yKPogd8sJx_5BD_ZiYUfTaZ9x>
+<Bryan_Caplan>	<isKnownFor>	<Rational_irrationality> .
+#@ <id_kn1v7OZVt5_5BD_hftEG8!I4q>
+<Jabir_ibn_Aflah>	<isKnownFor>	<Torquetum> .
+#@ <id_ZqJdLRx5Lh_5BD_piAskIXxs4>
+<Charles_Harvard_Gibbs-Smith>	<isKnownFor>	<Clément_Ader> .
+#@ <id_k2QXPCHSwD_5BD_GZf6D9BkUJ>
+<Mohammad_Abdul_Ghafoor_Hazarvi>	<isKnownFor>	<Jamiat_Ulema-e-Pakistan> .
+#@ <id_HkEqor567c_5BD_lDAMxxBY1K>
+<Ludwig_Wittgenstein>	<isKnownFor>	<Picture_theory_of_language> .
+#@ <id_xLsDOAaQX1_5BD_Fh6QK4taa9>
+<Steve_Hanke>	<isKnownFor>	<Currency_board> .
+#@ <id_mLWVdr2edm_5BD_rrAyXK4mGt>
+<Mark_Fisher_(theorist)>	<isKnownFor>	<Hauntology> .
+#@ <id_3Gv1ehEH7O_5BD_sFhD4HnaoM>
+<P._F._Strawson>	<isKnownFor>	<Ordinary_language_philosophy> .
+#@ <id_dSlIAb?EoX_5BD_3J6tI1O4CO>
+<David_Hume>	<isKnownFor>	<Science_of_man> .
+#@ <id_mJ189Ym7Kk_5BD_txAadin2Di>
+<Frédéric_Bastiat>	<isKnownFor>	<The_Law_(book)> .
+#@ <id_jtTjZghEQy_5BD_2oTsVyglBW>
+<Isaiah_Berlin>	<isKnownFor>	<Two_Concepts_of_Liberty> .
+#@ <id_XY7epMKxjb_5BD_3bnNirf?7A>
+<Karl_Vogt>	<isKnownFor>	<Polygenism> .
+#@ <id_7J3NX9lju9_5BD_zhNirwCkGc>
+<Roger_Gibson>	<isKnownFor>	<Willard_Van_Orman_Quine> .
+#@ <id_!Xv8T9w6Sr_5BD_ffUiR5F9EI>
+<John_Worrall_(philosopher)>	<isKnownFor>	<Structuralism_(philosophy_of_science)> .
+#@ <id_KZud8faRBQ_5BD_8rLdXzqsO2>
+<William_F._Hamilton_(professor)>	<isKnownFor>	<Technology_strategy> .
+#@ <id_xa4q8z3HXH_5BD_svB7cZl99Q>
+<Richard_Easterlin>	<isKnownFor>	<Happiness_economics> .
+#@ <id_dH99t!merp_5BD_KqQJbiQynC>
+<Plotinus>	<isKnownFor>	<de/Das_Eine> .
+#@ <id_6uGNxEv30t_5BD_?ILOAQ2V4P>
+<Robert_Lucas_Jr.>	<isKnownFor>	<Behavioral_economics> .
+#@ <id_fehwxBrDto_5BD_bIepRsw8Ph>
+<Joseph_Schumpeter>	<isKnownFor>	<Creative_destruction> .
+#@ <id_9HhipwfISu_5BD_9mNnnLA06b>
+<R._M._Hare>	<isKnownFor>	<Universal_prescriptivism> .
+#@ <id_kNdLl!DZsA_5BD_zdjVQdo??j>
+<Raymond_Aron>	<isKnownFor>	<Marxism> .
+#@ <id_3KW?PwRH57_5BD_0zurYDWKq9>
+<Francois-Joseph_Servois>	<isKnownFor>	<Commutative_property> .
+#@ <id_GyDgPV45pS_5BD_Z?VopjljlP>
+<Eliphas_Levi>	<isKnownFor>	<Baphomet> .
+#@ <id_Alj2mKMn7l_5BD_7QPMoLIu4u>
+<James_B._Ramsey>	<isKnownFor>	<Ramsey_RESET_test> .
+#@ <id_T2Ia6KuH0e_5BD_Kk8b4HeAMz>
+<Jesús_Padilla_Gálvez>	<isKnownFor>	<Proof_(truth)> .
+#@ <id_Vea1uEsnWa_5BD_0305u3HE5Y>
+<Jeffrey_Sachs>	<isKnownFor>	<Millennium_Villages_Project> .
+#@ <id_LQhAv9OD5g_5BD_4x7s0Wo5?D>
+<Carl_Stumpf>	<isKnownFor>	<State_of_affairs_(philosophy)> .
+#@ <id_roUIYYEfOT_5BD_6E5uU48Xgy>
+<Jean-Louis_Arcand>	<isKnownFor>	<Too_Much_Finance> .
+#@ <id_QPAC7E4x21_5BD_uN5tarmyfd>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Monad_(philosophy)> .
+#@ <id_7WNF9jmAuJ_5BD_nn7ey!QQdh>
+<Eugene_Fama>	<isKnownFor>	<Efficient-market_hypothesis> .
+#@ <id_O5U!HaK0cn_5BD_hyMnjPrZ6K>
+<Henri_Lefebvre>	<isKnownFor>	<Right_to_the_city> .
+#@ <id_tUYBHd9H6g_5BD_DATiRVFlMP>
+<Friedrich_Nietzsche>	<isKnownFor>	<Nietzschean_affirmation> .
+#@ <id_aNrmeaeLyN_5BD_VhENs9CHV2>
+<Arthur_Cecil_Pigou>	<isKnownFor>	<Pigou_Club> .
+#@ <id_UsKDx2QOC2_5BD_PNSR5pN?yS>
+<Al-Khalil_ibn_Ahmad_al-Farahidi>	<isKnownFor>	<Arabic_prosody> .
+#@ <id_BE?e13Y?i4_5BD_QfcBZScQNE>
+<K_M_Baharul_Islam>	<isKnownFor>	<La_Revanche_des_berceaux> .
+#@ <id_kPCVzWW!j1_5BD_XJ8aHNJ4bW>
+<Kiya_Buzurg_Ummid>	<isKnownFor>	<Tawhid> .
+#@ <id_ZMjKQ8TG7Q_5BD_75fiBOFV?i>
+<Michael_Horton_(theologian)>	<isKnownFor>	<Sola_fide> .
+#@ <id_1sOn!ow1gN_5BD_ZiMDTbKOdP>
+<Hilary_Putnam>	<isKnownFor>	<Rietdijk–Putnam_argument> .
+#@ <id_jtTjZghEQy_5BD_vVDmZOxzjz>
+<Isaiah_Berlin>	<isKnownFor>	<Value_pluralism> .
+#@ <id_PK!PrHQORV_5BD_FBf23jqGK!>
+<Irving_Fisher>	<isKnownFor>	<Independent_Party_of_Connecticut> .
+#@ <id_M?wkjLT7Ld_5BD_8WdmgL71Cx>
+<Raël>	<isKnownFor>	<Geniocracy> .
+#@ <id_xETK0ZtlIz_5BD_p0YIzl5Ftj>
+<Joseph_de_Maistre>	<isKnownFor>	<Divine_providence> .
+#@ <id_UDX9kQRoN2_5BD_xkpq9gpdL5>
+<Milton_Friedman>	<isKnownFor>	<Natural_rate_of_unemployment> .
+#@ <id_IlYsr3kCeW_5BD_1MY8d4N5QJ>
+<Karl_Kautsky>	<isKnownFor>	<Sociocultural_evolution> .
+#@ <id_CtCONUDFVz_5BD_h?8CWv3ZhI>
+<Wolfgang_Stützel>	<isKnownFor>	<Paradox_of_competition> .
+#@ <id_PK!PrHQORV_5BD_!y6DIHKtSg>
+<Irving_Fisher>	<isKnownFor>	<Fisher_equation> .
+#@ <id_T5TSchUbjM_5BD_xkpq9gpdL5>
+<Edmund_Phelps>	<isKnownFor>	<Natural_rate_of_unemployment> .
+#@ <id_VLWLWx5!2S_5BD_N9!wy57QUT>
+<G._E._Moore>	<isKnownFor>	<Naturalistic_fallacy> .
+#@ <id_MUfzdsCyrb_5BD_MBVC12fhlt>
+<Reza_Davari_Ardakani>	<isKnownFor>	<Western_culture> .
+#@ <id_VOeyfTKpJg_5BD_pmxUsz2JEK>
+<Joseph_A._Bracken>	<isKnownFor>	<Process_philosophy> .
+#@ <id_giLC7Bn2TK_5BD_UP5bhtUu?O>
+<Jonathan_Dancy>	<isKnownFor>	<Moral_particularism> .
+#@ <id_4tmfrIR4NT_5BD_!usI5Qhx6t>
+<Francis_Fukuyama>	<isKnownFor>	<End_of_history> .
+#@ <id_tDdTYgRVDf_5BD_stmLIq3NM5>
+<Aryabhata>	<isKnownFor>	<Approximations_of_π> .
+#@ <id_WfkALvlb9I_5BD_idRbZWOCqG>
+<Abul_Hasan_Ali_Hasani_Nadwi>	<isKnownFor>	<Islamic_democracy> .
+#@ <id_xSM!4hpom5_5BD_iHdiloN2e8>
+<Joan_Robinson>	<isKnownFor>	<Joan_Robinson's_growth_model> .
+#@ <id_j1VtvbveRb_5BD_wBZMCLuvEs>
+<Léon_Walras>	<isKnownFor>	<Walras'_law> .
+#@ <id_zSFG3dGCmj_5BD_P6pvP5qy7F>
+<Martin_Heidegger>	<isKnownFor>	<World_disclosure> .
+#@ <id_!Ouo9EAVIc_5BD_z1Pm9RHG!5>
+<Takis_Fotopoulos>	<isKnownFor>	<War_on_Terror> .
+#@ <id_EtScj7Z5u0_5BD_0TkVYvpyWj>
+<Jeremy_Rifkin>	<isKnownFor>	<The_Third_Industrial_Revolution> .
+#@ <id_Uqnl93Nmbd_5BD_S3qQwdeV5A>
+<Baruch_Spinoza>	<isKnownFor>	<Affect_(philosophy)> .
+#@ <id_Fh96ZCqfqD_5BD_IZPuFu!nmP>
+<János_Kornai>	<isKnownFor>	<Shortage_economy> .
+#@ <id_7DtK5iBOkz_5BD_B!5zxFkNKc>
+<Lucien_Tesnière>	<isKnownFor>	<Valency_(linguistics)> .
+#@ <id_dMEa8P0?wF_5BD_s1jiWPVPzh>
+<Gottlob_Ernst_Schulze>	<isKnownFor>	<Immanuel_Kant> .
+#@ <id_w0VPTeDdwm_5BD_1VHQEBJry4>
+<Johann_Gottlieb_Fichte>	<isKnownFor>	<Dieter_Henrich> .
+#@ <id_?TN?wstFWO_5BD_7CwithrZue>
+<Paul_Feyerabend>	<isKnownFor>	<Epistemological_anarchism> .
+#@ <id_aTpYoDJ5w7_5BD_1e9NIVWlEa>
+<Socrates>	<isKnownFor>	<Socratic_method> .
+#@ <id_0lxbLz!Egh_5BD_YALgphvl2u>
+<A._J._Ayer>	<isKnownFor>	<Non-cognitivism> .
+#@ <id_DeU8iRYXii_5BD_BaFAsl3!E5>
+<Myron_J._Gordon>	<isKnownFor>	<Dividend_discount_model> .
+#@ <id_?y5YenvZJK_5BD_Sw!XE0Vpkw>
+<Philippa_Foot>	<isKnownFor>	<Virtue_ethics> .
+#@ <id_IwnNDMouhk_5BD_wuERMFxVIg>
+<Michel_Clouscard>	<isKnownFor>	<fr/Libéral-libertaire> .
+#@ <id_H!oqjDqguK_5BD_VcMpzmD?01>
+<Salem_Hanna_Khamis>	<isKnownFor>	<Geary–Khamis_dollar> .
+#@ <id_HpjPLaYr8W_5BD_PxfioTpxdU>
+<Werner_Krieglstein>	<isKnownFor>	<Transcendental_perspectivism> .
+#@ <id_Loa2VFaC6s_5BD_14qlxoKC1F>
+<Michele_Boldrin>	<isKnownFor>	<Chaos_theory> .
+#@ <id_fehwxBrDto_5BD_!c9npgwG?r>
+<Joseph_Schumpeter>	<isKnownFor>	<Evolutionary_economics> .
+#@ <id_3PnKdE9xHN_5BD_i2G8jKs26W>
+<Peter_Middlebrook>	<isKnownFor>	<Development_economics> .
+#@ <id_zSFG3dGCmj_5BD_79ZLdzOt0U>
+<Martin_Heidegger>	<isKnownFor>	<Language_speaks> .
+#@ <id_?g?3gVqR6M_5BD_1VY2GXiQne>
+<João_Victor_Guedes>	<isKnownFor>	<John_Maynard_Keynes> .
+#@ <id_85P9uVb5EN_5BD_wD?dFfos0N>
+<Thomas_Kuhn>	<isKnownFor>	<Paradigm_shift> .
+#@ <id_TOu6uagb1l_5BD_2xT5W6L9E!>
+<Pascal_Bruckner>	<isKnownFor>	<The_White_Man's_Burden> .
+#@ <id_YMSY9LDgU6_5BD_4AhOz82FL2>
+<Taqi_al-Din_al-Nabhani>	<isKnownFor>	<Pan-Islamism> .
+#@ <id_KHTjRUyM7r_5BD_THqWJZwVQ?>
+<Melissus_of_Samos>	<isKnownFor>	<The_All> .
+#@ <id_JioDUkaeqJ_5BD_FbXzBVq?KZ>
+<Vilfredo_Pareto>	<isKnownFor>	<Pareto_efficiency> .
+#@ <id_P3YHRAqmC4_5BD_svm3yLDeZV>
+<Rashid_Ahmad_Gangohi>	<isKnownFor>	<Darul_Uloom_Deoband> .
+#@ <id_23T?NvYzk4_5BD_qA3fIRLyJ6>
+<Carmine_Gorga>	<isKnownFor>	<Relationalism> .
+#@ <id_1LwxSuKizr_5BD_Mba6u3dJmt>
+<Alvin_Plantinga>	<isKnownFor>	<Reliabilism> .
+#@ <id_XqOvC3g!CV_5BD_OjFOQSfJKy>
+<Marsilius_of_Inghen>	<isKnownFor>	<Supposition_theory> .
+#@ <id_nX926HlbFD_5BD_?lPvbIYvAj>
+<Dimitri_Kitsikis>	<isKnownFor>	<Turkey> .
+#@ <id_5fIGBwLpdj_5BD_2VcSVu7Ra6>
+<Heiner_Flassbeck>	<isKnownFor>	<Monetary_policy> .
+#@ <id_uo3dVj6llU_5BD_qSGos4hBEy>
+<Donald_Davidson_(philosopher)>	<isKnownFor>	<Principle_of_charity> .
+#@ <id_Gb5DbjmXL8_5BD_kFvVVm0HYi>
+<Ivan_Aguéli>	<isKnownFor>	<Traditionalist_School> .
+#@ <id_lAe3?SAIZy_5BD_zXcTXtfCPw>
+<Peter_Singer>	<isKnownFor>	<Equal_consideration_of_interests> .
+#@ <id_1sOn!ow1gN_5BD_1IJA271mL8>
+<Hilary_Putnam>	<isKnownFor>	<Causal_theory_of_reference> .
+#@ <id_YNQQG0znCo_5BD_npDwBY7fD8>
+<Peter_Abelard>	<isKnownFor>	<fr/Liberté_d'enseignement> .
+#@ <id_ipXht2Lj6W_5BD_ELkM!61ySa>
+<Antony_Flew>	<isKnownFor>	<No_true_Scotsman> .
+#@ <id_hRn?OPOaa5_5BD_fFnC59JZ5a>
+<Claude_Lévi-Strauss>	<isKnownFor>	<Culinary_triangle> .
+#@ <id_e7vLuJNcWv_5BD_7m0mZgTv3l>
+<Heraclitus>	<isKnownFor>	<Unity_of_opposites> .
+#@ <id_XiLHFnXn7I_5BD_aPNQlkaL1Y>
+<Mencius>	<isKnownFor>	<Confucianism> .
+#@ <id_EFA!tIgZWM_5BD_49AJEKxJKj>
+<Roman_Jakobson>	<isKnownFor>	<Jakobson's_functions_of_language> .
+#@ <id_!Gl?Xu?bKN_5BD_ksneaem4CH>
+<Pierre_Bourdieu>	<isKnownFor>	<Practice_theory> .
+#@ <id_VsxjDdC2Cm_5BD_PLSJlXFnug>
+<John_Grinder>	<isKnownFor>	<Neuro-linguistic_programming> .
+#@ <id_pk23RtKhWw_5BD_jV?Shw4kxS>
+<Carl_Gustav_Hempel>	<isKnownFor>	<Deductive-nomological_model> .
+#@ <id_XtuIk0NrtC_5BD_HK2gaX1Dsx>
+<Louis_Althusser>	<isKnownFor>	<Overdetermination> .
+#@ <id_FaM2zcZQ!N_5BD_2UFuMkz1g?>
+<Lisa_Hill_(political_scientist)>	<isKnownFor>	<Compulsory_voting> .
+#@ <id_sAD138805g_5BD_!QNmChoXGZ>
+<Robert_A._Sutermeister>	<isKnownFor>	<Production_theory> .
+#@ <id_Czz1PVflBb_5BD_FG8zEqeoxf>
+<George_Gurdjieff>	<isKnownFor>	<Fourth_Way> .
+#@ <id_yFPIn7cILO_5BD_qqSVA46fKI>
+<Omraam_Mikhaël_Aïvanhov>	<isKnownFor>	<Universal_White_Brotherhood> .
+#@ <id_sB17qXmXFs_5BD_HEPSHYJQ73>
+<Agustín_García_Calvo>	<isKnownFor>	<Eternal_return> .
+#@ <id_qAIv0ZI3bf_5BD_Jsqh?Nq2Ox>
+<Nicholas_Kaldor>	<isKnownFor>	<Circular_cumulative_causation> .
+#@ <id_YVZ3yo0JwL_5BD_SbL7QJm1Zg>
+<Stefan_Mittnik>	<isKnownFor>	<Financial_modeling> .
+#@ <id_1sOn!ow1gN_5BD_QJA?uCPk7R>
+<Hilary_Putnam>	<isKnownFor>	<Twin_Earth_thought_experiment> .
+#@ <id_pwDAMyYLok_5BD_CbZmJw9Aj3>
+<Agatha_Chapman>	<isKnownFor>	<National_accounts> .
+#@ <id_re33Fns0dc_5BD_!HXPb5M4Fe>
+<Maurice_Allais>	<isKnownFor>	<Golden_Rule_savings_rate> .
+#@ <id_iyNLPKsWCS_5BD_Vo4NJ?qpnk>
+<Abu_al-Wafa'_Buzjani>	<isKnownFor>	<Law_of_sines> .
+#@ <id_HfFLXZY1cG_5BD_p4oMh0o628>
+<Sylvia_Chant>	<isKnownFor>	<Gender_studies> .
+#@ <id_l0rLSzoMeU_5BD_YfNcYzOwrW>
+<Gorgias>	<isKnownFor>	<Kairos> .
+#@ <id_APH5qGrvUD_5BD_zonmELCria>
+<Karl_Popper>	<isKnownFor>	<Popper's_experiment> .
+#@ <id_kqT?ZKKfPf_5BD_WpmjXJ4sql>
+<Alexander_Rüstow>	<isKnownFor>	<Social_market_economy> .
+#@ <id_dnQ7gVrz3K_5BD_4QPTSPnBIq>
+<Antisthenes>	<isKnownFor>	<Cynicism_(philosophy)> .
+#@ <id_PK!PrHQORV_5BD_rYIK5y3zF3>
+<Irving_Fisher>	<isKnownFor>	<Debt_deflation> .
+#@ <id_HWiJCF2IqT_5BD_XCQuOVba9!>
+<Nicholas_Wolterstorff>	<isKnownFor>	<Reformed_epistemology> .
+#@ <id_z5ikOX9tiH_5BD_8O2mnjbYj8>
+<Jean-Jacques_Rousseau>	<isKnownFor>	<General_will> .
+#@ <id_j1VtvbveRb_5BD_SLit4RzrbG>
+<Léon_Walras>	<isKnownFor>	<General_equilibrium_theory> .
+#@ <id_cqSD6720rh_5BD_ffUiR5F9EI>
+<Stathis_Psillos>	<isKnownFor>	<Structuralism_(philosophy_of_science)> .
+#@ <id_3oNtqD!qYl_5BD_LmaSdEGlTk>
+<Alister_McGrath>	<isKnownFor>	<Theistic_evolution> .
+#@ <id_JYTLfjUox0_5BD_YIeopmTQy0>
+<Richard_Popkin>	<isKnownFor>	<Pyrrhonism> .
+#@ <id_SxBeBlHRyn_5BD_Q05mEAi5Ji>
+<Luciano_Floridi>	<isKnownFor>	<Philosophy_of_information> .
+#@ <id_!Gl?Xu?bKN_5BD_AwG0b6ouj>
+<Pierre_Bourdieu>	<isKnownFor>	<Social_capital> .
+#@ <id_RHkN4BopiO_5BD_26Ah91DvyU>
+<Richard_Rorty>	<isKnownFor>	<Final_vocabulary> .
+#@ <id_jeV7PN5dvx_5BD_aHoiJVuw4m>
+<Alain_de_Benoist>	<isKnownFor>	<Pensée_unique> .
+#@ <id_iKB2oyHbNO_5BD_XygVrdzota>
+<Erik_Thorbecke>	<isKnownFor>	<Social_accounting_matrix> .
+#@ <id_7jsHUUJZm5_5BD_EIPxkCPVZv>
+<Edmund_Husserl>	<isKnownFor>	<Transcendental_idealism> .
+#@ <id_PMLB9F!rry_5BD_kvhn6OP2UJ>
+<Ion_Dragoumis>	<isKnownFor>	<Eastern_Party> .
+#@ <id_1LwxSuKizr_5BD_pZtZko7!gC>
+<Alvin_Plantinga>	<isKnownFor>	<Ontological_argument> .
+#@ <id_CPEgCspFAm_5BD_kjAy9nYl6C>
+<Allah_Baksh_Sarshar_Uqaili>	<isKnownFor>	<Sufi_music> .
+#@ <id_m5JmLywTxP_5BD_0TuI5CyvCH>
+<Shin_Chaeho>	<isKnownFor>	<Juche> .
+#@ <id_RTwQl7gsC5_5BD_VkMsGl3jzr>
+<Simon_Blackburn>	<isKnownFor>	<Quasi-realism> .
+#@ <id_A9RCUncFAQ_5BD_Iz6ZmOojfr>
+<Stephen_Goldfeld>	<isKnownFor>	<Goldfeld–Quandt_test> .
+#@ <id_skH?Loh!fV_5BD_uWunO5stxc>
+<Stephen_Ross_(economist)>	<isKnownFor>	<Binomial_options_pricing_model> .
+#@ <id_5oAX0VWZ6P_5BD_OUJAkuIbS6>
+<Erik_Lindahl>	<isKnownFor>	<Lindahl_tax> .
+#@ <id_TALVtvOoj9_5BD_9mU!v9i!jX>
+<Pythagoras>	<isKnownFor>	<Musica_universalis> .
+#@ <id_1jkeGh8ATC_5BD_XqoCDvDsid>
+<Assar_Lindbeck>	<isKnownFor>	<Insider-outsider_theory_of_employment> .
+#@ <id_AJDdeLjkXh_5BD_Am2vN1PHvH>
+<Jacob_Mincer>	<isKnownFor>	<Labour_economics> .
+#@ <id_H!oqjDqguK_5BD_MH8vab778R>
+<Salem_Hanna_Khamis>	<isKnownFor>	<Incomplete_gamma_function> .
+#@ <id_eiuPsYzv?g_5BD_It3J4!juOj>
+<Plato>	<isKnownFor>	<Theory_of_Forms> .
+#@ <id_7Doq3CJuou_5BD_yGT!AkHQQS>
+<Gilles_Deleuze>	<isKnownFor>	<Body_without_organs> .
+#@ <id_Fh96ZCqfqD_5BD_WRA3fTH2du>
+<János_Kornai>	<isKnownFor>	<Theory_of_two-level_planning> .
+#@ <id_wzcuMpwokT_5BD_bhimpi5Y8l>
+<Félix_Guattari>	<isKnownFor>	<Deterritorialization> .
+#@ <id_RvLO!PlS6u_5BD_P2o80F8wnv>
+<René_Descartes>	<isKnownFor>	<Cogito_ergo_sum> .
+#@ <id_BwVLHalkEw_5BD_O2FeV7Msyh>
+<Nobuo_Okishio>	<isKnownFor>	<Okishio's_theorem> .
+#@ <id_s1jiWPVPzh_5BD_dqBVtKF?ox>
+<Immanuel_Kant>	<isKnownFor>	<Critical_philosophy> .
+#@ <id_CFvORm9sxB_5BD_nyKJ2fZE9b>
+<Ian_Bremmer>	<isKnownFor>	<Emerging_markets> .
+#@ <id_eGDFXeh6JH_5BD_jkqZj0PebG>
+<Sachal_Sarmast>	<isKnownFor>	<Sufism> .
+#@ <id_pr8V7Nwrym_5BD_SmRZKrbLTQ>
+<Carol_J._Clover>	<isKnownFor>	<Final_girl> .
+#@ <id_fK8SEcRYnr_5BD_svm3yLDeZV>
+<Muhammad_Qasim_Nanotvi>	<isKnownFor>	<Darul_Uloom_Deoband> .
+#@ <id_JioDUkaeqJ_5BD_ByxeKWvLH5>
+<Vilfredo_Pareto>	<isKnownFor>	<Pareto_index> .
+#@ <id_?DuJpJDQ9r_5BD_Ie9quhrkfZ>
+<Aristotle>	<isKnownFor>	<Golden_mean_(philosophy)> .
+#@ <id_TfhzxXBiQj_5BD_1ai1sd5oGM>
+<Emanuel_Swedenborg>	<isKnownFor>	<Second_Coming> .
+#@ <id_1VY2GXiQne_5BD_pPFbeAo2ok>
+<John_Maynard_Keynes>	<isKnownFor>	<Keynesian_economics> .
+#@ <id_3dJMxFvJPW_5BD_ppwhJuME3c>
+<Maurice_Halbwachs>	<isKnownFor>	<Collective_memory> .
+#@ <id_9rZxUxmkHi_5BD_QNkZXzsS50>
+<Sean_Dorrance_Kelly>	<isKnownFor>	<Poiesis> .
+#@ <id_spKD84zX1H_5BD_N9E51NGEbK>
+<Montesquieu>	<isKnownFor>	<Executive_(government)> .
+#@ <id_IrHgGVfADY_5BD_6Un3ZjYG?G>
+<Alan_M._Olson>	<isKnownFor>	<Georg_Wilhelm_Friedrich_Hegel> .
+#@ <id_CiLl23edqd_5BD_1JrDYegb9V>
+<Huw_Dixon>	<isKnownFor>	<Bertrand–Edgeworth_model> .
+#@ <id_uR9N4!C5cZ_5BD_F4qDe8e4nw>
+<Robert_Mundell>	<isKnownFor>	<Mundell–Fleming_model> .
+#@ <id_T5TSchUbjM_5BD_!HXPb5M4Fe>
+<Edmund_Phelps>	<isKnownFor>	<Golden_Rule_savings_rate> .
+#@ <id_F?qbfyIpEw_5BD_lKmASSuRvt>
+<Jürgen_Habermas>	<isKnownFor>	<Deliberative_democracy> .
+#@ <id_qXwaksxo6L_5BD_Bk?BLiQj9N>
+<Herbert_Spencer>	<isKnownFor>	<Social_Darwinism> .
+#@ <id_PojPuS27Wd_5BD_9!IQ0qlLGi>
+<Al-Tabari>	<isKnownFor>	<Jariri> .
+#@ <id_cCnj3bVAw7_5BD_bhoPUMCQg5>
+<Morris_Copeland>	<isKnownFor>	<Flow_of_funds> .
+#@ <id_6Un3ZjYG?G_5BD_GEAJv4BHh2>
+<Georg_Wilhelm_Friedrich_Hegel>	<isKnownFor>	<Continental_philosophy> .
+#@ <id_2orWvACR6Y_5BD_ub34aE?LH2>
+<Syed_Shujaat_Ali_Qadri>	<isKnownFor>	<Sunni_Islam> .
+#@ <id_yQe?GZNE6H_5BD_fAjp!lUe?e>
+<Franz_Hermann_Schulze-Delitzsch>	<isKnownFor>	<Cooperative_banking> .
+#@ <id_!4G3FVecTl_5BD_qgPcx55pZc>
+<Kenneth_Arrow>	<isKnownFor>	<Arrow's_impossibility_theorem> .
+#@ <id_8EiqZtqELT_5BD_m5Iu8cBJmI>
+<Jean-Baptiste_Say>	<isKnownFor>	<Say's_law> .
+#@ <id_QPAC7E4x21_5BD_q50APX!o6F>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Leibniz_integral_rule> .
+#@ <id_IrHgGVfADY_5BD_q1eQYN9G06>
+<Alan_M._Olson>	<isKnownFor>	<Karl_Jaspers> .
+#@ <id_5fIGBwLpdj_5BD_Uz4fX4hiuU>
+<Heiner_Flassbeck>	<isKnownFor>	<Financial_crisis> .
+#@ <id_UDX9kQRoN2_5BD_AOZ4dGt?rl>
+<Milton_Friedman>	<isKnownFor>	<Friedman_test> .
+#@ <id_zhNirwCkGc_5BD_wsFksNmEw5>
+<Willard_Van_Orman_Quine>	<isKnownFor>	<Quine–McCluskey_algorithm> .
+#@ <id_tUYBHd9H6g_5BD_2771xcgSA1>
+<Friedrich_Nietzsche>	<isKnownFor>	<Transvaluation_of_values> .
+#@ <id_1VY2GXiQne_5BD_YTPPNv!5YQ>
+<John_Maynard_Keynes>	<isKnownFor>	<AD–AS_model> .
+#@ <id_7jsHUUJZm5_5BD_V2DWxiTEX6>
+<Edmund_Husserl>	<isKnownFor>	<Urdoxa> .
+#@ <id_eLDowW42Ch_5BD_lEBl6fUHKF>
+<William_A._Barnett>	<isKnownFor>	<Divisia_monetary_aggregates_index> .
+#@ <id_jM?KKmSBCS_5BD_pIRgjqmdxo>
+<Hyman_Minsky>	<isKnownFor>	<Minsky_moment> .
+#@ <id_xLsDOAaQX1_5BD_VgdH02xbor>
+<Steve_Hanke>	<isKnownFor>	<Hanke–Henry_Permanent_Calendar> .
+#@ <id_F?qbfyIpEw_5BD_Yw1n8IKYLA>
+<Jürgen_Habermas>	<isKnownFor>	<The_Structural_Transformation_of_the_Public_Sphere> .
+#@ <id_9EI31b7NVe_5BD_0Z3d129bbX>
+<Robert_Solow>	<isKnownFor>	<Solow–Swan_model> .
+#@ <id_OMvqIDQENL_5BD_Ip4PAG9VAQ>
+<Gottlob_Frege>	<isKnownFor>	<Currying> .
+#@ <id_SgNSN6kD1O_5BD_khO7dsEByo>
+<Peter_van_Inwagen>	<isKnownFor>	<Consequence_argument> .
+#@ <id_vuT5l?cRR1_5BD_BwVsy2BMRT>
+<Henry_Corbin>	<isKnownFor>	<Imaginary_(sociology)> .
+#@ <id_Ou9HlfZoGt_5BD_HsUrYKV9VS>
+<Ernst_Platner>	<isKnownFor>	<Psychosomatic_medicine> .
+#@ <id_PLFgnMNm2a_5BD_9GQbwnKiuh>
+<Richard_D._Wolff>	<isKnownFor>	<Marxian_economics> .
+#@ <id_iX9DxqLnS3_5BD_47cnxQn63A>
+<John_Jefferson_Davis>	<isKnownFor>	<Environmental_ethics> .
+#@ <id_hEzcD1BC6K_5BD_q73ECTO5Zi>
+<Hans-Georg_Gadamer>	<isKnownFor>	<Practical_philosophy> .
+#@ <id_QPAC7E4x21_5BD_LFmSR!i3H8>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Alternating_series_test> .
+#@ <id_tHvU0BFx!3_5BD_NsETY2QxDr>
+<Annette_Baier>	<isKnownFor>	<Trust_(emotion)> .
+#@ <id_74m?u1DcZO_5BD_wRo3p2?9Nr>
+<Alison_Wray>	<isKnownFor>	<Lexical_item> .
+#@ <id_!0pgipiTE7_5BD_G60qTdAbAa>
+<Daniel_Dennett>	<isKnownFor>	<Cartesian_theater> .
+#@ <id_dSlIAb?EoX_5BD_lSySGgs74l>
+<David_Hume>	<isKnownFor>	<fr/Causalité_(philosophie)> .
+#@ <id_vEhomjuz56_5BD_27Rq7xP5oW>
+<Thomas_Robert_Malthus>	<isKnownFor>	<Malthusian_growth_model> .
+#@ <id_Ko22j0y8XI_5BD_jkqZj0PebG>
+<Qalandar_Baba_Auliya>	<isKnownFor>	<Sufism> .
+#@ <id_QF189pvDFm_5BD_l8dXv0YdW6>
+<John_Rawls>	<isKnownFor>	<Justice_as_Fairness> .
+#@ <id_TGl4VmZoBT_5BD_ffUiR5F9EI>
+<Bas_van_Fraassen>	<isKnownFor>	<Structuralism_(philosophy_of_science)> .
+#@ <id_CtCONUDFVz_5BD_i56SgqJQT2>
+<Wolfgang_Stützel>	<isKnownFor>	<Balances_Mechanics> .
+#@ <id_r6j!!O2xYM_5BD_MckdkddOLw>
+<Michel_Foucault>	<isKnownFor>	<The_Order_of_Things> .
+#@ <id_!6620mm1YT_5BD_AVVyItedQj>
+<Wilhelm_Röpke>	<isKnownFor>	<Wirtschaftswunder> .
+#@ <id_tDdTYgRVDf_5BD_Clyhn2dnrA>
+<Aryabhata>	<isKnownFor>	<Earth's_rotation> .
+#@ <id_OOY2AJEL?F_5BD_9LF7XmNGZF>
+<John_Burr_Williams>	<isKnownFor>	<Intrinsic_value_(finance)> .
+#@ <id_1sOn!ow1gN_5BD_eG10H?bKWh>
+<Hilary_Putnam>	<isKnownFor>	<Intermediate_logic> .
+#@ <id_Nr!OJoRZUY_5BD_XDf1CUv9oS>
+<Steven_Levitt>	<isKnownFor>	<SuperFreakonomics> .
+#@ <id_5jhhDuKntA_5BD_8AGXwizhiB>
+<James_Bugental>	<isKnownFor>	<Humanistic_psychology> .
+#@ <id_Q7jOl19s1h_5BD_xD5onogtoF>
+<Porphyry_(philosopher)>	<isKnownFor>	<Porphyrian_tree> .
+#@ <id_8eBz5aWXp8_5BD_Kg!FMFEAJD>
+<Carneades>	<isKnownFor>	<Philosophical_skepticism> .
+#@ <id_eiuPsYzv?g_5BD_Zb6!rpUIG?>
+<Plato>	<isKnownFor>	<Platonic_idealism> .
+#@ <id_zhNirwCkGc_5BD_WzdXymUNt?>
+<Willard_Van_Orman_Quine>	<isKnownFor>	<Plato's_beard> .
+#@ <id_cHwVA0vCGD_5BD_rNOIObbDHY>
+<Samuel_Edward_Konkin_III>	<isKnownFor>	<Agorism> .
+#@ <id_ztpDE2dSMO_5BD_nOY!aK3Ie0>
+<Zeno_Vendler>	<isKnownFor>	<Grammatical_aspect> .
+#@ <id_TMEeY6vsdN_5BD_jYOfY2it7y>
+<James_Duesenberry>	<isKnownFor>	<Relative_income_hypothesis> .
+#@ <id_tUYBHd9H6g_5BD_8Fr4v7LTOL>
+<Friedrich_Nietzsche>	<isKnownFor>	<Genealogy_(philosophy)> .
+#@ <id_VbhN9wm7rZ_5BD_5gO9zbDUsy>
+<Alfred_North_Whitehead>	<isKnownFor>	<Process_theology> .
+#@ <id_L95hyeUNMj_5BD_CP773ySxoP>
+<Johann_Reuchlin>	<isKnownFor>	<Christian_Kabbalah> .
+#@ <id_dH99t!merp_5BD_oRgVOno71n>
+<Plotinus>	<isKnownFor>	<Henosis> .
+#@ <id_VgTp!pEr4e_5BD_KVzWoBxUFy>
+<Johann_Gottfried_Herder>	<isKnownFor>	<Volksgeist> .
+#@ <id_ntjfvXjuaK_5BD_rFUQ7doBzN>
+<Tan_Malaka>	<isKnownFor>	<Madilog> .
+#@ <id_nX926HlbFD_5BD_kvhn6OP2UJ>
+<Dimitri_Kitsikis>	<isKnownFor>	<Eastern_Party> .
+#@ <id_zsSzkjilJD_5BD_4JmJ8Dtgfh>
+<Judith_Butler>	<isKnownFor>	<Social_constructionism> .
+#@ <id_JXIcYX6vT9_5BD_Ib1PbhInyU>
+<Cornelius_Castoriadis>	<isKnownFor>	<Self-reflection> .
+#@ <id_iKB2oyHbNO_5BD_Ym7lWsT6Vk>
+<Erik_Thorbecke>	<isKnownFor>	<Foster–Greer–Thorbecke_indices> .
+#@ <id_KXJTKMtonG_5BD_7P4sbac3eY>
+<Emmanuel_Levinas>	<isKnownFor>	<Other> .
+#@ <id_CLhH4wXWEq_5BD_BptWoApaF6>
+<Michał_Kalecki>	<isKnownFor>	<Markup_(business)> .
+#@ <id_i6v3VuS?1N_5BD_ZCjsBFvdZI>
+<Robert_J._Shiller>	<isKnownFor>	<Irrational_Exuberance_(book)> .
+#@ <id_GUN9ePUhlG_5BD_ciIEIgXxsz>
+<Edward_C._Harwood>	<isKnownFor>	<Paul_Samuelson> .
+#@ <id_oiDJ!ICQkC_5BD_6Zu21Kv!Wn>
+<Jacques_Lacan>	<isKnownFor>	<Mirror_stage> .
+#@ <id_RcHFc7TJ0Z_5BD_2TBEiXgjXP>
+<Frank_P._Ramsey>	<isKnownFor>	<Ramsey_sentence> .
+#@ <id_nrhyNMqQ?7_5BD_AyKlCvB4fJ>
+<Finn_E._Kydland>	<isKnownFor>	<Dynamic_inconsistency> .
+#@ <id_KRB4w!kAS9_5BD_u6U8fmBKwn>
+<Muhammad_Taqi_Usmani>	<isKnownFor>	<Islamic_economics> .
+#@ <id_oiDJ!ICQkC_5BD_8e8nHuDtwU>
+<Jacques_Lacan>	<isKnownFor>	<Foreclosure_(psychoanalysis)> .
+#@ <id_K4FpJT1tM0_5BD_MkHkdfsFYJ>
+<Abd_Allah_ibn_Abbas>	<isKnownFor>	<Quran> .
+#@ <id_skkGwJaSc5_5BD_6tS!9nI?BF>
+<Gary_Gorton>	<isKnownFor>	<Subprime_mortgage_crisis> .
+#@ <id_onPKVpKIFI_5BD_gp1Ew2p9ad>
+<Marc_Lavoie>	<isKnownFor>	<Monetary_economics> .
+#@ <id_CVyKScpsf4_5BD_xFARTLNXXR>
+<Wolfgang_Smith>	<isKnownFor>	<Philosophical_realism> .
+#@ <id_Sd8wdUEfFj_5BD_WpmjXJ4sql>
+<Walter_Eucken>	<isKnownFor>	<Social_market_economy> .
+#@ <id_6uGNxEv30t_5BD_X1pNi4Pwqm>
+<Robert_Lucas_Jr.>	<isKnownFor>	<Lucas_critique> .
+#@ <id_zhNirwCkGc_5BD_fORgq7K8sg>
+<Willard_Van_Orman_Quine>	<isKnownFor>	<Quine's_paradox> .
+#@ <id_JioDUkaeqJ_5BD_YOytnbCEjB>
+<Vilfredo_Pareto>	<isKnownFor>	<Pareto_chart> .
+#@ <id_re33Fns0dc_5BD_dT0Wp!KM7L>
+<Maurice_Allais>	<isKnownFor>	<Overlapping_generations_model> .
+#@ <id_RXGh2sMMGt_5BD_xr?!9sJQEO>
+<Aleksandr_Dugin>	<isKnownFor>	<Eurasia> .
+#@ <id_22YRmtLCsn_5BD_4x7s0Wo5?D>
+<Adolf_Reinach>	<isKnownFor>	<State_of_affairs_(philosophy)> .
+#@ <id_zr4MsyK!io_5BD_vmjTh2BWF?>
+<Woo_Wing_Thye>	<isKnownFor>	<Transition_economy> .
+#@ <id_RgnMHyffSD_5BD_GpjIV9nwdv>
+<Ibn_Khaldun>	<isKnownFor>	<Asabiyyah> .
+#@ <id_bvJCfvgqAN_5BD_yINUvviXvY>
+<Roland_Barthes>	<isKnownFor>	<Writing_Degree_Zero> .
+#@ <id_9d63j9SjbQ_5BD_1JcjIjkkKx>
+<Henri_Bourassa>	<isKnownFor>	<Statute_of_Westminster_1931> .
+#@ <id_r32xF?Kky0_5BD_jJngUYLty5>
+<Friedrich_Wilhelm_Joseph_Schelling>	<isKnownFor>	<Identity_(philosophy)> .
+#@ <id_r6j!!O2xYM_5BD_UUDyVgru9j>
+<Michel_Foucault>	<isKnownFor>	<Biopolitics> .
+#@ <id_zy14hwTqZN_5BD_ELLZUHVl2T>
+<Lorraine_Eden>	<isKnownFor>	<Transfer_pricing> .
+#@ <id_jeV7PN5dvx_5BD_!wCWUGj4Xa>
+<Alain_de_Benoist>	<isKnownFor>	<Ethnopluralism> .
+#@ <id_Tvwjg67QGF_5BD_0KOV?6zfAh>
+<Paul_Copan>	<isKnownFor>	<Divine_command_theory> .
+#@ <id_1sOn!ow1gN_5BD_c16pIkqrSS>
+<Hilary_Putnam>	<isKnownFor>	<Davis–Putnam_algorithm> .
+#@ <id_dk86hP7CgJ_5BD_vEk2x!tZ4N>
+<Clarence_Edwin_Ayres>	<isKnownFor>	<Veblenian_dichotomy> .
+#@ <id_jcLSfjZrdI_5BD_34uj2fF?rm>
+<Wilhelm_Dilthey>	<isKnownFor>	<Verstehen> .
+#@ <id_zUny6cMwok_5BD_l9NVW?uIC!>
+<Louis_Lavelle>	<isKnownFor>	<Absolute_(philosophy)> .
+#@ <id_qnWDgs4EBB_5BD_YfNcYzOwrW>
+<Paul_Tillich>	<isKnownFor>	<Kairos> .
+#@ <id_AVyv2M2500_5BD_7P4sbac3eY>
+<Gabriel_Marcel>	<isKnownFor>	<Other> .
+#@ <id_WGglOfHqrc_5BD_0blBfMp16v>
+<Gaston_Bachelard>	<isKnownFor>	<Epistemological_rupture> .
+#@ <id_pW6A7TwzLB_5BD_!IqV?xE72p>
+<Susan_Strange>	<isKnownFor>	<International_political_economy> .
+#@ <id_WHNEuC7gB?_5BD_8OQGNhsGNj>
+<Peter_Geach>	<isKnownFor>	<Analytical_Thomism> .
+#@ <id_jcNTVnDwPu_5BD_bVwKZZ65Zd>
+<Tzvetan_Todorov>	<isKnownFor>	<Fantastic> .
+#@ <id_BmnhTda?mJ_5BD_pPFbeAo2ok>
+<James_Tobin>	<isKnownFor>	<Keynesian_economics> .
+#@ <id_5VBEvxNPmP_5BD_idFbeKWQ5u>
+<Oskar_Morgenstern>	<isKnownFor>	<Mathematical_economics> .
+#@ <id_l0kQ2zVOox_5BD_YMKvcYjQ5n>
+<Michel_Aflaq>	<isKnownFor>	<The_Battle_for_One_Destiny> .
+#@ <id_ISHuOQzli1_5BD_8ZmUzuYXOO>
+<Olga_Gorodetskaya>	<isKnownFor>	<Yangtze> .
+#@ <id_YZKj9FW?tI_5BD_Xf41fGVwIX>
+<Nikolay_Lossky>	<isKnownFor>	<Gnosiology> .
+#@ <id_RfjG!MZ7ge_5BD_6WB6n4uUiI>
+<Max_Hirsch_(economist)>	<isKnownFor>	<Austrian_School> .
+#@ <id_HkEqor567c_5BD_u7ZtF6EkkH>
+<Ludwig_Wittgenstein>	<isKnownFor>	<Anti-realism> .
+#@ <id_VEe1Les!HP_5BD_LllfCcZI5N>
+<Al-Shafi‘i>	<isKnownFor>	<Shafi'i> .
+#@ <id_PMLB9F!rry_5BD_ROOLis2Spc>
+<Ion_Dragoumis>	<isKnownFor>	<Greek_nationalism> .
+#@ <id_cEa06MX9R0_5BD_0NWTqmNaTH>
+<Abdul_Haq_(Islamic_scholar)>	<isKnownFor>	<Darul_Uloom_Haqqania> .
+#@ <id_fLHtNNXPoc_5BD_E?5u1eqz7?>
+<S._N._Balagangadhara>	<isKnownFor>	<Native_American_Renaissance> .
+#@ <id_niPRYSEXqG_5BD_h0GFHXi7nD>
+<Khwaja_Baqi_Billah>	<isKnownFor>	<Islamic_philosophy> .
+#@ <id_qoit46znCB_5BD_SlOzXy311D>
+<Arthur_Laffer>	<isKnownFor>	<Laffer_curve> .
+#@ <id_JXIcYX6vT9_5BD_3Q8GL4xoyZ>
+<Cornelius_Castoriadis>	<isKnownFor>	<Psyche_(psychology)> .
+#@ <id_2Ko6uAmnDm_5BD_69P0YW8dy4>
+<David_D._Friedman>	<isKnownFor>	<The_Machinery_of_Freedom> .
+#@ <id_7Ovz59m52N_5BD_87gIxLMIZP>
+<Victor_Cousin>	<isKnownFor>	<Substance_theory> .
+#@ <id_j9zd67wm6H_5BD_GjuvmCUod2>
+<Gilbert_Ryle>	<isKnownFor>	<Category_mistake> .
+#@ <id_oNgKm1ztxZ_5BD_cc8MBikuV3>
+<Christopher_A._Pissarides>	<isKnownFor>	<Matching_theory_(economics)> .
+#@ <id_?j9nXICuqD_5BD_cT5OZtY23c>
+<Jawdat_Said>	<isKnownFor>	<Islam> .
+#@ <id_f3xcRe3rzM_5BD_lSJqYQwunO>
+<Muhammad_Asad>	<isKnownFor>	<Islamic_state> .
+#@ <id_ClXaRKrAwK_5BD_kkWLYQfSNW>
+<John_Niemeyer_Findlay>	<isKnownFor>	<Rational_mysticism> .
+#@ <id_Le00UUdMMG_5BD_Z4CPdnX5JW>
+<Wilfrid_Sellars>	<isKnownFor>	<Critical_realism_(philosophy_of_perception)> .
+#@ <id_onPKVpKIFI_5BD_CbZmJw9Aj3>
+<Marc_Lavoie>	<isKnownFor>	<National_accounts> .
+#@ <id_PqccnFudLR_5BD_CDC4OZZaqM>
+<Arcesilaus>	<isKnownFor>	<Academic_skepticism> .
+#@ <id_nX926HlbFD_5BD_06!QbqMTaX>
+<Dimitri_Kitsikis>	<isKnownFor>	<Bektashi_Order> .
+#@ <id_yDNDE1JUi3_5BD_PNhN8dMsdv>
+<Louis_Hjelmslev>	<isKnownFor>	<Glossematics> .
+#@ <id_XtuIk0NrtC_5BD_JrweQYsL3t>
+<Louis_Althusser>	<isKnownFor>	<Interpellation_(philosophy)> .
+#@ <id_nz9N9fEIF0_5BD_YgTagZVXzQ>
+<Hans-Hermann_Hoppe>	<isKnownFor>	<Argumentation_ethics> .
+#@ <id_sB17qXmXFs_5BD_kp2Kkj?pTw>
+<Agustín_García_Calvo>	<isKnownFor>	<Übermensch> .
+#@ <id_t1PAUWZt5Z_5BD_MkHkdfsFYJ>
+<Muhammad_Husayn_Tabataba'i>	<isKnownFor>	<Quran> .
+#@ <id_G97rZBaKYd_5BD_Oa30kyZ8HF>
+<David_Carrier>	<isKnownFor>	<Analytic_philosophy> .
+#@ <id_IZrMP8Z!Kj_5BD_eiuPsYzv?g>
+<Xenocrates>	<isKnownFor>	<Plato> .
+#@ <id_fehwxBrDto_5BD_o8JAg7Dkbm>
+<Joseph_Schumpeter>	<isKnownFor>	<Economic_development> .
+#@ <id_HkEqor567c_5BD_sFhD4HnaoM>
+<Ludwig_Wittgenstein>	<isKnownFor>	<Ordinary_language_philosophy> .
+#@ <id_WxHqzEU2xG_5BD_5zNutrI1OG>
+<Amina_Wadud>	<isKnownFor>	<Women_as_imams> .
+#@ <id_7Doq3CJuou_5BD_S3qQwdeV5A>
+<Gilles_Deleuze>	<isKnownFor>	<Affect_(philosophy)> .
+#@ <id_1LwxSuKizr_5BD_9wjUyQVOFl>
+<Alvin_Plantinga>	<isKnownFor>	<Evolutionary_argument_against_naturalism> .
+#@ <id_mqQsTLc038_5BD_eXGw3xtkQb>
+<Empedocles>	<isKnownFor>	<Philotes_(mythology)> .
+#@ <id_n9gXGF4msL_5BD_SIyT?Fj4g!>
+<George_Akerlof>	<isKnownFor>	<Information_asymmetry> .
+#@ <id_aFA6U7?VH0_5BD_lSJqYQwunO>
+<Abul_A'la_Maududi>	<isKnownFor>	<Islamic_state> .
+#@ <id_nmknhJXeJ2_5BD_1o?lvBZJSS>
+<Georges_Sorel>	<isKnownFor>	<Sorelianism> .
+#@ <id_!Gl?Xu?bKN_5BD_Vg!?NItwW0>
+<Pierre_Bourdieu>	<isKnownFor>	<Field_(Bourdieu)> .
+#@ <id_xrxWhXgP40_5BD_PNNBOMXqn5>
+<Patrick_Suppes>	<isKnownFor>	<Predicate_(mathematical_logic)> .
+#@ <id_M2oc!sgdmS_5BD_vx9gmJD4iN>
+<Arthur_Schopenhauer>	<isKnownFor>	<Will_(philosophy)> .
+#@ <id_vQsrN8UDQ2_5BD_S0YstmCic5>
+<Sergei_Starostin>	<isKnownFor>	<Tibeto-Burman_languages> .
+#@ <id_0jpcfNzWso_5BD_woaVfIMJmT>
+<Emmanuel_Saez>	<isKnownFor>	<Economic_inequality> .
+#@ <id_Xsze79iScr_5BD_3!qvFhqMUA>
+<Norbert_Elias>	<isKnownFor>	<Habitus_(sociology)> .
+#@ <id_TALVtvOoj9_5BD_0SWjAxm8rg>
+<Pythagoras>	<isKnownFor>	<Golden_ratio> .
+#@ <id_APH5qGrvUD_5BD_8!bIIW8sde>
+<Karl_Popper>	<isKnownFor>	<Bold_hypothesis> .
+#@ <id_ux8zzuV9fS_5BD_hkEbyEgxn4>
+<Anaximander>	<isKnownFor>	<Apeiron_(cosmology)> .
+#@ <id_YfWlEK1xPS_5BD_JqBJjtb?VE>
+<Averroes>	<isKnownFor>	<Aristotelianism> .
+#@ <id_uEsophrnq3_5BD_7hyS7b2T7t>
+<Muhammad_al-Shaybani>	<isKnownFor>	<Fiqh> .
+#@ <id_7KFYKfPdKc_5BD_d9XdUw0asD>
+<Pierre_Duhem>	<isKnownFor>	<Gibbs–Duhem_equation> .
+#@ <id_ocl3BBqltQ_5BD_uMB7xSIJwm>
+<Rudolf_Carnap>	<isKnownFor>	<Constructed_language> .
+#@ <id_7Doq3CJuou_5BD_uW60NVVK81>
+<Gilles_Deleuze>	<isKnownFor>	<Univocity_of_being> .
+#@ <id_o8YIqMRIVu_5BD_DaRU2lR4Dx>
+<Christian_von_Ehrenfels>	<isKnownFor>	<Gestalt_psychology> .
+#@ <id_iX9DxqLnS3_5BD_NTNJf9HQ69>
+<John_Jefferson_Davis>	<isKnownFor>	<Just_war_theory> .
+#@ <id_kY4Xd99Pbj_5BD_tCX?AKf!Lo>
+<Guy_Debord>	<isKnownFor>	<Recuperation_(politics)> .
+#@ <id_e032Iz8ihX_5BD_MxNMAlP8Xs>
+<Kenneth_French>	<isKnownFor>	<Fama–French_three-factor_model> .
+#@ <id_47mmAOIQ4x_5BD_ic0O8!RYxX>
+<Muhammad_ibn_Musa_al-Khwarizmi>	<isKnownFor>	<Indian_numerals> .
+#@ <id_Zc5swB7nRC_5BD_Ym7lWsT6Vk>
+<James_Foster_(economist)>	<isKnownFor>	<Foster–Greer–Thorbecke_indices> .
+#@ <id_?DuJpJDQ9r_5BD_JkkVCletb3>
+<Aristotle>	<isKnownFor>	<On_the_Soul> .
+#@ <id_!4G3FVecTl_5BD_sNSqTuqm4G>
+<Kenneth_Arrow>	<isKnownFor>	<Endogenous_growth_theory> .
+#@ <id_t61Ff?FwZz_5BD_CX6PdFi7EY>
+<Harry_Markowitz>	<isKnownFor>	<Modern_portfolio_theory> .
+#@ <id_rhdxne1r?C_5BD_dqBVtKF?ox>
+<Jakob_Friedrich_Fries>	<isKnownFor>	<Critical_philosophy> .
+#@ <id_!ET3EutOof_5BD_kiaw?Pcr4k>
+<Marc_Melitz>	<isKnownFor>	<New_trade_theory> .
+#@ <id_QPAC7E4x21_5BD_7bk30XMvRc>
+<Gottfried_Wilhelm_Leibniz>	<isKnownFor>	<Calculus_ratiocinator> .
+#@ <id_eiuPsYzv?g_5BD_sam0xzeQiu>
+<Plato>	<isKnownFor>	<fr/Participation_(Platon)> .
+#@ <id_RdWZflxOsp_5BD_Kd4!FIqq9P>
+<Thales_of_Miletus>	<isKnownFor>	<Thales'_theorem> .
+#@ <id_gzJTadXtCy_5BD_eGYbeY4dIZ>
+<Harry_Frankfurt>	<isKnownFor>	<Frankfurt_cases> .
+#@ <id_?g?3gVqR6M_5BD_LtMo?wGr47>
+<João_Victor_Guedes>	<isKnownFor>	<Karl_Marx> .
+#@ <id_KHTjRUyM7r_5BD_B3xqy09akt>
+<Melissus_of_Samos>	<isKnownFor>	<Nothing_comes_from_nothing> .
+#@ <id_Y2ciByCP?b_5BD_LttifNwgeL>
+<Bruno_Latour>	<isKnownFor>	<Actor–network_theory> .
+#@ <id_9g4goxhsQU_5BD_WzElAusJZM>
+<Ibn_Tufail>	<isKnownFor>	<Philosophical_fiction> .
+#@ <id_F?qbfyIpEw_5BD_aoMEx7OmIj>
+<Jürgen_Habermas>	<isKnownFor>	<Constitutional_patriotism> .
+#@ <id_7Doq3CJuou_5BD_tMlidDOMrV>
+<Gilles_Deleuze>	<isKnownFor>	<fr/Micropolitique> .
+#@ <id_1u59lFp6xN_5BD_CJn5YeMxgK>
+<Gottfried_Feder>	<isKnownFor>	<Strasserism> .
+#@ <id_pk23RtKhWw_5BD_TwB?VBPoH2>
+<Carl_Gustav_Hempel>	<isKnownFor>	<Hempel's_dilemma> .
+#@ <id_vQsrN8UDQ2_5BD_LFyUiQKy78>
+<Sergei_Starostin>	<isKnownFor>	<Kiranti_languages> .
+#@ <id_gXF87fwq6y_5BD_cUqCCcWFoy>
+<de/Jean-Paul_Valabrega>	<isKnownFor>	<fr/Topique_(revue)> .
