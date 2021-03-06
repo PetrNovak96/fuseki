@@ -75,7 +75,7 @@ then
     FUSEKI_HOME=`cygpath -w "$FUSEKI_HOME"`
 fi
 
-export FUSEKI_BASE="${FUSEKI_BASE:-$PWD/run}"
+export FUSEKI_BASE="${FUSEKI_BASE:-/home/petnovak/github/fuseki/run}"
 
 if [ -z "$JAVA" ]
 then

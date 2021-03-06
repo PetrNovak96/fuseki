@@ -61,19 +61,28 @@
                   <span class="server-up"></span>
                 </a>
               </li>
+              <li>
+              	<div class="dataset-selector-container"></div>
+              </li>
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /row -->
       </div><!-- /container -->
     </nav>
 
-    <div class="container">
+    <div> <!-- tady byla class="container" -->
 
+      <!-- 
+      
+      Toto mi tu vadilo, dal jsem to navrch.
+      
       <div class="row">
         <div class="col-md-12">
           <div class="dataset-selector-container"></div>
         </div>
       </div>
+      
+      -->
 
       <div class="row">
         <div class="col-md-12">
@@ -92,11 +101,21 @@
                 <div class="with-dataset hidden">
                   <div class="row">
                     <div class="col-md-12">
+                      <!--
+                      
+                      Oddělal sem si to ztama, protože mě to tam sralo.
+                      
+                      
                       <h2>SPARQL query</h2>
                       <p>To try out some SPARQL queries against the selected dataset, enter your
                       query here.</p>
+                      
+                      -->
 
                       <div class="qonsole">
+                        
+                        <!--
+                        
                         <div class="col-md-12 well">
                           <h2 class="">Example queries</h2>
                           <ul class="list-inline examples">
@@ -113,6 +132,38 @@
                             </li>
                           </ul>
                         </div>
+                        
+                        -->
+                        
+                        <!-- edito -->
+                        
+                      	<div class="col-md-12 well">
+                          <div class="query-edit">
+                            <div id="query-edit-cm" class=""></div>
+                          </div>
+                        </div>
+
+                        <!-- results -->
+                        <div id="results-block" class="row sparql sparql-results">
+                          <div class="col-md-12">
+                            <div class="well">
+                              <div class="row">
+                                <div class="col-md-12">
+                                  <span class="loadingSpinner hidden">
+                                    <img src="images/wait30.gif" alt="waiting for server action to complete" />
+                                  </span>
+                                  <span class="timeTaken hidden"></span>
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-md-12" id="results">
+                                  <h2 class="col-md-12">Query results</h2>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        
                         <div class="col-md-12 well">
                             <div class="query-chrome" style="margin-top:0px; display:inline-block;vertical-align: top;width:40%;">
                                   <div class="form-group">
@@ -142,32 +193,6 @@
                                     </select>
                                   </div>
                             </div>
-                        </div>
-                        <div class="col-md-12 well">
-                          <div class="query-edit">
-                            <div id="query-edit-cm" class=""></div>
-                          </div>
-                        </div>
-
-                        <!-- results -->
-                        <div id="results-block" class="row sparql sparql-results">
-                          <div class="col-md-12">
-                            <div class="well">
-                              <div class="row">
-                                <div class="col-md-12">
-                                  <span class="loadingSpinner hidden">
-                                    <img src="images/wait30.gif" alt="waiting for server action to complete" />
-                                  </span>
-                                  <span class="timeTaken hidden"></span>
-                                </div>
-                              </div>
-                              <div class="row">
-                                <div class="col-md-12" id="results">
-                                  <h2 class="col-md-12">Query results</h2>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
                         </div>
 
                         <div class="row clearfix"></div>
